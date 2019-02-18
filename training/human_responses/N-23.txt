@@ -1,0 +1,287 @@
+N-23
+cumby-harlan
+12/5/2018	10:30:51 AM
+
+Participant	Participant	Session	Block	Trial	Event	Participant		Pressed Or	Correct	Error	Reaction
+Group	Name	ID	Name	Name	Name	Response	Key	Released	Response	Code	Time	Trial Answered	Categories	average
+Main Group	N-23		Training	Near, 17	Near (17, serve_battlefield.jpg)	Ok	 	Pressed	(based on tag)	E	6026		Harlan	undefined
+Main Group	N-23		Training	Near, 17	Near (17, serve_battlefield.jpg)	Harlan	'	Pressed	(based on tag)	SC	5593		Harlan	undefined
+Main Group	N-23		Training	Near, 3	Near (3, feature_dog.jpg)	Harlan	'	Pressed	(based on tag)	E	1561		Cumby	undefined
+Main Group	N-23		Training	Near, 10	Near (10, beach_fur.jpg)	Cumby	a	Pressed	(based on tag)	E	1797		Harlan	undefined
+Main Group	N-23		Training	Near, 8	Near (8, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	E	1033		Cumby	undefined
+Main Group	N-23		Training	Near, 7	Near (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	7851		Cumby	undefined
+Main Group	N-23		Training	Near, 1	Near (1, afford_gutter.jpg)	Harlan	'	Pressed	(based on tag)	E	1015		Cumby	undefined
+Main Group	N-23		Training	Near, 2	Near (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	1139		Cumby	undefined
+Main Group	N-23		Training	Near, 9	Near (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	736		Cumby	undefined
+Main Group	N-23		Training	Near, 6	Near (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	594		Cumby	undefined
+Main Group	N-23		Training	Near, 12	Near (12, cEmetErry_plAin.jpg)	Cumby	a	Pressed	(based on tag)	E	983		Harlan	undefined
+Main Group	N-23		Training	Near, 13	Near (13, crowd_eat.jpg)	Harlan	'	Pressed	(based on tag)	C	776		Harlan	undefined
+Main Group	N-23		Training	Near, 15	Near (15, friend_Koran.jpg)	Harlan	'	Pressed	(based on tag)	C	1781		Harlan	undefined
+Main Group	N-23		Training	Near, 14	Near (14, destruction_conscience.jpg)	Cumby	a	Pressed	(based on tag)	E	907		Harlan	undefined
+Main Group	N-23		Training	Near, 5	Near (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	483		Cumby	undefined
+Main Group	N-23		Training	Near, 4	Near (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	822		Cumby	undefined
+Main Group	N-23		Training	Near, 16	Near (16, nose_mArrvELouS.jpg)	Harlan	'	Pressed	(based on tag)	C	565		Harlan	undefined
+Main Group	N-23		Training	Near, 11	Near (11, bLAND_bLACk.jpg)	Cumby	a	Pressed	(based on tag)	E	1426		Harlan	undefined
+Main Group	N-23		Training	Near, 18	Near (18, TAMe_ClASSY.jpg)	Harlan	'	Pressed	(based on tag)	C	586		Harlan	undefined
+Main Group	N-23		Training	Near, 9	Near (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	934		Cumby	undefined
+Main Group	N-23		Training	Near, 16	Near (16, nose_mArrvELouS.jpg)	Cumby	a	Pressed	(based on tag)	E	4075		Harlan	undefined
+Main Group	N-23		Training	Near, 11	Near (11, bLAND_bLACk.jpg)	Harlan	'	Pressed	(based on tag)	C	692		Harlan	undefined
+Main Group	N-23		Training	Near, 10	Near (10, beach_fur.jpg)	Harlan	'	Pressed	(based on tag)	C	958		Harlan	undefined
+Main Group	N-23		Training	Near, 7	Near (7, QueUe_dApPer.jpg)	Harlan	'	Pressed	(based on tag)	E	985		Cumby	undefined
+Main Group	N-23		Training	Near, 5	Near (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	896		Cumby	undefined
+Main Group	N-23		Training	Near, 4	Near (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	1440		Cumby	undefined
+Main Group	N-23		Training	Near, 17	Near (17, serve_battlefield.jpg)	Cumby	a	Pressed	(based on tag)	E	2603		Harlan	undefined
+Main Group	N-23		Training	Near, 15	Near (15, friend_Koran.jpg)	Harlan	'	Pressed	(based on tag)	C	2880		Harlan	undefined
+Main Group	N-23		Training	Near, 6	Near (6, prr0teSt_intEnd.jpg)	Harlan	'	Pressed	(based on tag)	E	1985		Cumby	undefined
+Main Group	N-23		Training	Near, 1	Near (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	1785		Cumby	undefined
+Main Group	N-23		Training	Near, 14	Near (14, destruction_conscience.jpg)	Cumby	a	Pressed	(based on tag)	E	1338		Harlan	undefined
+Main Group	N-23		Training	Near, 13	Near (13, crowd_eat.jpg)	Harlan	'	Pressed	(based on tag)	C	1697		Harlan	undefined
+Main Group	N-23		Training	Near, 18	Near (18, TAMe_ClASSY.jpg)	Harlan	'	Pressed	(based on tag)	C	2112		Harlan	undefined
+Main Group	N-23		Training	Near, 3	Near (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	2022		Cumby	undefined
+Main Group	N-23		Training	Near, 8	Near (8, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	E	2591		Cumby	undefined
+Main Group	N-23		Training	Near, 2	Near (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	4367		Cumby	undefined
+Main Group	N-23		Training	Near, 12	Near (12, cEmetErry_plAin.jpg)	Harlan	'	Pressed	(based on tag)	C	1658		Harlan	undefined
+Main Group	N-23		Training	Near, 18	Near (18, TAMe_ClASSY.jpg)	Harlan	'	Pressed	(based on tag)	C	1284		Harlan	undefined
+Main Group	N-23		Training	Near, 10	Near (10, beach_fur.jpg)	Harlan	'	Pressed	(based on tag)	C	1031		Harlan	undefined
+Main Group	N-23		Training	Near, 9	Near (9, structure_mention.jpg)	Harlan	'	Pressed	(based on tag)	E	588		Cumby	undefined
+Main Group	N-23		Training	Near, 7	Near (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	285		Cumby	undefined
+Main Group	N-23		Training	Near, 17	Near (17, serve_battlefield.jpg)	Cumby	a	Pressed	(based on tag)	E	570		Harlan	undefined
+Main Group	N-23		Training	Near, 2	Near (2, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	E	260		Cumby	undefined
+Main Group	N-23		Training	Near, 12	Near (12, cEmetErry_plAin.jpg)	Cumby	a	Pressed	(based on tag)	E	233		Harlan	undefined
+Main Group	N-23		Training	Near, 13	Near (13, crowd_eat.jpg)	Harlan	'	Pressed	(based on tag)	C	274		Harlan	undefined
+Main Group	N-23		Training	Near, 5	Near (5, NIce_bOUnCY.jpg)	Harlan	'	Pressed	(based on tag)	E	311		Cumby	undefined
+Main Group	N-23		Training	Near, 15	Near (15, friend_Koran.jpg)	Cumby	a	Pressed	(based on tag)	E	450		Harlan	undefined
+Main Group	N-23		Training	Near, 14	Near (14, destruction_conscience.jpg)	Harlan	'	Pressed	(based on tag)	C	231		Harlan	undefined
+Main Group	N-23		Training	Near, 6	Near (6, prr0teSt_intEnd.jpg)	Harlan	'	Pressed	(based on tag)	E	283		Cumby	undefined
+Main Group	N-23		Training	Near, 1	Near (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	63		Cumby	undefined
+Main Group	N-23		Training	Near, 16	Near (16, nose_mArrvELouS.jpg)	Ok	 	Pressed	(based on tag)	E	442		Harlan	undefined
+Main Group	N-23		Training	Near, 16	Near (16, nose_mArrvELouS.jpg)	Cumby	a	Pressed	(based on tag)	E	210		Harlan	undefined
+Main Group	N-23		Training	Near, 11	Near (11, bLAND_bLACk.jpg)	Harlan	'	Pressed	(based on tag)	C	232		Harlan	undefined
+Main Group	N-23		Training	Near, 3	Near (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	328		Cumby	undefined
+Main Group	N-23		Training	Near, 8	Near (8, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	E	341		Cumby	undefined
+Main Group	N-23		Training	Near, 4	Near (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	243		Cumby	undefined
+Main Group	N-23		Training	Near, 14	Near (14, destruction_conscience.jpg)	Cumby	a	Pressed	(based on tag)	E	807		Harlan	undefined
+Main Group	N-23		Training	Near, 8	Near (8, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	E	265		Cumby	undefined
+Main Group	N-23		Training	Near, 18	Near (18, TAMe_ClASSY.jpg)	Cumby	a	Pressed	(based on tag)	E	188		Harlan	undefined
+Main Group	N-23		Training	Near, 4	Near (4, GiraFFe_nEck.jpg)	Harlan	'	Pressed	(based on tag)	E	273		Cumby	undefined
+Main Group	N-23		Training	Near, 12	Near (12, cEmetErry_plAin.jpg)	Cumby	a	Pressed	(based on tag)	E	150		Harlan	undefined
+Main Group	N-23		Training	Near, 16	Near (16, nose_mArrvELouS.jpg)	Harlan	'	Pressed	(based on tag)	C	269		Harlan	undefined
+Main Group	N-23		Training	Near, 3	Near (3, feature_dog.jpg)	Harlan	'	Pressed	(based on tag)	E	491		Cumby	undefined
+Main Group	N-23		Training	Near, 1	Near (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	547		Cumby	undefined
+Main Group	N-23		Training	Near, 6	Near (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	633		Cumby	undefined
+Main Group	N-23		Training	Near, 9	Near (9, structure_mention.jpg)	Harlan	'	Pressed	(based on tag)	E	1138		Cumby	undefined
+Main Group	N-23		Training	Near, 17	Near (17, serve_battlefield.jpg)	Cumby	a	Pressed	(based on tag)	E	297		Harlan	undefined
+Main Group	N-23		Training	Near, 2	Near (2, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	E	233		Cumby	undefined
+Main Group	N-23		Training	Near, 11	Near (11, bLAND_bLACk.jpg)	Cumby	a	Pressed	(based on tag)	E	205		Harlan	undefined
+Main Group	N-23		Training	Near, 10	Near (10, beach_fur.jpg)	Harlan	'	Pressed	(based on tag)	C	69		Harlan	undefined
+Main Group	N-23		Training	Near, 7	Near (7, QueUe_dApPer.jpg)	Harlan	'	Pressed	(based on tag)	E	481		Cumby	undefined
+Main Group	N-23		Training	Near, 15	Near (15, friend_Koran.jpg)	Cumby	a	Pressed	(based on tag)	E	228		Harlan	undefined
+Main Group	N-23		Training	Near, 5	Near (5, NIce_bOUnCY.jpg)	Harlan	'	Pressed	(based on tag)	E	223		Cumby	undefined
+Main Group	N-23		Training	Near, 13	Near (13, crowd_eat.jpg)	Harlan	'	Pressed	(based on tag)	C	585		Harlan	undefined
+Main Group	N-23		Training	Near, 14	Near (14, destruction_conscience.jpg)	Harlan	'	Pressed	(based on tag)	C	673		Harlan	undefined
+Main Group	N-23		Training	Near, 2	Near (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	544		Cumby	undefined
+Main Group	N-23		Training	Near, 8	Near (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	1125		Cumby	undefined
+Main Group	N-23		Training	Near, 4	Near (4, GiraFFe_nEck.jpg)	Harlan	'	Pressed	(based on tag)	E	1434		Cumby	undefined
+Main Group	N-23		Training	Near, 1	Near (1, afford_gutter.jpg)	Harlan	'	Pressed	(based on tag)	E	785		Cumby	undefined
+Main Group	N-23		Training	Near, 13	Near (13, crowd_eat.jpg)	Harlan	'	Pressed	(based on tag)	C	680		Harlan	undefined
+Main Group	N-23		Training	Near, 15	Near (15, friend_Koran.jpg)	Harlan	'	Pressed	(based on tag)	C	580		Harlan	undefined
+Main Group	N-23		Training	Near, 3	Near (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	633		Cumby	undefined
+Main Group	N-23		Training	Near, 12	Near (12, cEmetErry_plAin.jpg)	Harlan	'	Pressed	(based on tag)	C	867		Harlan	undefined
+Main Group	N-23		Training	Near, 17	Near (17, serve_battlefield.jpg)	Cumby	a	Pressed	(based on tag)	E	1136		Harlan	undefined
+Main Group	N-23		Training	Near, 11	Near (11, bLAND_bLACk.jpg)	Cumby	a	Pressed	(based on tag)	E	1528		Harlan	undefined
+Main Group	N-23		Training	Near, 10	Near (10, beach_fur.jpg)	Harlan	'	Pressed	(based on tag)	C	712		Harlan	undefined
+Main Group	N-23		Training	Near, 16	Near (16, nose_mArrvELouS.jpg)	Harlan	'	Pressed	(based on tag)	C	1221		Harlan	undefined
+Main Group	N-23		Training	Near, 5	Near (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	617		Cumby	undefined
+Main Group	N-23		Training	Near, 6	Near (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	636		Cumby	undefined
+Main Group	N-23		Training	Near, 7	Near (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	614		Cumby	undefined
+Main Group	N-23		Training	Near, 9	Near (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	550		Cumby	undefined
+Main Group	N-23		Training	Near, 18	Near (18, TAMe_ClASSY.jpg)	Cumby	a	Pressed	(based on tag)	E	813		Harlan	undefined
+Main Group	N-23		Training	Near, 14	Near (14, destruction_conscience.jpg)	Harlan	'	Pressed	(based on tag)	C	531		Harlan	undefined
+Main Group	N-23		Training	Near, 17	Near (17, serve_battlefield.jpg)	Cumby	a	Pressed	(based on tag)	E	1008		Harlan	undefined
+Main Group	N-23		Training	Near, 13	Near (13, crowd_eat.jpg)	Harlan	'	Pressed	(based on tag)	C	691		Harlan	undefined
+Main Group	N-23		Training	Near, 5	Near (5, NIce_bOUnCY.jpg)	Harlan	'	Pressed	(based on tag)	E	760		Cumby	undefined
+Main Group	N-23		Training	Near, 11	Near (11, bLAND_bLACk.jpg)	Cumby	a	Pressed	(based on tag)	E	240		Harlan	undefined
+Main Group	N-23		Training	Near, 2	Near (2, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	E	244		Cumby	undefined
+Main Group	N-23		Training	Near, 8	Near (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	134		Cumby	undefined
+Main Group	N-23		Training	Near, 10	Near (10, beach_fur.jpg)	Harlan	'	Pressed	(based on tag)	C	643		Harlan	undefined
+Main Group	N-23		Training	Near, 7	Near (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	376		Cumby	undefined
+Main Group	N-23		Training	Near, 18	Near (18, TAMe_ClASSY.jpg)	Harlan	'	Pressed	(based on tag)	C	337		Harlan	undefined
+Main Group	N-23		Training	Near, 1	Near (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	368		Cumby	undefined
+Main Group	N-23		Training	Near, 12	Near (12, cEmetErry_plAin.jpg)	Harlan	'	Pressed	(based on tag)	C	587		Harlan	undefined
+Main Group	N-23		Training	Near, 9	Near (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	504		Cumby	undefined
+Main Group	N-23		Training	Near, 3	Near (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	1830		Cumby	undefined
+Main Group	N-23		Training	Near, 6	Near (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	807		Cumby	undefined
+Main Group	N-23		Training	Near, 16	Near (16, nose_mArrvELouS.jpg)	Cumby	a	Pressed	(based on tag)	E	1382		Harlan	undefined
+Main Group	N-23		Training	Near, 15	Near (15, friend_Koran.jpg)	Harlan	'	Pressed	(based on tag)	C	1232		Harlan	undefined
+Main Group	N-23		Training	Near, 4	Near (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	1819		Cumby	undefined
+Main Group	N-23		Training	Near, 9	Near (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	1133		Cumby	undefined
+Main Group	N-23		Training	Near, 16	Near (16, nose_mArrvELouS.jpg)	Cumby	a	Pressed	(based on tag)	E	457		Harlan	undefined
+Main Group	N-23		Training	Near, 8	Near (8, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	E	1337		Cumby	undefined
+Main Group	N-23		Training	Near, 10	Near (10, beach_fur.jpg)	Cumby	a	Pressed	(based on tag)	E	943		Harlan	undefined
+Main Group	N-23		Training	Near, 7	Near (7, QueUe_dApPer.jpg)	Harlan	'	Pressed	(based on tag)	E	374		Cumby	undefined
+Main Group	N-23		Training	Near, 15	Near (15, friend_Koran.jpg)	Ok	 	Pressed	(based on tag)	E	359		Harlan	undefined
+Main Group	N-23		Training	Near, 15	Near (15, friend_Koran.jpg)	Ok	 	Pressed	(based on tag)	E	439		Harlan	undefined
+Main Group	N-23		Training	Near, 15	Near (15, friend_Koran.jpg)	Harlan	'	Pressed	(based on tag)	SC	265		Harlan	undefined
+Main Group	N-23		Training	Near, 12	Near (12, cEmetErry_plAin.jpg)	Harlan	'	Pressed	(based on tag)	C	305		Harlan	undefined
+Main Group	N-23		Training	Near, 4	Near (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	1238		Cumby	undefined
+Main Group	N-23		Training	Near, 13	Near (13, crowd_eat.jpg)	Cumby	a	Pressed	(based on tag)	E	1238		Harlan	undefined
+Main Group	N-23		Training	Near, 3	Near (3, feature_dog.jpg)	Harlan	'	Pressed	(based on tag)	E	1266		Cumby	undefined
+Main Group	N-23		Training	Near, 17	Near (17, serve_battlefield.jpg)	Cumby	a	Pressed	(based on tag)	E	312		Harlan	undefined
+Main Group	N-23		Training	Near, 18	Near (18, TAMe_ClASSY.jpg)	Harlan	'	Pressed	(based on tag)	C	321		Harlan	undefined
+Main Group	N-23		Training	Near, 14	Near (14, destruction_conscience.jpg)	Harlan	'	Pressed	(based on tag)	C	420		Harlan	undefined
+Main Group	N-23		Training	Near, 11	Near (11, bLAND_bLACk.jpg)	Harlan	'	Pressed	(based on tag)	C	620		Harlan	undefined
+Main Group	N-23		Training	Near, 1	Near (1, afford_gutter.jpg)	Harlan	'	Pressed	(based on tag)	E	993		Cumby	undefined
+Main Group	N-23		Training	Near, 6	Near (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	578		Cumby	undefined
+Main Group	N-23		Training	Near, 5	Near (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	276		Cumby	undefined
+Main Group	N-23		Training	Near, 2	Near (2, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	E	842		Cumby	undefined
+Main Group	N-23		Training	Near, 2	Near (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	114		Cumby	undefined
+Main Group	N-23		Training	Near, 13	Near (13, crowd_eat.jpg)	Harlan	'	Pressed	(based on tag)	C	658		Harlan	undefined
+Main Group	N-23		Training	Near, 6	Near (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	1277		Cumby	undefined
+Main Group	N-23		Training	Near, 3	Near (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	810		Cumby	undefined
+Main Group	N-23		Training	Near, 18	Near (18, TAMe_ClASSY.jpg)	Harlan	'	Pressed	(based on tag)	C	690		Harlan	undefined
+Main Group	N-23		Training	Near, 17	Near (17, serve_battlefield.jpg)	Harlan	'	Pressed	(based on tag)	C	1136		Harlan	undefined
+Main Group	N-23		Training	Near, 10	Near (10, beach_fur.jpg)	Harlan	'	Pressed	(based on tag)	C	608		Harlan	undefined
+Main Group	N-23		Training	Near, 15	Near (15, friend_Koran.jpg)	Harlan	'	Pressed	(based on tag)	C	732		Harlan	undefined
+Main Group	N-23		Training	Near, 12	Near (12, cEmetErry_plAin.jpg)	Harlan	'	Pressed	(based on tag)	C	623		Harlan	undefined
+Main Group	N-23		Training	Near, 7	Near (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	988		Cumby	undefined
+Main Group	N-23		Training	Near, 8	Near (8, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	E	772		Cumby	undefined
+Main Group	N-23		Training	Near, 14	Near (14, destruction_conscience.jpg)	Harlan	'	Pressed	(based on tag)	C	724		Harlan	undefined
+Main Group	N-23		Training	Near, 16	Near (16, nose_mArrvELouS.jpg)	Harlan	'	Pressed	(based on tag)	C	973		Harlan	undefined
+Main Group	N-23		Training	Near, 4	Near (4, GiraFFe_nEck.jpg)	Harlan	'	Pressed	(based on tag)	E	511		Cumby	undefined
+Main Group	N-23		Training	Near, 9	Near (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	292		Cumby	undefined
+Main Group	N-23		Training	Near, 11	Near (11, bLAND_bLACk.jpg)	Cumby	a	Pressed	(based on tag)	E	247		Harlan	undefined
+Main Group	N-23		Training	Near, 1	Near (1, afford_gutter.jpg)	Harlan	'	Pressed	(based on tag)	E	307		Cumby	undefined
+Main Group	N-23		Training	Near, 5	Near (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	230		Cumby	undefined
+Main Group	N-23		Training	Near, 2	Near (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	241		Cumby	undefined
+Main Group	N-23		Training	Near, 16	Near (16, nose_mArrvELouS.jpg)	Harlan	'	Pressed	(based on tag)	C	599		Harlan	undefined
+Main Group	N-23		Training	Near, 14	Near (14, destruction_conscience.jpg)	Harlan	'	Pressed	(based on tag)	C	418		Harlan	undefined
+Main Group	N-23		Training	Near, 3	Near (3, feature_dog.jpg)	Harlan	'	Pressed	(based on tag)	E	381		Cumby	undefined
+Main Group	N-23		Training	Near, 15	Near (15, friend_Koran.jpg)	Cumby	a	Pressed	(based on tag)	E	272		Harlan	undefined
+Main Group	N-23		Training	Near, 12	Near (12, cEmetErry_plAin.jpg)	Harlan	'	Pressed	(based on tag)	C	261		Harlan	undefined
+Main Group	N-23		Training	Near, 13	Near (13, crowd_eat.jpg)	Harlan	'	Pressed	(based on tag)	C	728		Harlan	undefined
+Main Group	N-23		Training	Near, 17	Near (17, serve_battlefield.jpg)	Harlan	'	Pressed	(based on tag)	C	489		Harlan	undefined
+Main Group	N-23		Training	Near, 8	Near (8, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	E	282		Cumby	undefined
+Main Group	N-23		Training	Near, 5	Near (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	241		Cumby	undefined
+Main Group	N-23		Training	Near, 11	Near (11, bLAND_bLACk.jpg)	Cumby	a	Pressed	(based on tag)	E	216		Harlan	undefined
+Main Group	N-23		Training	Near, 18	Near (18, TAMe_ClASSY.jpg)	Harlan	'	Pressed	(based on tag)	C	236		Harlan	undefined
+Main Group	N-23		Training	Near, 9	Near (9, structure_mention.jpg)	Harlan	'	Pressed	(based on tag)	E	271		Cumby	undefined
+Main Group	N-23		Training	Near, 7	Near (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	216		Cumby	undefined
+Main Group	N-23		Training	Near, 4	Near (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	322		Cumby	undefined
+Main Group	N-23		Training	Near, 1	Near (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	396		Cumby	undefined
+Main Group	N-23		Training	Near, 10	Near (10, beach_fur.jpg)	Cumby	a	Pressed	(based on tag)	E	298		Harlan	undefined
+Main Group	N-23		Training	Near, 6	Near (6, prr0teSt_intEnd.jpg)	Harlan	'	Pressed	(based on tag)	E	861		Cumby	undefined
+Main Group	N-23		Training	Near, 1	Near (1, afford_gutter.jpg)	Harlan	'	Pressed	(based on tag)	E	301		Cumby	undefined
+Main Group	N-23		Training	Near, 15	Near (15, friend_Koran.jpg)	Harlan	'	Pressed	(based on tag)	C	238		Harlan	undefined
+Main Group	N-23		Training	Near, 8	Near (8, REqUEst_ReCoGNise.jpg)	Ok	 	Pressed	(based on tag)	E	156		Cumby	undefined
+Main Group	N-23		Training	Near, 8	Near (8, REqUEst_ReCoGNise.jpg)	Ok	 	Pressed	(based on tag)	E	57		Cumby	undefined
+Main Group	N-23		Training	Near, 8	Near (8, REqUEst_ReCoGNise.jpg)	Ok	 	Pressed	(based on tag)	E	125		Cumby	undefined
+Main Group	N-23		Training	Near, 8	Near (8, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	E	7		Cumby	undefined
+Main Group	N-23		Training	Near, 7	Near (7, QueUe_dApPer.jpg)	Harlan	'	Pressed	(based on tag)	E	309		Cumby	undefined
+Main Group	N-23		Training	Near, 14	Near (14, destruction_conscience.jpg)	Cumby	a	Pressed	(based on tag)	E	2928		Harlan	undefined
+Main Group	N-23		Training	Near, 18	Near (18, TAMe_ClASSY.jpg)	Harlan	'	Pressed	(based on tag)	C	547		Harlan	undefined
+Main Group	N-23		Training	Near, 10	Near (10, beach_fur.jpg)	Harlan	'	Pressed	(based on tag)	C	469		Harlan	undefined
+Main Group	N-23		Training	Near, 12	Near (12, cEmetErry_plAin.jpg)	Harlan	'	Pressed	(based on tag)	C	1858		Harlan	undefined
+Main Group	N-23		Training	Near, 4	Near (4, GiraFFe_nEck.jpg)	Harlan	'	Pressed	(based on tag)	E	482		Cumby	undefined
+Main Group	N-23		Training	Near, 9	Near (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	801		Cumby	undefined
+Main Group	N-23		Training	Near, 13	Near (13, crowd_eat.jpg)	Cumby	a	Pressed	(based on tag)	E	243		Harlan	undefined
+Main Group	N-23		Training	Near, 16	Near (16, nose_mArrvELouS.jpg)	Harlan	'	Pressed	(based on tag)	C	293		Harlan	undefined
+Main Group	N-23		Training	Near, 11	Near (11, bLAND_bLACk.jpg)	Harlan	'	Pressed	(based on tag)	C	509		Harlan	undefined
+Main Group	N-23		Training	Near, 2	Near (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	1363		Cumby	undefined
+Main Group	N-23		Training	Near, 6	Near (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	780		Cumby	undefined
+Main Group	N-23		Training	Near, 3	Near (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	840		Cumby	undefined
+Main Group	N-23		Training	Near, 17	Near (17, serve_battlefield.jpg)	Cumby	a	Pressed	(based on tag)	E	338		Harlan	undefined
+Main Group	N-23		Training	Near, 5	Near (5, NIce_bOUnCY.jpg)	Ok	 	Pressed	(based on tag)	E	849		Cumby	undefined
+Main Group	N-23		Training	Near, 5	Near (5, NIce_bOUnCY.jpg)	Ok	 	Pressed	(based on tag)	E	455		Cumby	undefined
+Main Group	N-23		Training	Near, 5	Near (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	SC	194		Cumby	undefined
+Main Group	N-23		Training	Near, 9	Near (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	513		Cumby	undefined
+Main Group	N-23		Training	Near, 5	Near (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	1751		Cumby	undefined
+Main Group	N-23		Training	Near, 1	Near (1, afford_gutter.jpg)	Ok	 	Pressed	(based on tag)	E	13602		Cumby	undefined
+Main Group	N-23		Training	Near, 1	Near (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	SC	115		Cumby	undefined
+Main Group	N-23		Training	Near, 15	Near (15, friend_Koran.jpg)	Cumby	a	Pressed	(based on tag)	E	135		Harlan	undefined
+Main Group	N-23		Training	Near, 16	Near (16, nose_mArrvELouS.jpg)	Ok	 	Pressed	(based on tag)	E	337		Harlan	undefined
+Main Group	N-23		Training	Near, 16	Near (16, nose_mArrvELouS.jpg)	Cumby	a	Pressed	(based on tag)	E	40		Harlan	undefined
+Main Group	N-23		Training	Near, 18	Near (18, TAMe_ClASSY.jpg)	Ok	 	Pressed	(based on tag)	E	404		Harlan	undefined
+Main Group	N-23		Training	Near, 18	Near (18, TAMe_ClASSY.jpg)	Ok	 	Pressed	(based on tag)	E	137		Harlan	undefined
+Main Group	N-23		Training	Near, 18	Near (18, TAMe_ClASSY.jpg)	Ok	 	Pressed	(based on tag)	E	169		Harlan	undefined
+Main Group	N-23		Training	Near, 18	Near (18, TAMe_ClASSY.jpg)	Ok	 	Pressed	(based on tag)	E	249		Harlan	undefined
+Main Group	N-23		Training	Near, 18	Near (18, TAMe_ClASSY.jpg)	Ok	 	Pressed	(based on tag)	E	321		Harlan	undefined
+Main Group	N-23		Training	Near, 18	Near (18, TAMe_ClASSY.jpg)	Cumby	a	Pressed	(based on tag)	E	124		Harlan	undefined
+Main Group	N-23		Training	Near, 12	Near (12, cEmetErry_plAin.jpg)	Ok	 	Pressed	(based on tag)	E	482		Harlan	undefined
+Main Group	N-23		Training	Near, 12	Near (12, cEmetErry_plAin.jpg)	Cumby	a	Pressed	(based on tag)	E	1747		Harlan	undefined
+Main Group	N-23		Training	Near, 6	Near (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	868		Cumby	undefined
+Main Group	N-23		Training	Near, 10	Near (10, beach_fur.jpg)	Harlan	'	Pressed	(based on tag)	C	1412		Harlan	undefined
+Main Group	N-23		Training	Near, 4	Near (4, GiraFFe_nEck.jpg)	Harlan	'	Pressed	(based on tag)	E	657		Cumby	undefined
+Main Group	N-23		Training	Near, 17	Near (17, serve_battlefield.jpg)	Harlan	'	Pressed	(based on tag)	C	421		Harlan	undefined
+Main Group	N-23		Training	Near, 13	Near (13, crowd_eat.jpg)	Harlan	'	Pressed	(based on tag)	C	243		Harlan	undefined
+Main Group	N-23		Training	Near, 7	Near (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	869		Cumby	undefined
+Main Group	N-23		Training	Near, 14	Near (14, destruction_conscience.jpg)	Cumby	a	Pressed	(based on tag)	E	684		Harlan	undefined
+Main Group	N-23		Training	Near, 8	Near (8, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	E	454		Cumby	undefined
+Main Group	N-23		Training	Near, 11	Near (11, bLAND_bLACk.jpg)	Cumby	a	Pressed	(based on tag)	E	242		Harlan	undefined
+Main Group	N-23		Training	Near, 2	Near (2, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	E	134		Cumby	undefined
+Main Group	N-23		Training	Near, 3	Near (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	789		Cumby	undefined
+Main Group	N-23		Training	Near, 12	Near (12, cEmetErry_plAin.jpg)	Harlan	'	Pressed	(based on tag)	C	1834		Harlan	undefined
+Main Group	N-23		Training	Near, 11	Near (11, bLAND_bLACk.jpg)	Harlan	'	Pressed	(based on tag)	C	810		Harlan	undefined
+Main Group	N-23		Training	Near, 10	Near (10, beach_fur.jpg)	Harlan	'	Pressed	(based on tag)	C	659		Harlan	undefined
+Main Group	N-23		Training	Near, 7	Near (7, QueUe_dApPer.jpg)	Harlan	'	Pressed	(based on tag)	E	414		Cumby	undefined
+Main Group	N-23		Training	Near, 14	Near (14, destruction_conscience.jpg)	Cumby	a	Pressed	(based on tag)	E	64		Harlan	undefined
+Main Group	N-23		Training	Near, 1	Near (1, afford_gutter.jpg)	Harlan	'	Pressed	(based on tag)	E	247		Cumby	undefined
+Main Group	N-23		Training	Near, 9	Near (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	128		Cumby	undefined
+Main Group	N-23		Training	Near, 8	Near (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	257		Cumby	undefined
+Main Group	N-23		Training	Near, 13	Near (13, crowd_eat.jpg)	Cumby	a	Pressed	(based on tag)	E	246		Harlan	undefined
+Main Group	N-23		Training	Near, 2	Near (2, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	E	301		Cumby	undefined
+Main Group	N-23		Training	Near, 17	Near (17, serve_battlefield.jpg)	Cumby	a	Pressed	(based on tag)	E	1470		Harlan	undefined
+Main Group	N-23		Training	Near, 3	Near (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	919		Cumby	undefined
+Main Group	N-23		Training	Near, 15	Near (15, friend_Koran.jpg)	Harlan	'	Pressed	(based on tag)	C	807		Harlan	undefined
+Main Group	N-23		Training	Near, 5	Near (5, NIce_bOUnCY.jpg)	Harlan	'	Pressed	(based on tag)	E	520		Cumby	undefined
+Main Group	N-23		Training	Near, 4	Near (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	618		Cumby	undefined
+Main Group	N-23		Training	Near, 6	Near (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	921		Cumby	undefined
+Main Group	N-23		Training	Near, 16	Near (16, nose_mArrvELouS.jpg)	Harlan	'	Pressed	(based on tag)	C	1212		Harlan	undefined
+Main Group	N-23		Training	Near, 18	Near (18, TAMe_ClASSY.jpg)	Harlan	'	Pressed	(based on tag)	C	1061		Harlan	undefined
+Main Group	N-23		End	Test, 26	Test (26, publicity_commemorate.jpg)	Cumby	a	Pressed	(any response)	C	908			undefined
+Main Group	N-23		End	Test, 25	Test (25, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(any response)	C	569			undefined
+Main Group	N-23		End	Test, 12	Test (12, feature_dog.jpg)	Cumby	a	Pressed	(any response)	C	911			undefined
+Main Group	N-23		End	Test, 13	Test (13, fireCRaCker_bRIDgE.jpg)	Harlan	'	Pressed	(any response)	C	1229			undefined
+Main Group	N-23		End	Test, 38	Test (38, source_low.jpg)	Harlan	'	Pressed	(any response)	C	382			undefined
+Main Group	N-23		End	Test, 34	Test (34, serve_battlefield.jpg)	Ok	 	Pressed	(any response)	C	25			undefined
+Main Group	N-23		End	Test, 37	Test (37, soap_marble.jpg)	Harlan	'	Pressed	(any response)	C	330			undefined
+Main Group	N-23		End	Test, 32	Test (32, sausage_selection.jpg)	Ok	 	Pressed	(any response)	C	112			undefined
+Main Group	N-23		End	Test, 35	Test (35, shareholder_air.jpg)	Harlan	'	Pressed	(any response)	C	537			undefined
+Main Group	N-23		End	Test, 31	Test (31, rOSe_ENdUrabLE.jpg)	Cumby	a	Pressed	(any response)	C	886			undefined
+Main Group	N-23		End	Test, 39	Test (39, StrrAngEr_Dress.jpg)	Harlan	'	Pressed	(any response)	C	541			undefined
+Main Group	N-23		End	Test, 6	Test (6, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(any response)	C	330			undefined
+Main Group	N-23		End	Test, 19	Test (19, lily_inappropriate.jpg)	Harlan	'	Pressed	(any response)	C	329			undefined
+Main Group	N-23		End	Test, 43	Test (43, technology_burst.jpg)	Cumby	a	Pressed	(any response)	C	578			undefined
+Main Group	N-23		End	Test, 10	Test (10, destruction_conscience.jpg)	Harlan	'	Pressed	(any response)	C	399			undefined
+Main Group	N-23		End	Test, 33	Test (33, sense_scandalous.jpg)	Ok	 	Pressed	(any response)	C	318			undefined
+Main Group	N-23		End	Test, 48	Test (48, wIld_ChEss.jpg)	Harlan	'	Pressed	(any response)	C	267			undefined
+Main Group	N-23		End	Test, 5	Test (5, boundary_head.jpg)	Harlan	'	Pressed	(any response)	C	477			undefined
+Main Group	N-23		End	Test, 44	Test (44, technology_circle.jpg)	Cumby	a	Pressed	(any response)	C	711			undefined
+Main Group	N-23		End	Test, 46	Test (46, trait_basket.jpg)	Harlan	'	Pressed	(any response)	C	1013			undefined
+Main Group	N-23		End	Test, 40	Test (40, structure_mention.jpg)	Cumby	a	Pressed	(any response)	C	1123			undefined
+Main Group	N-23		End	Test, 2	Test (2, afford_gutter.jpg)	Harlan	'	Pressed	(any response)	C	710			undefined
+Main Group	N-23		End	Test, 23	Test (23, PAinstAkINg_Thought.jpg)	Ok	 	Pressed	(any response)	C	179			undefined
+Main Group	N-23		End	Test, 41	Test (41, TAMe_ClASSY.jpg)	Harlan	'	Pressed	(any response)	C	642			undefined
+Main Group	N-23		End	Test, 11	Test (11, EaST_faMily.jpg)	Harlan	'	Pressed	(any response)	C	792			undefined
+Main Group	N-23		End	Test, 28	Test (28, REqUEst_ReCoGNise.jpg)	Ok	 	Pressed	(any response)	C	57			undefined
+Main Group	N-23		End	Test, 4	Test (4, bLAND_bLACk.jpg)	Harlan	'	Pressed	(any response)	C	597			undefined
+Main Group	N-23		End	Test, 36	Test (36, simplistic_renew.jpg)	Cumby	a	Pressed	(any response)	C	750			undefined
+Main Group	N-23		End	Test, 17	Test (17, GlOsSy_cEAsELEss.jpg)	Ok	 	Pressed	(any response)	C	128			undefined
+Main Group	N-23		End	Test, 16	Test (16, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(any response)	C	872			undefined
+Main Group	N-23		End	Test, 24	Test (24, PoiSOnouS_aBsUrdLy.jpg)	Cumby	a	Pressed	(any response)	C	665			undefined
+Main Group	N-23		End	Test, 29	Test (29, requirement_circle.jpg)	Harlan	'	Pressed	(any response)	C	471			undefined
+Main Group	N-23		End	Test, 18	Test (18, hard-to-find_brush.jpg)	Harlan	'	Pressed	(any response)	C	456			undefined
+Main Group	N-23		End	Test, 7	Test (7, cEmetErry_plAin.jpg)	Harlan	'	Pressed	(any response)	C	269			undefined
+Main Group	N-23		End	Test, 15	Test (15, fUTure_data.jpg)	Cumby	a	Pressed	(any response)	C	481			undefined
+Main Group	N-23		End	Test, 21	Test (21, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(any response)	C	1001			undefined
+Main Group	N-23		End	Test, 42	Test (42, tape_drop.jpg)	Cumby	a	Pressed	(any response)	C	673			undefined
+Main Group	N-23		End	Test, 20	Test (20, nEed_mUg.jpg)	Harlan	'	Pressed	(any response)	C	593			undefined
+Main Group	N-23		End	Test, 47	Test (47, TRANSpoRt_orgANIC.jpg)	Harlan	'	Pressed	(any response)	C	429			undefined
+Main Group	N-23		End	Test, 22	Test (22, nose_mArrvELouS.jpg)	Harlan	'	Pressed	(any response)	C	637			undefined
+Main Group	N-23		End	Test, 27	Test (27, QueUe_dApPer.jpg)	Harlan	'	Pressed	(any response)	C	464			undefined
+Main Group	N-23		End	Test, 9	Test (9, crowd_eat.jpg)	Cumby	a	Pressed	(any response)	C	250			undefined
+Main Group	N-23		End	Test, 45	Test (45, thuNdEr_PeLViC.jpg)	Cumby	a	Pressed	(any response)	C	304			undefined
+Main Group	N-23		End	Test, 1	Test (1, abject_urge.jpg)	Harlan	'	Pressed	Cumby; Harlan	C	104			undefined
+Main Group	N-23		End	Test, 14	Test (14, friend_Koran.jpg)	Harlan	'	Pressed	(any response)	C	98			undefined
+Main Group	N-23		End	Test, 8	Test (8, Clay_EnDlesS.jpg)	Cumby	a	Pressed	(any response)	C	133			undefined
+Main Group	N-23		End	Test, 3	Test (3, beach_fur.jpg)	Harlan	'	Pressed	(any response)	C	129			undefined
+Main Group	N-23		End	Test, 30	Test (30, riddle_grape.jpg)	Harlan	'	Pressed	(any response)	C	29			undefined

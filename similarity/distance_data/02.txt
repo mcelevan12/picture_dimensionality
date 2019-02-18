@@ -1,0 +1,783 @@
+
+picturesimilarity
+11/6/2018	10:52:37 AM
+
+Participant	Participant	Session	Block	Trial	Event	Participant		Correct	Error	Reaction
+Group	Name	ID	Name	Name	Name	Response	Key	Response	Code	Time	Trial Answered
+Main Group		02	Study1	Ratings, 1138	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1138	Image 2 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1138	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	4350	
+Main Group		02	Study1	Ratings, 1027	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1027	Image 2 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1027	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	10865	
+Main Group		02	Study1	Ratings, 1029	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1029	Image 2 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1029	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	8304	
+Main Group		02	Study1	Ratings, 334	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 334	Image 2 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 334	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2601	
+Main Group		02	Study1	Ratings, 847	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 847	Image 2 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 847	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	4117	
+Main Group		02	Study1	Ratings, 951	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 951	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 951	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3846	
+Main Group		02	Study1	Ratings, 930	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 930	Image 2 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 930	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	5100	
+Main Group		02	Study1	Ratings, 1187	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1187	Image 2 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1187	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	8169	
+Main Group		02	Study1	Ratings, 1134	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1134	Image 2 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1134	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2360	
+Main Group		02	Study1	Ratings, 742	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 742	Image 2 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 742	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2157	
+Main Group		02	Study1	Ratings, 1033	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1033	Image 2 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1033	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	3445	
+Main Group		02	Study1	Ratings, 1196	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1196	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1196	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	3172	
+Main Group		02	Study1	Ratings, 212	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 212	Image 2 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 212	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2108	
+Main Group		02	Study1	Ratings, 939	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 939	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 939	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2693	
+Main Group		02	Study1	Ratings, 591	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 591	Image 2 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 591	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2563	
+Main Group		02	Study1	Ratings, 923	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 923	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 923	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2626	
+Main Group		02	Study1	Ratings, 640	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 640	Image 2 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 640	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2691	
+Main Group		02	Study1	Ratings, 931	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 931	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 931	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2757	
+Main Group		02	Study1	Ratings, 811	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 811	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 811	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1591	
+Main Group		02	Study1	Ratings, 302	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 302	Image 2 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 302	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1597	
+Main Group		02	Study1	Ratings, 331	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 331	Image 2 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 331	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1675	
+Main Group		02	Study1	Ratings, 941	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 941	Image 2 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 941	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	7617	
+Main Group		02	Study1	Ratings, 1046	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1046	Image 2 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1046	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1857	
+Main Group		02	Study1	Ratings, 136	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 136	Image 2 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 136	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1464	
+Main Group		02	Study1	Ratings, 366	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 366	Image 2 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 366	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	3207	
+Main Group		02	Study1	Ratings, 436	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 436	Image 2 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 436	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1477	
+Main Group		02	Study1	Ratings, 533	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 533	Image 2 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 533	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	3975	
+Main Group		02	Study1	Ratings, 165	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 165	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 165	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1829	
+Main Group		02	Study1	Ratings, 712	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 712	Image 2 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 712	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2595	
+Main Group		02	Study1	Ratings, 1058	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1058	Image 2 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1058	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1087	
+Main Group		02	Study1	Ratings, 321	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 321	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 321	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2348	
+Main Group		02	Study1	Ratings, 576	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 576	Image 2 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 576	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	3505	
+Main Group		02	Study1	Ratings, 1166	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1166	Image 2 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1166	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1512	
+Main Group		02	Study1	Ratings, 947	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 947	Image 2 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 947	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	4514	
+Main Group		02	Study1	Ratings, 800	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 800	Image 2 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 800	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	3375	
+Main Group		02	Study1	Ratings, 449	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 449	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 449	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1511	
+Main Group		02	Study1	Ratings, 91	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 91	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 91	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2971	
+Main Group		02	Study1	Ratings, 208	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 208	Image 2 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 208	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	3336	
+Main Group		02	Study1	Ratings, 215	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 215	Image 2 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 215	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2056	
+Main Group		02	Study1	Ratings, 1062	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1062	Image 2 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1062	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1576	
+Main Group		02	Study1	Ratings, 501	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 501	Image 2 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 501	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2414	
+Main Group		02	Study1	Ratings, 378	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 378	Image 2 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 378	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2978	
+Main Group		02	Study1	Ratings, 282	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 282	Image 2 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 282	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	4129	
+Main Group		02	Study1	Ratings, 895	Image 1 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 895	Image 2 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 895	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	11053	
+Main Group		02	Study1	Ratings, 638	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 638	Image 2 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 638	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	1682	
+Main Group		02	Study1	Ratings, 365	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 365	Image 2 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 365	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	5233	
+Main Group		02	Study1	Ratings, 39	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 39	Image 2 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 39	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2465	
+Main Group		02	Study1	Ratings, 423	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 423	Image 2 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 423	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2323	
+Main Group		02	Study1	Ratings, 516	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 516	Image 2 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 516	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1429	
+Main Group		02	Study1	Ratings, 917	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 917	Image 2 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 917	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1332	
+Main Group		02	Study1	Ratings, 709	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 709	Image 2 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 709	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1910	
+Main Group		02	Study1	Ratings, 929	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 929	Image 2 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 929	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2421	
+Main Group		02	Study1	Ratings, 528	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 528	Image 2 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 528	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2799	
+Main Group		02	Study1	Ratings, 253	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 253	Image 2 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 253	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	2460	
+Main Group		02	Study1	Ratings, 457	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 457	Image 2 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 457	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	4138	
+Main Group		02	Study1	Ratings, 862	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 862	Image 2 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 862	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3276	
+Main Group		02	Study1	Ratings, 327	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 327	Image 2 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 327	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	7807	
+Main Group		02	Study1	Ratings, 1099	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1099	Image 2 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1099	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2044	
+Main Group		02	Study1	Ratings, 630	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 630	Image 2 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 630	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	1964	
+Main Group		02	Study1	Ratings, 175	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 175	Image 2 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 175	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1965	
+Main Group		02	Study1	Ratings, 1135	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1135	Image 2 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1135	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2061	
+Main Group		02	Study1	Ratings, 632	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 632	Image 2 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 632	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1504	
+Main Group		02	Study1	Ratings, 388	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 388	Image 2 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 388	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1142	
+Main Group		02	Study1	Ratings, 1149	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1149	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1149	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1344	
+Main Group		02	Study1	Ratings, 795	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 795	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 795	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1122	
+Main Group		02	Study1	Ratings, 318	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 318	Image 2 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 318	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1575	
+Main Group		02	Study1	Ratings, 936	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 936	Image 2 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 936	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	4143	
+Main Group		02	Study1	Ratings, 840	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 840	Image 2 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 840	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2355	
+Main Group		02	Study1	Ratings, 524	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 524	Image 2 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 524	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1916	
+Main Group		02	Study1	Ratings, 553	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 553	Image 2 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 553	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	944	
+Main Group		02	Study1	Ratings, 1080	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1080	Image 2 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1080	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	957	
+Main Group		02	Study1	Ratings, 835	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 835	Image 2 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 835	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	4480	
+Main Group		02	Study1	Ratings, 1118	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1118	Image 2 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1118	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2384	
+Main Group		02	Study1	Ratings, 307	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 307	Image 2 (27, source_low.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 307	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2217	
+Main Group		02	Study1	Ratings, 65	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 65	Image 2 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 65	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	6691	
+Main Group		02	Study1	Ratings, 575	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 575	Image 2 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 575	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1823	
+Main Group		02	Study1	Ratings, 8	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 8	Image 2 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 8	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2035	
+Main Group		02	Study1	Ratings, 71	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 71	Image 2 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 71	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1158	
+Main Group		02	Study1	Ratings, 142	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 142	Image 2 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 142	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1702	
+Main Group		02	Study1	Ratings, 373	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 373	Image 2 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 373	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3399	
+Main Group		02	Study1	Ratings, 155	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 155	Image 2 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 155	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2990	
+Main Group		02	Study1	Ratings, 154	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 154	Image 2 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 154	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1302	
+Main Group		02	Study1	Ratings, 257	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 257	Image 2 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 257	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1350	
+Main Group		02	Study1	Ratings, 585	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 585	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 585	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1969	
+Main Group		02	Study1	Ratings, 732	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 732	Image 2 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 732	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1469	
+Main Group		02	Study1	Ratings, 1096	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1096	Image 2 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1096	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	5232	
+Main Group		02	Study1	Ratings, 428	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 428	Image 2 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 428	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1742	
+Main Group		02	Study1	Ratings, 713	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 713	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 713	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1420	
+Main Group		02	Study1	Ratings, 1120	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1120	Image 2 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1120	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2157	
+Main Group		02	Study1	Ratings, 655	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 655	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 655	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2009	
+Main Group		02	Study1	Ratings, 398	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 398	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 398	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1656	
+Main Group		02	Study1	Ratings, 845	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 845	Image 2 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 845	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3680	
+Main Group		02	Study1	Ratings, 571	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 571	Image 2 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 571	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	2183	
+Main Group		02	Study1	Ratings, 984	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 984	Image 2 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 984	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	1587	
+Main Group		02	Study1	Ratings, 405	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 405	Image 2 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 405	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2235	
+Main Group		02	Study1	Ratings, 13	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 13	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 13	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	3914	
+Main Group		02	Study1	Ratings, 839	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 839	Image 2 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 839	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1323	
+Main Group		02	Study1	Ratings, 32	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 32	Image 2 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 32	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2020	
+Main Group		02	Study1	Ratings, 1007	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1007	Image 2 (27, source_low.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1007	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1525	
+Main Group		02	Study1	Ratings, 729	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 729	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 729	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1142	
+Main Group		02	Study1	Ratings, 578	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 578	Image 2 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 578	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	3088	
+Main Group		02	Study1	Ratings, 391	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 391	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 391	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2120	
+Main Group		02	Study1	Ratings, 710	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 710	Image 2 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 710	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1681	
+Main Group		02	Study1	Ratings, 383	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 383	Image 2 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 383	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1188	
+Main Group		02	Study1	Ratings, 197	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 197	Image 2 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 197	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1087	
+Main Group		02	Study1	Ratings, 220	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 220	Image 2 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 220	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2084	
+Main Group		02	Study1	Ratings, 489	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 489	Image 2 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 489	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1856	
+Main Group		02	Study1	Ratings, 464	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 464	Image 2 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 464	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1211	
+Main Group		02	Study1	Ratings, 965	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 965	Image 2 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 965	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2604	
+Main Group		02	Study1	Ratings, 314	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 314	Image 2 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 314	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1013	
+Main Group		02	Study1	Ratings, 416	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 416	Image 2 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 416	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	961	
+Main Group		02	Study1	Ratings, 526	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 526	Image 2 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 526	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2522	
+Main Group		02	Study1	Ratings, 1188	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1188	Image 2 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1188	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1631	
+Main Group		02	Study1	Ratings, 701	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 701	Image 2 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 701	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1346	
+Main Group		02	Study1	Ratings, 476	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 476	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 476	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1757	
+Main Group		02	Study1	Ratings, 1070	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1070	Image 2 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1070	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1084	
+Main Group		02	Study1	Ratings, 347	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 347	Image 2 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 347	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2013	
+Main Group		02	Study1	Ratings, 842	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 842	Image 2 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 842	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1044	
+Main Group		02	Study1	Ratings, 36	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 36	Image 2 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 36	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1823	
+Main Group		02	Study1	Ratings, 293	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 293	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 293	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2902	
+Main Group		02	Study1	Ratings, 30	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 30	Image 2 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 30	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2903	
+Main Group		02	Study1	Ratings, 425	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 425	Image 2 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 425	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1061	
+Main Group		02	Study1	Ratings, 756	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 756	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 756	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1160	
+Main Group		02	Study1	Ratings, 285	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 285	Image 2 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 285	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1696	
+Main Group		02	Study1	Ratings, 41	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 41	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 41	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2279	
+Main Group		02	Study1	Ratings, 244	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 244	Image 2 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 244	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1022	
+Main Group		02	Study1	Ratings, 34	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 34	Image 2 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 34	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	969	
+Main Group		02	Study1	Ratings, 54	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 54	Image 2 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 54	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2786	
+Main Group		02	Study1	Ratings, 250	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 250	Image 2 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 250	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1281	
+Main Group		02	Study1	Ratings, 1202	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1202	Image 2 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1202	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	5768	
+Main Group		02	Study1	Ratings, 731	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 731	Image 2 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 731	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1494	
+Main Group		02	Study1	Ratings, 727	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 727	Image 2 (27, source_low.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 727	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1148	
+Main Group		02	Study1	Ratings, 926	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 926	Image 2 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 926	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	3437	
+Main Group		02	Study1	Ratings, 180	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 180	Image 2 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 180	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1486	
+Main Group		02	Study1	Ratings, 229	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 229	Image 2 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 229	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1458	
+Main Group		02	Study1	Ratings, 645	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 645	Image 2 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 645	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2568	
+Main Group		02	Study1	Ratings, 404	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 404	Image 2 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 404	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1493	
+Main Group		02	Study1	Ratings, 1143	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1143	Image 2 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1143	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	4660	
+Main Group		02	Study1	Ratings, 356	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 356	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 356	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1516	
+Main Group		02	Study1	Ratings, 399	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 399	Image 2 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 399	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2116	
+Main Group		02	Study1	Ratings, 237	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 237	Image 2 (27, source_low.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 237	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1492	
+Main Group		02	Study1	Ratings, 131	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 131	Image 2 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 131	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	1624	
+Main Group		02	Study1	Ratings, 1204	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1204	Image 2 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1204	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3992	
+Main Group		02	Study1	Ratings, 1106	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1106	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1106	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1638	
+Main Group		02	Study1	Ratings, 103	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 103	Image 2 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 103	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	896	
+Main Group		02	Study1	Ratings, 507	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 507	Image 2 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 507	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1778	
+Main Group		02	Study1	Ratings, 83	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 83	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 83	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1047	
+Main Group		02	Study1	Ratings, 48	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 48	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 48	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	981	
+Main Group		02	Study1	Ratings, 200	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 200	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 200	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2246	
+Main Group		02	Study1	Ratings, 339	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 339	Image 2 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 339	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1132	
+Main Group		02	Study1	Ratings, 890	Image 1 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 890	Image 2 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 890	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	1749	
+Main Group		02	Study1	Ratings, 177	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 177	Image 2 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 177	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1006	
+Main Group		02	Study1	Ratings, 487	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 487	Image 2 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 487	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2265	
+Main Group		02	Study1	Ratings, 1169	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1169	Image 2 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1169	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	901	
+Main Group		02	Study1	Ratings, 206	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 206	Image 2 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 206	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1245	
+Main Group		02	Study1	Ratings, 1025	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1025	Image 2 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1025	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	4096	
+Main Group		02	Study1	Ratings, 730	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 730	Image 2 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 730	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1739	
+Main Group		02	Study1	Ratings, 47	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 47	Image 2 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 47	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2058	
+Main Group		02	Study1	Ratings, 662	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 662	Image 2 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 662	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	2309	
+Main Group		02	Study1	Ratings, 286	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 286	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 286	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3942	
+Main Group		02	Study1	Ratings, 687	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 687	Image 2 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 687	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	1927	
+Main Group		02	Study1	Ratings, 161	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 161	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 161	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	1409	
+Main Group		02	Study1	Ratings, 284	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 284	Image 2 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 284	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1214	
+Main Group		02	Study1	Ratings, 799	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 799	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 799	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3512	
+Main Group		02	Study1	Ratings, 1210	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1210	Image 2 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1210	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	1820	
+Main Group		02	Study1	Ratings, 853	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 853	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 853	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	903	
+Main Group		02	Study1	Ratings, 1045	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1045	Image 2 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1045	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1364	
+Main Group		02	Study1	Ratings, 637	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 637	Image 2 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 637	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2701	
+Main Group		02	Study1	Ratings, 702	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 702	Image 2 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 702	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	958	
+Main Group		02	Study1	Ratings, 511	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 511	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 511	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1596	
+Main Group		02	Study1	Ratings, 9	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 9	Image 2 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 9	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	945	
+Main Group		02	Study1	Ratings, 482	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 482	Image 2 (27, source_low.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 482	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1322	
+Main Group		02	Study1	Ratings, 1114	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1114	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1114	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1202	
+Main Group		02	Study1	Ratings, 699	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 699	Image 2 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 699	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1319	
+Main Group		02	Study1	Ratings, 819	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 819	Image 2 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 819	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1276	
+Main Group		02	Study1	Ratings, 211	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 211	Image 2 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 211	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1050	
+Main Group		02	Study1	Ratings, 311	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 311	Image 2 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 311	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1179	
+Main Group		02	Study1	Ratings, 519	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 519	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 519	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1394	
+Main Group		02	Study1	Ratings, 1191	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1191	Image 2 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1191	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	1756	
+Main Group		02	Study1	Ratings, 652	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 652	Image 2 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 652	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	210	
+Main Group		02	Study1	Ratings, 430	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 430	Image 2 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 430	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3250	
+Main Group		02	Study1	Ratings, 44	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 44	Image 2 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 44	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	863	
+Main Group		02	Study1	Ratings, 972	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 972	Image 2 (27, source_low.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 972	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	1880	
+Main Group		02	Study1	Ratings, 1056	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1056	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1056	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1102	
+Main Group		02	Study1	Ratings, 55	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 55	Image 2 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 55	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	873	
+Main Group		02	Study1	Ratings, 720	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 720	Image 2 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 720	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	816	
+Main Group		02	Study1	Ratings, 1176	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1176	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1176	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1493	
+Main Group		02	Study1	Ratings, 409	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 409	Image 2 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 409	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	5936	
+Main Group		02	Study1	Ratings, 446	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 446	Image 2 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 446	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2437	
+Main Group		02	Study1	Ratings, 179	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 179	Image 2 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 179	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	905	
+Main Group		02	Study1	Ratings, 379	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 379	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 379	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	1949	
+Main Group		02	Study1	Ratings, 809	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 809	Image 2 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 809	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1565	
+Main Group		02	Study1	Ratings, 721	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 721	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 721	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	2077	
+Main Group		02	Study1	Ratings, 764	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 764	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 764	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2138	
+Main Group		02	Study1	Ratings, 955	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 955	Image 2 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 955	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	971	
+Main Group		02	Study1	Ratings, 1172	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1172	Image 2 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1172	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2272	
+Main Group		02	Study1	Ratings, 207	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 207	Image 2 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 207	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	930	
+Main Group		02	Study1	Ratings, 173	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 173	Image 2 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 173	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2913	
+Main Group		02	Study1	Ratings, 11	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 11	Image 2 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 11	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1243	
+Main Group		02	Study1	Ratings, 1043	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1043	Image 2 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1043	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1464	
+Main Group		02	Study1	Ratings, 1003	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1003	Image 2 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1003	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3916	
+Main Group		02	Study1	Ratings, 114	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 114	Image 2 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 114	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2211	
+Main Group		02	Study1	Ratings, 185	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 185	Image 2 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 185	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	768	
+Main Group		02	Study1	Ratings, 897	Image 1 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 897	Image 2 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 897	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1296	
+Main Group		02	Study1	Ratings, 958	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 958	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 958	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3275	
+Main Group		02	Study1	Ratings, 139	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 139	Image 2 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 139	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2196	
+Main Group		02	Study1	Ratings, 413	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 413	Image 2 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 413	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1094	
+Main Group		02	Study1	Ratings, 573	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 573	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 573	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1748	
+Main Group		02	Study1	Ratings, 523	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 523	Image 2 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 523	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2330	
+Main Group		02	Study1	Ratings, 815	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 815	Image 2 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 815	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1758	
+Main Group		02	Study1	Ratings, 24	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 24	Image 2 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 24	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1389	
+Main Group		02	Study1	Ratings, 156	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 156	Image 2 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 156	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2703	
+Main Group		02	Study1	Ratings, 986	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 986	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 986	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1916	
+Main Group		02	Study1	Ratings, 968	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 968	Image 2 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 968	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2272	
+Main Group		02	Study1	Ratings, 828	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 828	Image 2 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 828	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2104	
+Main Group		02	Study1	Ratings, 390	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 390	Image 2 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 390	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	2278	
+Main Group		02	Study1	Ratings, 408	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 408	Image 2 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 408	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1146	
+Main Group		02	Study1	Ratings, 82	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 82	Image 2 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 82	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	755	
+Main Group		02	Study1	Ratings, 349	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 349	Image 2 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 349	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2552	
+Main Group		02	Study1	Ratings, 1008	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1008	Image 2 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1008	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2752	
+Main Group		02	Study1	Ratings, 566	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 566	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 566	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3488	
+Main Group		02	Study1	Ratings, 245	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 245	Image 2 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 245	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	4131	
+Main Group		02	Study1	Ratings, 219	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 219	Image 2 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 219	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1408	
+Main Group		02	Study1	Ratings, 659	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 659	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 659	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1298	
+Main Group		02	Study1	Ratings, 785	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 785	Image 2 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 785	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2713	
+Main Group		02	Study1	Ratings, 56	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 56	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 56	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1180	
+Main Group		02	Study1	Ratings, 441	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 441	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 441	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	8881	
+Main Group		02	Study1	Ratings, 858	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 858	Image 2 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 858	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	907	
+Main Group		02	Study1	Ratings, 261	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 261	Image 2 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 261	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1203	
+Main Group		02	Study1	Ratings, 665	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 665	Image 2 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 665	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2107	
+Main Group		02	Study1	Ratings, 3	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 3	Image 2 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 3	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1120	
+Main Group		02	Study1	Ratings, 59	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 59	Image 2 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 59	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1166	
+Main Group		02	Study1	Ratings, 823	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 823	Image 2 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 823	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1781	
+Main Group		02	Study1	Ratings, 991	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 991	Image 2 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 991	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1742	
+Main Group		02	Study1	Ratings, 1036	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1036	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1036	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2024	
+Main Group		02	Study1	Ratings, 410	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 410	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 410	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	888	
+Main Group		02	Study1	Ratings, 64	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 64	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 64	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	880	
+Main Group		02	Study1	Ratings, 629	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 629	Image 2 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 629	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	931	
+Main Group		02	Study1	Ratings, 825	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 825	Image 2 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 825	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1422	
+Main Group		02	Study1	Ratings, 849	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 849	Image 2 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 849	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	865	
+Main Group		02	Study1	Ratings, 1012	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1012	Image 2 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1012	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1735	
+Main Group		02	Study1	Ratings, 395	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 395	Image 2 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 395	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	2528	
+Main Group		02	Study1	Ratings, 546	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 546	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 546	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	838	
+Main Group		02	Study1	Ratings, 1220	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1220	Image 2 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1220	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1680	
+Main Group		02	Study1	Ratings, 899	Image 1 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 899	Image 2 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 899	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2166	
+Main Group		02	Study1	Ratings, 40	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 40	Image 2 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 40	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1206	
+Main Group		02	Study1	Ratings, 830	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 830	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 830	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1458	
+Main Group		02	Study1	Ratings, 1026	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1026	Image 2 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1026	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1668	
+Main Group		02	Study1	Ratings, 369	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 369	Image 2 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 369	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1205	
+Main Group		02	Study1	Ratings, 1126	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1126	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1126	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	2562	
+Main Group		02	Study1	Ratings, 418	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 418	Image 2 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 418	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1289	
+Main Group		02	Study1	Ratings, 384	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 384	Image 2 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 384	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1256	
+Main Group		02	Study1	Ratings, 1213	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1213	Image 2 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1213	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2998	
+Main Group		02	Study1	Ratings, 60	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 60	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 60	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1219	
+Main Group		02	Study1	Ratings, 717	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 717	Image 2 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 717	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	995	
+Main Group		02	Study1	Ratings, 235	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 235	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 235	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	990	
+Main Group		02	Study1	Ratings, 230	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 230	Image 2 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 230	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	1957	
+Main Group		02	Study1	Ratings, 970	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 970	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 970	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2193	
+Main Group		02	Study1	Ratings, 1009	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1009	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group		02	Study1	Ratings, 1009	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1353	

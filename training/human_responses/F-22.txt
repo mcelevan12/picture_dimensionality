@@ -1,0 +1,274 @@
+F-22
+cumby-harlan
+12/5/2018	10:56:23 AM
+
+Participant	Participant	Session	Block	Trial	Event	Participant		Pressed Or	Correct	Error	Reaction
+Group	Name	ID	Name	Name	Name	Response	Key	Released	Response	Code	Time	Trial Answered	Categories	average
+Main Group	F-22		Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	3258		Cumby	undefined
+Main Group	F-22		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	971		Harlan	undefined
+Main Group	F-22		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	899		Harlan	undefined
+Main Group	F-22		Training	Far, 1	Far (1, afford_gutter.jpg)	Harlan	'	Pressed	(based on tag)	E	1123		Cumby	undefined
+Main Group	F-22		Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	797		Harlan	undefined
+Main Group	F-22		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	619		Cumby	undefined
+Main Group	F-22		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Harlan	'	Pressed	(based on tag)	E	1603		Cumby	undefined
+Main Group	F-22		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	E	854		Cumby	undefined
+Main Group	F-22		Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	680		Harlan	undefined
+Main Group	F-22		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	952		Cumby	undefined
+Main Group	F-22		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Cumby	a	Pressed	(based on tag)	E	2198		Harlan	undefined
+Main Group	F-22		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	1964		Cumby	undefined
+Main Group	F-22		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	E	1173		Cumby	undefined
+Main Group	F-22		Training	Far, 9	Far (9, structure_mention.jpg)	Harlan	'	Pressed	(based on tag)	E	473		Cumby	undefined
+Main Group	F-22		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	387		Harlan	undefined
+Main Group	F-22		Training	Far, 13	Far (13, nEed_mUg.jpg)	Cumby	a	Pressed	(based on tag)	E	811		Harlan	undefined
+Main Group	F-22		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	511		Harlan	undefined
+Main Group	F-22		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	108		Harlan	undefined
+Main Group	F-22		Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	460		Cumby	undefined
+Main Group	F-22		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Harlan	'	Pressed	(based on tag)	E	739		Cumby	undefined
+Main Group	F-22		Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	663		Cumby	undefined
+Main Group	F-22		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	2361		Harlan	undefined
+Main Group	F-22		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	1071		Harlan	undefined
+Main Group	F-22		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	501		Cumby	undefined
+Main Group	F-22		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	537		Harlan	undefined
+Main Group	F-22		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Cumby	a	Pressed	(based on tag)	E	449		Harlan	undefined
+Main Group	F-22		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Cumby	a	Pressed	(based on tag)	E	234		Harlan	undefined
+Main Group	F-22		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	247		Cumby	undefined
+Main Group	F-22		Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	1501		Harlan	undefined
+Main Group	F-22		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	E	1186		Cumby	undefined
+Main Group	F-22		Training	Far, 14	Far (14, sense_scandalous.jpg)	Cumby	a	Pressed	(based on tag)	E	374		Harlan	undefined
+Main Group	F-22		Training	Far, 3	Far (3, feature_dog.jpg)	Harlan	'	Pressed	(based on tag)	E	607		Cumby	undefined
+Main Group	F-22		Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	245		Harlan	undefined
+Main Group	F-22		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Cumby	a	Pressed	(based on tag)	E	402		Harlan	undefined
+Main Group	F-22		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	290		Cumby	undefined
+Main Group	F-22		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	254		Cumby	undefined
+Main Group	F-22		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	266		Harlan	undefined
+Main Group	F-22		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	344		Harlan	undefined
+Main Group	F-22		Training	Far, 13	Far (13, nEed_mUg.jpg)	Cumby	a	Pressed	(based on tag)	E	282		Harlan	undefined
+Main Group	F-22		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	331		Cumby	undefined
+Main Group	F-22		Training	Far, 16	Far (16, soap_marble.jpg)	Cumby	a	Pressed	(based on tag)	E	565		Harlan	undefined
+Main Group	F-22		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Harlan	'	Pressed	(based on tag)	E	559		Cumby	undefined
+Main Group	F-22		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	467		Cumby	undefined
+Main Group	F-22		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	329		Harlan	undefined
+Main Group	F-22		Training	Far, 1	Far (1, afford_gutter.jpg)	Harlan	'	Pressed	(based on tag)	E	315		Cumby	undefined
+Main Group	F-22		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Harlan	'	Pressed	(based on tag)	E	432		Cumby	undefined
+Main Group	F-22		Training	Far, 9	Far (9, structure_mention.jpg)	Harlan	'	Pressed	(based on tag)	E	266		Cumby	undefined
+Main Group	F-22		Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	326		Harlan	undefined
+Main Group	F-22		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	E	411		Cumby	undefined
+Main Group	F-22		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Cumby	a	Pressed	(based on tag)	E	276		Harlan	undefined
+Main Group	F-22		Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	307		Harlan	undefined
+Main Group	F-22		Training	Far, 3	Far (3, feature_dog.jpg)	Harlan	'	Pressed	(based on tag)	E	335		Cumby	undefined
+Main Group	F-22		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	285		Cumby	undefined
+Main Group	F-22		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	384		Harlan	undefined
+Main Group	F-22		Training	Far, 16	Far (16, soap_marble.jpg)	Cumby	a	Pressed	(based on tag)	E	364		Harlan	undefined
+Main Group	F-22		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	413		Cumby	undefined
+Main Group	F-22		Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	1005		Harlan	undefined
+Main Group	F-22		Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	282		Cumby	undefined
+Main Group	F-22		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Harlan	'	Pressed	(based on tag)	E	469		Cumby	undefined
+Main Group	F-22		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Cumby	a	Pressed	(based on tag)	E	682		Harlan	undefined
+Main Group	F-22		Training	Far, 3	Far (3, feature_dog.jpg)	Harlan	'	Pressed	(based on tag)	E	448		Cumby	undefined
+Main Group	F-22		Training	Far, 14	Far (14, sense_scandalous.jpg)	Cumby	a	Pressed	(based on tag)	E	400		Harlan	undefined
+Main Group	F-22		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	316		Cumby	undefined
+Main Group	F-22		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	216		Harlan	undefined
+Main Group	F-22		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Cumby	a	Pressed	(based on tag)	E	10		Harlan	undefined
+Main Group	F-22		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	281		Harlan	undefined
+Main Group	F-22		Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	275		Cumby	undefined
+Main Group	F-22		Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	311		Harlan	undefined
+Main Group	F-22		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Ok	 	Pressed	(based on tag)	E	540		Harlan	undefined
+Main Group	F-22		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Cumby	a	Pressed	(based on tag)	E	485		Harlan	undefined
+Main Group	F-22		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Harlan	'	Pressed	(based on tag)	E	19		Cumby	undefined
+Main Group	F-22		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	E	319		Cumby	undefined
+Main Group	F-22		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Harlan	'	Pressed	(based on tag)	E	259		Cumby	undefined
+Main Group	F-22		Training	Far, 3	Far (3, feature_dog.jpg)	Harlan	'	Pressed	(based on tag)	E	266		Cumby	undefined
+Main Group	F-22		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	472		Harlan	undefined
+Main Group	F-22		Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	586		Cumby	undefined
+Main Group	F-22		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Cumby	a	Pressed	(based on tag)	E	371		Harlan	undefined
+Main Group	F-22		Training	Far, 13	Far (13, nEed_mUg.jpg)	Cumby	a	Pressed	(based on tag)	E	232		Harlan	undefined
+Main Group	F-22		Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	248		Harlan	undefined
+Main Group	F-22		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	491		Cumby	undefined
+Main Group	F-22		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	922		Cumby	undefined
+Main Group	F-22		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	389		Cumby	undefined
+Main Group	F-22		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	E	293		Cumby	undefined
+Main Group	F-22		Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	311		Harlan	undefined
+Main Group	F-22		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	275		Harlan	undefined
+Main Group	F-22		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	331		Harlan	undefined
+Main Group	F-22		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	602		Harlan	undefined
+Main Group	F-22		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	275		Cumby	undefined
+Main Group	F-22		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Cumby	a	Pressed	(based on tag)	E	272		Harlan	undefined
+Main Group	F-22		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	59		Cumby	undefined
+Main Group	F-22		Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	383		Cumby	undefined
+Main Group	F-22		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Harlan	'	Pressed	(based on tag)	E	426		Cumby	undefined
+Main Group	F-22		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	104		Cumby	undefined
+Main Group	F-22		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	758		Harlan	undefined
+Main Group	F-22		Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	755		Harlan	undefined
+Main Group	F-22		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Cumby	a	Pressed	(based on tag)	E	248		Harlan	undefined
+Main Group	F-22		Training	Far, 17	Far (17, source_low.jpg)	Cumby	a	Pressed	(based on tag)	E	328		Harlan	undefined
+Main Group	F-22		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Cumby	a	Pressed	(based on tag)	E	267		Harlan	undefined
+Main Group	F-22		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	278		Cumby	undefined
+Main Group	F-22		Training	Far, 1	Far (1, afford_gutter.jpg)	Harlan	'	Pressed	(based on tag)	E	408		Cumby	undefined
+Main Group	F-22		Training	Far, 9	Far (9, structure_mention.jpg)	Harlan	'	Pressed	(based on tag)	E	325		Cumby	undefined
+Main Group	F-22		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	374		Harlan	undefined
+Main Group	F-22		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	362		Harlan	undefined
+Main Group	F-22		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	353		Cumby	undefined
+Main Group	F-22		Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	329		Harlan	undefined
+Main Group	F-22		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Harlan	'	Pressed	(based on tag)	E	400		Cumby	undefined
+Main Group	F-22		Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	315		Cumby	undefined
+Main Group	F-22		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Harlan	'	Pressed	(based on tag)	E	493		Cumby	undefined
+Main Group	F-22		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	399		Harlan	undefined
+Main Group	F-22		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Harlan	'	Pressed	(based on tag)	E	387		Cumby	undefined
+Main Group	F-22		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	367		Harlan	undefined
+Main Group	F-22		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Cumby	a	Pressed	(based on tag)	E	371		Harlan	undefined
+Main Group	F-22		Training	Far, 17	Far (17, source_low.jpg)	Cumby	a	Pressed	(based on tag)	E	975		Harlan	undefined
+Main Group	F-22		Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	344		Cumby	undefined
+Main Group	F-22		Training	Far, 3	Far (3, feature_dog.jpg)	Harlan	'	Pressed	(based on tag)	E	281		Cumby	undefined
+Main Group	F-22		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	1133		Cumby	undefined
+Main Group	F-22		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	E	488		Cumby	undefined
+Main Group	F-22		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Harlan	'	Pressed	(based on tag)	E	339		Cumby	undefined
+Main Group	F-22		Training	Far, 13	Far (13, nEed_mUg.jpg)	Cumby	a	Pressed	(based on tag)	E	304		Harlan	undefined
+Main Group	F-22		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	748		Harlan	undefined
+Main Group	F-22		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	552		Harlan	undefined
+Main Group	F-22		Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	490		Harlan	undefined
+Main Group	F-22		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	347		Cumby	undefined
+Main Group	F-22		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	E	375		Cumby	undefined
+Main Group	F-22		Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	413		Cumby	undefined
+Main Group	F-22		Training	Far, 15	Far (15, shareholder_air.jpg)	Cumby	a	Pressed	(based on tag)	E	6080		Harlan	undefined
+Main Group	F-22		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	102		Harlan	undefined
+Main Group	F-22		Training	Far, 15	Far (15, shareholder_air.jpg)	Cumby	a	Pressed	(based on tag)	E	817		Harlan	undefined
+Main Group	F-22		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	408		Cumby	undefined
+Main Group	F-22		Training	Far, 3	Far (3, feature_dog.jpg)	Harlan	'	Pressed	(based on tag)	E	410		Cumby	undefined
+Main Group	F-22		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	355		Cumby	undefined
+Main Group	F-22		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	363		Harlan	undefined
+Main Group	F-22		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	341		Harlan	undefined
+Main Group	F-22		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Cumby	a	Pressed	(based on tag)	E	463		Harlan	undefined
+Main Group	F-22		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	406		Harlan	undefined
+Main Group	F-22		Training	Far, 17	Far (17, source_low.jpg)	Cumby	a	Pressed	(based on tag)	E	415		Harlan	undefined
+Main Group	F-22		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	337		Cumby	undefined
+Main Group	F-22		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Cumby	a	Pressed	(based on tag)	E	422		Harlan	undefined
+Main Group	F-22		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	41		Cumby	undefined
+Main Group	F-22		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Harlan	'	Pressed	(based on tag)	E	458		Cumby	undefined
+Main Group	F-22		Training	Far, 14	Far (14, sense_scandalous.jpg)	Cumby	a	Pressed	(based on tag)	E	435		Harlan	undefined
+Main Group	F-22		Training	Far, 1	Far (1, afford_gutter.jpg)	Harlan	'	Pressed	(based on tag)	E	388		Cumby	undefined
+Main Group	F-22		Training	Far, 9	Far (9, structure_mention.jpg)	Harlan	'	Pressed	(based on tag)	E	413		Cumby	undefined
+Main Group	F-22		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	461		Cumby	undefined
+Main Group	F-22		Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	923		Harlan	undefined
+Main Group	F-22		Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	347		Cumby	undefined
+Main Group	F-22		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	611		Harlan	undefined
+Main Group	F-22		Training	Far, 13	Far (13, nEed_mUg.jpg)	Cumby	a	Pressed	(based on tag)	E	309		Harlan	undefined
+Main Group	F-22		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	264		Cumby	undefined
+Main Group	F-22		Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	498		Harlan	undefined
+Main Group	F-22		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	713		Cumby	undefined
+Main Group	F-22		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	304		Harlan	undefined
+Main Group	F-22		Training	Far, 16	Far (16, soap_marble.jpg)	Cumby	a	Pressed	(based on tag)	E	129		Harlan	undefined
+Main Group	F-22		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Cumby	a	Pressed	(based on tag)	E	331		Harlan	undefined
+Main Group	F-22		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Ok	 	Pressed	(based on tag)	E	349		Cumby	undefined
+Main Group	F-22		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	SC	1448		Cumby	undefined
+Main Group	F-22		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Harlan	'	Pressed	(based on tag)	E	385		Cumby	undefined
+Main Group	F-22		Training	Far, 17	Far (17, source_low.jpg)	Cumby	a	Pressed	(based on tag)	E	1276		Harlan	undefined
+Main Group	F-22		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1076		Harlan	undefined
+Main Group	F-22		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Cumby	a	Pressed	(based on tag)	E	482		Harlan	undefined
+Main Group	F-22		Training	Far, 9	Far (9, structure_mention.jpg)	Harlan	'	Pressed	(based on tag)	E	300		Cumby	undefined
+Main Group	F-22		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	277		Cumby	undefined
+Main Group	F-22		Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	332		Cumby	undefined
+Main Group	F-22		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	E	237		Cumby	undefined
+Main Group	F-22		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	278		Harlan	undefined
+Main Group	F-22		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	254		Harlan	undefined
+Main Group	F-22		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	272		Cumby	undefined
+Main Group	F-22		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	299		Cumby	undefined
+Main Group	F-22		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	632		Harlan	undefined
+Main Group	F-22		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	264		Harlan	undefined
+Main Group	F-22		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Cumby	a	Pressed	(based on tag)	E	257		Harlan	undefined
+Main Group	F-22		Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	349		Cumby	undefined
+Main Group	F-22		Training	Far, 17	Far (17, source_low.jpg)	Cumby	a	Pressed	(based on tag)	E	294		Harlan	undefined
+Main Group	F-22		Training	Far, 14	Far (14, sense_scandalous.jpg)	Cumby	a	Pressed	(based on tag)	E	686		Harlan	undefined
+Main Group	F-22		Training	Far, 13	Far (13, nEed_mUg.jpg)	Ok	 	Pressed	(based on tag)	E	293		Harlan	undefined
+Main Group	F-22		Training	Far, 13	Far (13, nEed_mUg.jpg)	Cumby	a	Pressed	(based on tag)	E	624		Harlan	undefined
+Main Group	F-22		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Harlan	'	Pressed	(based on tag)	E	337		Cumby	undefined
+Main Group	F-22		Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	292		Cumby	undefined
+Main Group	F-22		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	308		Cumby	undefined
+Main Group	F-22		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Ok	 	Pressed	(based on tag)	E	542		Cumby	undefined
+Main Group	F-22		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	SC	308		Cumby	undefined
+Main Group	F-22		Training	Far, 1	Far (1, afford_gutter.jpg)	Harlan	'	Pressed	(based on tag)	E	959		Cumby	undefined
+Main Group	F-22		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Harlan	'	Pressed	(based on tag)	E	333		Cumby	undefined
+Main Group	F-22		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	260		Harlan	undefined
+Main Group	F-22		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	328		Harlan	undefined
+Main Group	F-22		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	E	349		Cumby	undefined
+Main Group	F-22		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	347		Harlan	undefined
+Main Group	F-22		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	524		Cumby	undefined
+Main Group	F-22		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	381		Harlan	undefined
+Main Group	F-22		Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	302		Cumby	undefined
+Main Group	F-22		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	E	361		Cumby	undefined
+Main Group	F-22		Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	228		Harlan	undefined
+Main Group	F-22		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	399		Cumby	undefined
+Main Group	F-22		Training	Far, 9	Far (9, structure_mention.jpg)	Harlan	'	Pressed	(based on tag)	E	387		Cumby	undefined
+Main Group	F-22		Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	303		Harlan	undefined
+Main Group	F-22		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	411		Cumby	undefined
+Main Group	F-22		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	345		Harlan	undefined
+Main Group	F-22		Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	308		Cumby	undefined
+Main Group	F-22		Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	458		Harlan	undefined
+Main Group	F-22		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	458		Cumby	undefined
+Main Group	F-22		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	353		Harlan	undefined
+Main Group	F-22		Training	Far, 16	Far (16, soap_marble.jpg)	Cumby	a	Pressed	(based on tag)	E	277		Harlan	undefined
+Main Group	F-22		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	273		Harlan	undefined
+Main Group	F-22		Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	283		Cumby	undefined
+Main Group	F-22		Training	Far, 9	Far (9, structure_mention.jpg)	Harlan	'	Pressed	(based on tag)	E	306		Cumby	undefined
+Main Group	F-22		Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	589		Cumby	undefined
+Main Group	F-22		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	513		Harlan	undefined
+Main Group	F-22		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	26		Cumby	undefined
+Main Group	F-22		Training	Far, 13	Far (13, nEed_mUg.jpg)	Cumby	a	Pressed	(based on tag)	E	489		Harlan	undefined
+Main Group	F-22		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Cumby	a	Pressed	(based on tag)	E	273		Harlan	undefined
+Main Group	F-22		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	E	485		Cumby	undefined
+Main Group	F-22		Training	Far, 14	Far (14, sense_scandalous.jpg)	Cumby	a	Pressed	(based on tag)	E	532		Harlan	undefined
+Main Group	F-22		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Harlan	'	Pressed	(based on tag)	E	307		Cumby	undefined
+Main Group	F-22		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	E	686		Cumby	undefined
+Main Group	F-22		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	197		Harlan	undefined
+Main Group	F-22		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	344		Harlan	undefined
+Main Group	F-22		Training	Far, 17	Far (17, source_low.jpg)	Cumby	a	Pressed	(based on tag)	E	269		Harlan	undefined
+Main Group	F-22		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Cumby	a	Pressed	(based on tag)	E	268		Harlan	undefined
+Main Group	F-22		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	263		Cumby	undefined
+Main Group	F-22		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	516		Cumby	undefined
+Main Group	F-22		End	Test, 40	Test (40, structure_mention.jpg)	Ok	 	Pressed	(any response)	C	1736			undefined
+Main Group	F-22		End	Test, 27	Test (27, QueUe_dApPer.jpg)	Ok	 	Pressed	(any response)	C	1131			undefined
+Main Group	F-22		End	Test, 13	Test (13, fireCRaCker_bRIDgE.jpg)	Cumby	a	Pressed	(any response)	C	2325			undefined
+Main Group	F-22		End	Test, 14	Test (14, friend_Koran.jpg)	Harlan	'	Pressed	(any response)	C	705			undefined
+Main Group	F-22		End	Test, 21	Test (21, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(any response)	C	1142			undefined
+Main Group	F-22		End	Test, 4	Test (4, bLAND_bLACk.jpg)	Cumby	a	Pressed	(any response)	C	356			undefined
+Main Group	F-22		End	Test, 44	Test (44, technology_circle.jpg)	Harlan	'	Pressed	(any response)	C	501			undefined
+Main Group	F-22		End	Test, 8	Test (8, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(any response)	C	304			undefined
+Main Group	F-22		End	Test, 48	Test (48, wIld_ChEss.jpg)	Harlan	'	Pressed	(any response)	C	399			undefined
+Main Group	F-22		End	Test, 45	Test (45, thuNdEr_PeLViC.jpg)	Cumby	a	Pressed	(any response)	C	86			undefined
+Main Group	F-22		End	Test, 26	Test (26, publicity_commemorate.jpg)	Cumby	a	Pressed	(any response)	C	395			undefined
+Main Group	F-22		End	Test, 31	Test (31, rOSe_ENdUrabLE.jpg)	Harlan	'	Pressed	(any response)	C	24107			undefined
+Main Group	F-22		End	Test, 29	Test (29, requirement_circle.jpg)	Cumby	a	Pressed	(any response)	C	272			undefined
+Main Group	F-22		End	Test, 22	Test (22, nose_mArrvELouS.jpg)	Cumby	a	Pressed	(any response)	C	10			undefined
+Main Group	F-22		End	Test, 42	Test (42, tape_drop.jpg)	Cumby	a	Pressed	(any response)	C	487			undefined
+Main Group	F-22		End	Test, 3	Test (3, beach_fur.jpg)	Harlan	'	Pressed	(any response)	C	226			undefined
+Main Group	F-22		End	Test, 18	Test (18, hard-to-find_brush.jpg)	Cumby	a	Pressed	(any response)	C	290			undefined
+Main Group	F-22		End	Test, 7	Test (7, cEmetErry_plAin.jpg)	Harlan	'	Pressed	(any response)	C	327			undefined
+Main Group	F-22		End	Test, 25	Test (25, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(any response)	C	305			undefined
+Main Group	F-22		End	Test, 2	Test (2, afford_gutter.jpg)	Harlan	'	Pressed	(any response)	C	443			undefined
+Main Group	F-22		End	Test, 39	Test (39, StrrAngEr_Dress.jpg)	Harlan	'	Pressed	(any response)	C	162			undefined
+Main Group	F-22		End	Test, 9	Test (9, crowd_eat.jpg)	Harlan	'	Pressed	(any response)	C	237			undefined
+Main Group	F-22		End	Test, 47	Test (47, TRANSpoRt_orgANIC.jpg)	Cumby	a	Pressed	(any response)	C	245			undefined
+Main Group	F-22		End	Test, 43	Test (43, technology_burst.jpg)	Cumby	a	Pressed	(any response)	C	686			undefined
+Main Group	F-22		End	Test, 1	Test (1, abject_urge.jpg)	Cumby	a	Pressed	Cumby; Harlan	C	287			undefined
+Main Group	F-22		End	Test, 36	Test (36, simplistic_renew.jpg)	Harlan	'	Pressed	(any response)	C	853			undefined
+Main Group	F-22		End	Test, 19	Test (19, lily_inappropriate.jpg)	Cumby	a	Pressed	(any response)	C	268			undefined
+Main Group	F-22		End	Test, 5	Test (5, boundary_head.jpg)	Harlan	'	Pressed	(any response)	C	334			undefined
+Main Group	F-22		End	Test, 41	Test (41, TAMe_ClASSY.jpg)	Harlan	'	Pressed	(any response)	C	567			undefined
+Main Group	F-22		End	Test, 20	Test (20, nEed_mUg.jpg)	Cumby	a	Pressed	(any response)	C	336			undefined
+Main Group	F-22		End	Test, 17	Test (17, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(any response)	C	300			undefined
+Main Group	F-22		End	Test, 24	Test (24, PoiSOnouS_aBsUrdLy.jpg)	Cumby	a	Pressed	(any response)	C	428			undefined
+Main Group	F-22		End	Test, 46	Test (46, trait_basket.jpg)	Cumby	a	Pressed	(any response)	C	258			undefined
+Main Group	F-22		End	Test, 38	Test (38, source_low.jpg)	Harlan	'	Pressed	(any response)	C	28			undefined
+Main Group	F-22		End	Test, 30	Test (30, riddle_grape.jpg)	Cumby	a	Pressed	(any response)	C	739			undefined
+Main Group	F-22		End	Test, 34	Test (34, serve_battlefield.jpg)	Cumby	a	Pressed	(any response)	C	289			undefined
+Main Group	F-22		End	Test, 28	Test (28, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(any response)	C	291			undefined
+Main Group	F-22		End	Test, 37	Test (37, soap_marble.jpg)	Harlan	'	Pressed	(any response)	C	282			undefined
+Main Group	F-22		End	Test, 10	Test (10, destruction_conscience.jpg)	Cumby	a	Pressed	(any response)	C	92			undefined
+Main Group	F-22		End	Test, 11	Test (11, EaST_faMily.jpg)	Harlan	'	Pressed	(any response)	C	4094			undefined
+Main Group	F-22		End	Test, 33	Test (33, sense_scandalous.jpg)	Cumby	a	Pressed	(any response)	C	338			undefined
+Main Group	F-22		End	Test, 23	Test (23, PAinstAkINg_Thought.jpg)	Harlan	'	Pressed	(any response)	C	404			undefined
+Main Group	F-22		End	Test, 15	Test (15, fUTure_data.jpg)	Harlan	'	Pressed	(any response)	C	311			undefined
+Main Group	F-22		End	Test, 35	Test (35, shareholder_air.jpg)	Harlan	'	Pressed	(any response)	C	391			undefined
+Main Group	F-22		End	Test, 32	Test (32, sausage_selection.jpg)	Cumby	a	Pressed	(any response)	C	402			undefined
+Main Group	F-22		End	Test, 16	Test (16, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(any response)	C	402			undefined
+Main Group	F-22		End	Test, 12	Test (12, feature_dog.jpg)	Cumby	a	Pressed	(any response)	C	345			undefined
+Main Group	F-22		End	Test, 6	Test (6, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(any response)	C	599			undefined

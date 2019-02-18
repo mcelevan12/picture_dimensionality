@@ -1,0 +1,271 @@
+R-45
+cumby-harlan
+2/5/2019	3:50:54 PM
+
+Participant	Participant	Session	Block	Trial	Event	Participant		Pressed Or	Correct	Error	Reaction
+Group	Name	ID	Name	Name	Name	Response	Key	Released	Response	Code	Time	Trial Answered	Categories	average
+Main Group	R-45	R-45	Training	Random, 7	Random (7, soap_marble.jpg)	Cumby	a	Pressed	(based on tag)	C	8373		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 10	Random (10, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	C	8159		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 4	Random (4, NIce_bOUnCY.jpg)	Harlan	'	Pressed	(based on tag)	E	7574		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 12	Random (12, fireCRaCker_bRIDgE.jpg)	Harlan	'	Pressed	(based on tag)	C	1905		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 11	Random (11, Clay_EnDlesS.jpg)	Cumby	a	Pressed	(based on tag)	E	5035		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 1	Random (1, beach_fur.jpg)	Harlan	'	Pressed	(based on tag)	E	4209		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 16	Random (16, serve_battlefield.jpg)	Harlan	'	Pressed	(based on tag)	C	2468		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 3	Random (3, nEed_mUg.jpg)	Cumby	a	Pressed	(based on tag)	C	2286		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 13	Random (13, nose_mArrvELouS.jpg)	Cumby	a	Pressed	(based on tag)	E	3528		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 17	Random (17, TAMe_ClASSY.jpg)	Harlan	'	Pressed	(based on tag)	C	2317		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 9	Random (9, wIld_ChEss.jpg)	Cumby	a	Pressed	(based on tag)	C	2450		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 15	Random (15, sense_scandalous.jpg)	Cumby	a	Pressed	(based on tag)	E	2153		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 2	Random (2, EaST_faMily.jpg)	Harlan	'	Pressed	(based on tag)	E	3919		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 8	Random (8, technology_burst.jpg)	Cumby	a	Pressed	(based on tag)	C	2565		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 5	Random (5, PoiSOnouS_aBsUrdLy.jpg)	Harlan	'	Pressed	(based on tag)	E	2465		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 14	Random (14, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	E	2203		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 18	Random (18, tape_drop.jpg)	Cumby	a	Pressed	(based on tag)	E	1360		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 6	Random (6, sausage_selection.jpg)	Cumby	a	Pressed	(based on tag)	C	1487		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 15	Random (15, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	1274		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 11	Random (11, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	2417		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 13	Random (13, nose_mArrvELouS.jpg)	Harlan	'	Pressed	(based on tag)	C	1493		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 17	Random (17, TAMe_ClASSY.jpg)	Cumby	a	Pressed	(based on tag)	E	1943		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 4	Random (4, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	1299		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 7	Random (7, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	E	1566		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 8	Random (8, technology_burst.jpg)	Cumby	a	Pressed	(based on tag)	C	1755		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 18	Random (18, tape_drop.jpg)	Cumby	a	Pressed	(based on tag)	E	1897		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 1	Random (1, beach_fur.jpg)	Harlan	'	Pressed	(based on tag)	E	1377		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 10	Random (10, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	C	918		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 9	Random (9, wIld_ChEss.jpg)	Cumby	a	Pressed	(based on tag)	C	1636		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 6	Random (6, sausage_selection.jpg)	Cumby	a	Pressed	(based on tag)	C	994		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 12	Random (12, fireCRaCker_bRIDgE.jpg)	Harlan	'	Pressed	(based on tag)	C	831		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 5	Random (5, PoiSOnouS_aBsUrdLy.jpg)	Cumby	a	Pressed	(based on tag)	C	677		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 3	Random (3, nEed_mUg.jpg)	Cumby	a	Pressed	(based on tag)	C	1034		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 2	Random (2, EaST_faMily.jpg)	Harlan	'	Pressed	(based on tag)	E	1190		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 16	Random (16, serve_battlefield.jpg)	Harlan	'	Pressed	(based on tag)	C	1103		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 14	Random (14, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	E	1007		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 14	Random (14, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	C	759		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 18	Random (18, tape_drop.jpg)	Cumby	a	Pressed	(based on tag)	E	1094		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 15	Random (15, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	1290		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 5	Random (5, PoiSOnouS_aBsUrdLy.jpg)	Harlan	'	Pressed	(based on tag)	E	1117		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 3	Random (3, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	E	972		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 12	Random (12, fireCRaCker_bRIDgE.jpg)	Harlan	'	Pressed	(based on tag)	C	672		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 8	Random (8, technology_burst.jpg)	Cumby	a	Pressed	(based on tag)	C	750		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 11	Random (11, Clay_EnDlesS.jpg)	Cumby	a	Pressed	(based on tag)	E	2011		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 1	Random (1, beach_fur.jpg)	Harlan	'	Pressed	(based on tag)	E	860		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 6	Random (6, sausage_selection.jpg)	Cumby	a	Pressed	(based on tag)	C	611		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 2	Random (2, EaST_faMily.jpg)	Harlan	'	Pressed	(based on tag)	E	697		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 7	Random (7, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	E	1544		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 17	Random (17, TAMe_ClASSY.jpg)	Harlan	'	Pressed	(based on tag)	C	668		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 4	Random (4, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	2367		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 16	Random (16, serve_battlefield.jpg)	Harlan	'	Pressed	(based on tag)	C	869		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 9	Random (9, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	E	1030		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 13	Random (13, nose_mArrvELouS.jpg)	Harlan	'	Pressed	(based on tag)	C	1039		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 10	Random (10, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	C	631		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 15	Random (15, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	886		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 18	Random (18, tape_drop.jpg)	Harlan	'	Pressed	(based on tag)	C	988		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 12	Random (12, fireCRaCker_bRIDgE.jpg)	Harlan	'	Pressed	(based on tag)	C	619		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 14	Random (14, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	C	1154		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 2	Random (2, EaST_faMily.jpg)	Harlan	'	Pressed	(based on tag)	E	987		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 11	Random (11, Clay_EnDlesS.jpg)	Cumby	a	Pressed	(based on tag)	E	678		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 6	Random (6, sausage_selection.jpg)	Cumby	a	Pressed	(based on tag)	C	725		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 16	Random (16, serve_battlefield.jpg)	Harlan	'	Pressed	(based on tag)	C	740		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 10	Random (10, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	C	5257		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 8	Random (8, technology_burst.jpg)	Cumby	a	Pressed	(based on tag)	C	757		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 9	Random (9, wIld_ChEss.jpg)	Ok	 	Pressed	(based on tag)	E	1598		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 9	Random (9, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	E	1190		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 5	Random (5, PoiSOnouS_aBsUrdLy.jpg)	Cumby	a	Pressed	(based on tag)	C	2500		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 7	Random (7, soap_marble.jpg)	Cumby	a	Pressed	(based on tag)	C	1391		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 17	Random (17, TAMe_ClASSY.jpg)	Harlan	'	Pressed	(based on tag)	C	941		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 13	Random (13, nose_mArrvELouS.jpg)	Harlan	'	Pressed	(based on tag)	C	4361		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 3	Random (3, nEed_mUg.jpg)	Cumby	a	Pressed	(based on tag)	C	14791		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 1	Random (1, beach_fur.jpg)	Cumby	a	Pressed	(based on tag)	C	929		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 4	Random (4, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	780		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 1	Random (1, beach_fur.jpg)	Cumby	a	Pressed	(based on tag)	C	1398		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 9	Random (9, wIld_ChEss.jpg)	Cumby	a	Pressed	(based on tag)	C	776		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 10	Random (10, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	C	11828		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 17	Random (17, TAMe_ClASSY.jpg)	Harlan	'	Pressed	(based on tag)	C	684		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 11	Random (11, Clay_EnDlesS.jpg)	Cumby	a	Pressed	(based on tag)	E	1270		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 6	Random (6, sausage_selection.jpg)	Cumby	a	Pressed	(based on tag)	C	1732		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 14	Random (14, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	C	1632		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 7	Random (7, soap_marble.jpg)	Cumby	a	Pressed	(based on tag)	C	1017		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 4	Random (4, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	720		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 16	Random (16, serve_battlefield.jpg)	Harlan	'	Pressed	(based on tag)	C	525		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 15	Random (15, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	1112		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 12	Random (12, fireCRaCker_bRIDgE.jpg)	Harlan	'	Pressed	(based on tag)	C	941		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 2	Random (2, EaST_faMily.jpg)	Harlan	'	Pressed	(based on tag)	E	717		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 5	Random (5, PoiSOnouS_aBsUrdLy.jpg)	Harlan	'	Pressed	(based on tag)	E	1036		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 8	Random (8, technology_burst.jpg)	Cumby	a	Pressed	(based on tag)	C	774		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 3	Random (3, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	E	814		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 13	Random (13, nose_mArrvELouS.jpg)	Harlan	'	Pressed	(based on tag)	C	719		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 18	Random (18, tape_drop.jpg)	Cumby	a	Pressed	(based on tag)	E	1330		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 3	Random (3, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	E	1127		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 6	Random (6, sausage_selection.jpg)	Cumby	a	Pressed	(based on tag)	C	609		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 4	Random (4, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	635		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 12	Random (12, fireCRaCker_bRIDgE.jpg)	Harlan	'	Pressed	(based on tag)	C	450		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 14	Random (14, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	E	1259		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 8	Random (8, technology_burst.jpg)	Cumby	a	Pressed	(based on tag)	C	546		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 9	Random (9, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	E	647		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 2	Random (2, EaST_faMily.jpg)	Harlan	'	Pressed	(based on tag)	E	684		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 17	Random (17, TAMe_ClASSY.jpg)	Harlan	'	Pressed	(based on tag)	C	584		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 5	Random (5, PoiSOnouS_aBsUrdLy.jpg)	Cumby	a	Pressed	(based on tag)	C	660		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 10	Random (10, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	C	871		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 13	Random (13, nose_mArrvELouS.jpg)	Cumby	a	Pressed	(based on tag)	E	1077		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 15	Random (15, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	1000		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 7	Random (7, soap_marble.jpg)	Cumby	a	Pressed	(based on tag)	C	766		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 11	Random (11, Clay_EnDlesS.jpg)	Cumby	a	Pressed	(based on tag)	E	798		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 18	Random (18, tape_drop.jpg)	Harlan	'	Pressed	(based on tag)	C	897		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 16	Random (16, serve_battlefield.jpg)	Harlan	'	Pressed	(based on tag)	C	1003		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 1	Random (1, beach_fur.jpg)	Cumby	a	Pressed	(based on tag)	C	723		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 13	Random (13, nose_mArrvELouS.jpg)	Harlan	'	Pressed	(based on tag)	C	838		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 17	Random (17, TAMe_ClASSY.jpg)	Harlan	'	Pressed	(based on tag)	C	823		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 18	Random (18, tape_drop.jpg)	Harlan	'	Pressed	(based on tag)	C	1364		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 14	Random (14, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	E	993		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 12	Random (12, fireCRaCker_bRIDgE.jpg)	Harlan	'	Pressed	(based on tag)	C	541		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 7	Random (7, soap_marble.jpg)	Cumby	a	Pressed	(based on tag)	C	2671		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 11	Random (11, Clay_EnDlesS.jpg)	Cumby	a	Pressed	(based on tag)	E	890		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 3	Random (3, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	E	615		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 6	Random (6, sausage_selection.jpg)	Cumby	a	Pressed	(based on tag)	C	1639		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 5	Random (5, PoiSOnouS_aBsUrdLy.jpg)	Cumby	a	Pressed	(based on tag)	C	772		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 10	Random (10, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	C	794		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 16	Random (16, serve_battlefield.jpg)	Harlan	'	Pressed	(based on tag)	C	660		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 15	Random (15, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	646		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 2	Random (2, EaST_faMily.jpg)	Cumby	a	Pressed	(based on tag)	C	649		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 4	Random (4, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	769		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 8	Random (8, technology_burst.jpg)	Cumby	a	Pressed	(based on tag)	C	729		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 9	Random (9, wIld_ChEss.jpg)	Cumby	a	Pressed	(based on tag)	C	756		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 1	Random (1, beach_fur.jpg)	Cumby	a	Pressed	(based on tag)	C	739		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 4	Random (4, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	628		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 9	Random (9, wIld_ChEss.jpg)	Cumby	a	Pressed	(based on tag)	C	1019		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 17	Random (17, TAMe_ClASSY.jpg)	Harlan	'	Pressed	(based on tag)	C	565		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 1	Random (1, beach_fur.jpg)	Harlan	'	Pressed	(based on tag)	E	979		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 12	Random (12, fireCRaCker_bRIDgE.jpg)	Harlan	'	Pressed	(based on tag)	C	509		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 11	Random (11, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	1775		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 6	Random (6, sausage_selection.jpg)	Cumby	a	Pressed	(based on tag)	C	2482		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 8	Random (8, technology_burst.jpg)	Cumby	a	Pressed	(based on tag)	C	1572		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 3	Random (3, nEed_mUg.jpg)	Cumby	a	Pressed	(based on tag)	C	1060		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 16	Random (16, serve_battlefield.jpg)	Harlan	'	Pressed	(based on tag)	C	922		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 18	Random (18, tape_drop.jpg)	Harlan	'	Pressed	(based on tag)	C	806		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 15	Random (15, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	1358		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 5	Random (5, PoiSOnouS_aBsUrdLy.jpg)	Cumby	a	Pressed	(based on tag)	C	903		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 7	Random (7, soap_marble.jpg)	Cumby	a	Pressed	(based on tag)	C	1134		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 13	Random (13, nose_mArrvELouS.jpg)	Harlan	'	Pressed	(based on tag)	C	1142		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 10	Random (10, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	C	833		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 2	Random (2, EaST_faMily.jpg)	Cumby	a	Pressed	(based on tag)	C	749		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 14	Random (14, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	E	831		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 7	Random (7, soap_marble.jpg)	Cumby	a	Pressed	(based on tag)	C	566		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 10	Random (10, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	C	677		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 16	Random (16, serve_battlefield.jpg)	Harlan	'	Pressed	(based on tag)	C	638		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 11	Random (11, Clay_EnDlesS.jpg)	Cumby	a	Pressed	(based on tag)	E	572		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 18	Random (18, tape_drop.jpg)	Harlan	'	Pressed	(based on tag)	C	844		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 5	Random (5, PoiSOnouS_aBsUrdLy.jpg)	Cumby	a	Pressed	(based on tag)	C	535		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 3	Random (3, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	E	10892		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 15	Random (15, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	544		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 8	Random (8, technology_burst.jpg)	Cumby	a	Pressed	(based on tag)	C	620		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 4	Random (4, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	1430		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 2	Random (2, EaST_faMily.jpg)	Cumby	a	Pressed	(based on tag)	C	1378		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 17	Random (17, TAMe_ClASSY.jpg)	Harlan	'	Pressed	(based on tag)	C	2722		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 9	Random (9, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	E	1193		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 13	Random (13, nose_mArrvELouS.jpg)	Harlan	'	Pressed	(based on tag)	C	1364		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 14	Random (14, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	C	878		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 12	Random (12, fireCRaCker_bRIDgE.jpg)	Harlan	'	Pressed	(based on tag)	C	577		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 1	Random (1, beach_fur.jpg)	Cumby	a	Pressed	(based on tag)	C	853		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 6	Random (6, sausage_selection.jpg)	Cumby	a	Pressed	(based on tag)	C	555		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 10	Random (10, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	C	749		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 18	Random (18, tape_drop.jpg)	Harlan	'	Pressed	(based on tag)	C	787		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 2	Random (2, EaST_faMily.jpg)	Cumby	a	Pressed	(based on tag)	C	653		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 6	Random (6, sausage_selection.jpg)	Cumby	a	Pressed	(based on tag)	C	517		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 3	Random (3, nEed_mUg.jpg)	Cumby	a	Pressed	(based on tag)	C	948		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 1	Random (1, beach_fur.jpg)	Cumby	a	Pressed	(based on tag)	C	725		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 4	Random (4, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	936		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 9	Random (9, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	E	765		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 8	Random (8, technology_burst.jpg)	Cumby	a	Pressed	(based on tag)	C	732		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 16	Random (16, serve_battlefield.jpg)	Harlan	'	Pressed	(based on tag)	C	565		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 14	Random (14, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	C	763		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 17	Random (17, TAMe_ClASSY.jpg)	Harlan	'	Pressed	(based on tag)	C	520		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 12	Random (12, fireCRaCker_bRIDgE.jpg)	Harlan	'	Pressed	(based on tag)	C	528		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 13	Random (13, nose_mArrvELouS.jpg)	Harlan	'	Pressed	(based on tag)	C	716		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 7	Random (7, soap_marble.jpg)	Cumby	a	Pressed	(based on tag)	C	1432		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 11	Random (11, Clay_EnDlesS.jpg)	Cumby	a	Pressed	(based on tag)	E	672		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 15	Random (15, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	558		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 5	Random (5, PoiSOnouS_aBsUrdLy.jpg)	Cumby	a	Pressed	(based on tag)	C	628		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 14	Random (14, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	E	1031		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 15	Random (15, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	763		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 6	Random (6, sausage_selection.jpg)	Cumby	a	Pressed	(based on tag)	C	541		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 11	Random (11, Clay_EnDlesS.jpg)	Cumby	a	Pressed	(based on tag)	E	715		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 16	Random (16, serve_battlefield.jpg)	Harlan	'	Pressed	(based on tag)	C	552		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 10	Random (10, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	C	785		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 17	Random (17, TAMe_ClASSY.jpg)	Harlan	'	Pressed	(based on tag)	C	567		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 5	Random (5, PoiSOnouS_aBsUrdLy.jpg)	Cumby	a	Pressed	(based on tag)	C	523		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 18	Random (18, tape_drop.jpg)	Harlan	'	Pressed	(based on tag)	C	678		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 12	Random (12, fireCRaCker_bRIDgE.jpg)	Harlan	'	Pressed	(based on tag)	C	628		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 9	Random (9, wIld_ChEss.jpg)	Cumby	a	Pressed	(based on tag)	C	773		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 1	Random (1, beach_fur.jpg)	Cumby	a	Pressed	(based on tag)	C	607		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 2	Random (2, EaST_faMily.jpg)	Cumby	a	Pressed	(based on tag)	C	767		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 3	Random (3, nEed_mUg.jpg)	Cumby	a	Pressed	(based on tag)	C	1379		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 13	Random (13, nose_mArrvELouS.jpg)	Harlan	'	Pressed	(based on tag)	C	931		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 7	Random (7, soap_marble.jpg)	Cumby	a	Pressed	(based on tag)	C	702		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 8	Random (8, technology_burst.jpg)	Cumby	a	Pressed	(based on tag)	C	560		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 4	Random (4, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	588		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 7	Random (7, soap_marble.jpg)	Cumby	a	Pressed	(based on tag)	C	793		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 8	Random (8, technology_burst.jpg)	Cumby	a	Pressed	(based on tag)	C	535		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 10	Random (10, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	C	926		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 6	Random (6, sausage_selection.jpg)	Cumby	a	Pressed	(based on tag)	C	647		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 12	Random (12, fireCRaCker_bRIDgE.jpg)	Harlan	'	Pressed	(based on tag)	C	593		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 4	Random (4, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	509		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 11	Random (11, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	1007		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 17	Random (17, TAMe_ClASSY.jpg)	Harlan	'	Pressed	(based on tag)	C	713		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 18	Random (18, tape_drop.jpg)	Harlan	'	Pressed	(based on tag)	C	706		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 16	Random (16, serve_battlefield.jpg)	Harlan	'	Pressed	(based on tag)	C	549		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 5	Random (5, PoiSOnouS_aBsUrdLy.jpg)	Cumby	a	Pressed	(based on tag)	C	499		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 2	Random (2, EaST_faMily.jpg)	Cumby	a	Pressed	(based on tag)	C	927		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 14	Random (14, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	E	2520		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 13	Random (13, nose_mArrvELouS.jpg)	Harlan	'	Pressed	(based on tag)	C	637		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 15	Random (15, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	810		Harlan	undefined
+Main Group	R-45	R-45	Training	Random, 1	Random (1, beach_fur.jpg)	Cumby	a	Pressed	(based on tag)	C	661		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 9	Random (9, wIld_ChEss.jpg)	Cumby	a	Pressed	(based on tag)	C	832		Cumby	undefined
+Main Group	R-45	R-45	Training	Random, 3	Random (3, nEed_mUg.jpg)	Cumby	a	Pressed	(based on tag)	C	582		Cumby	undefined
+Main Group	R-45	R-45	End	Test, 4	Test (4, bLAND_bLACk.jpg)	Harlan	'	Pressed	(any response)	C	1838			undefined
+Main Group	R-45	R-45	End	Test, 25	Test (25, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(any response)	C	1682			undefined
+Main Group	R-45	R-45	End	Test, 6	Test (6, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(any response)	C	554			undefined
+Main Group	R-45	R-45	End	Test, 19	Test (19, lily_inappropriate.jpg)	Cumby	a	Pressed	(any response)	C	1312			undefined
+Main Group	R-45	R-45	End	Test, 16	Test (16, GiraFFe_nEck.jpg)	Harlan	'	Pressed	(any response)	C	2106			undefined
+Main Group	R-45	R-45	End	Test, 37	Test (37, soap_marble.jpg)	Cumby	a	Pressed	(any response)	C	1670			undefined
+Main Group	R-45	R-45	End	Test, 22	Test (22, nose_mArrvELouS.jpg)	Harlan	'	Pressed	(any response)	C	815			undefined
+Main Group	R-45	R-45	End	Test, 30	Test (30, riddle_grape.jpg)	Cumby	a	Pressed	(any response)	C	1417			undefined
+Main Group	R-45	R-45	End	Test, 26	Test (26, publicity_commemorate.jpg)	Harlan	'	Pressed	(any response)	C	1362			undefined
+Main Group	R-45	R-45	End	Test, 21	Test (21, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(any response)	C	732			undefined
+Main Group	R-45	R-45	End	Test, 33	Test (33, sense_scandalous.jpg)	Harlan	'	Pressed	(any response)	C	686			undefined
+Main Group	R-45	R-45	End	Test, 38	Test (38, source_low.jpg)	Harlan	'	Pressed	(any response)	C	1322			undefined
+Main Group	R-45	R-45	End	Test, 47	Test (47, TRANSpoRt_orgANIC.jpg)	Cumby	a	Pressed	(any response)	C	695			undefined
+Main Group	R-45	R-45	End	Test, 45	Test (45, thuNdEr_PeLViC.jpg)	Harlan	'	Pressed	(any response)	C	1033			undefined
+Main Group	R-45	R-45	End	Test, 24	Test (24, PoiSOnouS_aBsUrdLy.jpg)	Cumby	a	Pressed	(any response)	C	766			undefined
+Main Group	R-45	R-45	End	Test, 39	Test (39, StrrAngEr_Dress.jpg)	Harlan	'	Pressed	(any response)	C	793			undefined
+Main Group	R-45	R-45	End	Test, 43	Test (43, technology_burst.jpg)	Cumby	a	Pressed	(any response)	C	603			undefined
+Main Group	R-45	R-45	End	Test, 13	Test (13, fireCRaCker_bRIDgE.jpg)	Harlan	'	Pressed	(any response)	C	605			undefined
+Main Group	R-45	R-45	End	Test, 7	Test (7, cEmetErry_plAin.jpg)	Cumby	a	Pressed	(any response)	C	2200			undefined
+Main Group	R-45	R-45	End	Test, 20	Test (20, nEed_mUg.jpg)	Cumby	a	Pressed	(any response)	C	1321			undefined
+Main Group	R-45	R-45	End	Test, 23	Test (23, PAinstAkINg_Thought.jpg)	Cumby	a	Pressed	(any response)	C	763			undefined
+Main Group	R-45	R-45	End	Test, 3	Test (3, beach_fur.jpg)	Cumby	a	Pressed	(any response)	C	1132			undefined
+Main Group	R-45	R-45	End	Test, 31	Test (31, rOSe_ENdUrabLE.jpg)	Cumby	a	Pressed	(any response)	C	996			undefined
+Main Group	R-45	R-45	End	Test, 42	Test (42, tape_drop.jpg)	Harlan	'	Pressed	(any response)	C	725			undefined
+Main Group	R-45	R-45	End	Test, 44	Test (44, technology_circle.jpg)	Cumby	a	Pressed	(any response)	C	630			undefined
+Main Group	R-45	R-45	End	Test, 10	Test (10, destruction_conscience.jpg)	Harlan	'	Pressed	(any response)	C	883			undefined
+Main Group	R-45	R-45	End	Test, 5	Test (5, boundary_head.jpg)	Cumby	a	Pressed	(any response)	C	672			undefined
+Main Group	R-45	R-45	End	Test, 2	Test (2, afford_gutter.jpg)	Cumby	a	Pressed	(any response)	C	866			undefined
+Main Group	R-45	R-45	End	Test, 27	Test (27, QueUe_dApPer.jpg)	Harlan	'	Pressed	(any response)	C	1570			undefined
+Main Group	R-45	R-45	End	Test, 1	Test (1, abject_urge.jpg)	Cumby	a	Pressed	Cumby; Harlan	C	803			undefined
+Main Group	R-45	R-45	End	Test, 36	Test (36, simplistic_renew.jpg)	Cumby	a	Pressed	(any response)	C	761			undefined
+Main Group	R-45	R-45	End	Test, 29	Test (29, requirement_circle.jpg)	Cumby	a	Pressed	(any response)	C	623			undefined
+Main Group	R-45	R-45	End	Test, 35	Test (35, shareholder_air.jpg)	Cumby	a	Pressed	(any response)	C	1154			undefined
+Main Group	R-45	R-45	End	Test, 32	Test (32, sausage_selection.jpg)	Cumby	a	Pressed	(any response)	C	676			undefined
+Main Group	R-45	R-45	End	Test, 18	Test (18, hard-to-find_brush.jpg)	Harlan	'	Pressed	(any response)	C	690			undefined
+Main Group	R-45	R-45	End	Test, 12	Test (12, feature_dog.jpg)	Harlan	'	Pressed	(any response)	C	1003			undefined
+Main Group	R-45	R-45	End	Test, 14	Test (14, friend_Koran.jpg)	Cumby	a	Pressed	(any response)	C	1283			undefined
+Main Group	R-45	R-45	End	Test, 46	Test (46, trait_basket.jpg)	Harlan	'	Pressed	(any response)	C	1082			undefined
+Main Group	R-45	R-45	End	Test, 15	Test (15, fUTure_data.jpg)	Cumby	a	Pressed	(any response)	C	737			undefined
+Main Group	R-45	R-45	End	Test, 41	Test (41, TAMe_ClASSY.jpg)	Harlan	'	Pressed	(any response)	C	477			undefined
+Main Group	R-45	R-45	End	Test, 17	Test (17, GlOsSy_cEAsELEss.jpg)	Cumby	a	Pressed	(any response)	C	779			undefined
+Main Group	R-45	R-45	End	Test, 28	Test (28, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(any response)	C	520			undefined
+Main Group	R-45	R-45	End	Test, 9	Test (9, crowd_eat.jpg)	Cumby	a	Pressed	(any response)	C	661			undefined
+Main Group	R-45	R-45	End	Test, 40	Test (40, structure_mention.jpg)	Cumby	a	Pressed	(any response)	C	694			undefined
+Main Group	R-45	R-45	End	Test, 48	Test (48, wIld_ChEss.jpg)	Cumby	a	Pressed	(any response)	C	1156			undefined
+Main Group	R-45	R-45	End	Test, 8	Test (8, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(any response)	C	982			undefined
+Main Group	R-45	R-45	End	Test, 11	Test (11, EaST_faMily.jpg)	Cumby	a	Pressed	(any response)	C	1686			undefined
+Main Group	R-45	R-45	End	Test, 34	Test (34, serve_battlefield.jpg)	Harlan	'	Pressed	(any response)	C	603			undefined

@@ -1,0 +1,270 @@
+F-16
+cumby-harlan
+12/4/2018	10:58:54 AM
+
+Participant	Participant	Session	Block	Trial	Event	Participant		Pressed Or	Correct	Error	Reaction
+Group	Name	ID	Name	Name	Name	Response	Key	Released	Response	Code	Time	Trial Answered	Categories	average
+Main Group	F-16		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	3507		Cumby	undefined
+Main Group	F-16		Training	Far, 9	Far (9, structure_mention.jpg)	Harlan	'	Pressed	(based on tag)	E	3129		Cumby	undefined
+Main Group	F-16		Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	2227		Cumby	undefined
+Main Group	F-16		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	E	2672		Cumby	undefined
+Main Group	F-16		Training	Far, 17	Far (17, source_low.jpg)	Cumby	a	Pressed	(based on tag)	E	3957		Harlan	undefined
+Main Group	F-16		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Harlan	'	Pressed	(based on tag)	E	2644		Cumby	undefined
+Main Group	F-16		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	1846		Cumby	undefined
+Main Group	F-16		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1181		Harlan	undefined
+Main Group	F-16		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	1058		Harlan	undefined
+Main Group	F-16		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Harlan	'	Pressed	(based on tag)	E	1044		Cumby	undefined
+Main Group	F-16		Training	Far, 1	Far (1, afford_gutter.jpg)	Harlan	'	Pressed	(based on tag)	E	911		Cumby	undefined
+Main Group	F-16		Training	Far, 14	Far (14, sense_scandalous.jpg)	Cumby	a	Pressed	(based on tag)	E	1351		Harlan	undefined
+Main Group	F-16		Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	487		Harlan	undefined
+Main Group	F-16		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	553		Harlan	undefined
+Main Group	F-16		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	488		Harlan	undefined
+Main Group	F-16		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	369		Harlan	undefined
+Main Group	F-16		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Cumby	a	Pressed	(based on tag)	E	427		Harlan	undefined
+Main Group	F-16		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	727		Cumby	undefined
+Main Group	F-16		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Cumby	a	Pressed	(based on tag)	E	692		Harlan	undefined
+Main Group	F-16		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Cumby	a	Pressed	(based on tag)	E	788		Harlan	undefined
+Main Group	F-16		Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	584		Harlan	undefined
+Main Group	F-16		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	1425		Cumby	undefined
+Main Group	F-16		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	657		Harlan	undefined
+Main Group	F-16		Training	Far, 15	Far (15, shareholder_air.jpg)	Cumby	a	Pressed	(based on tag)	E	422		Harlan	undefined
+Main Group	F-16		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	358		Cumby	undefined
+Main Group	F-16		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Harlan	'	Pressed	(based on tag)	E	579		Cumby	undefined
+Main Group	F-16		Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	352		Harlan	undefined
+Main Group	F-16		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	523		Harlan	undefined
+Main Group	F-16		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	673		Harlan	undefined
+Main Group	F-16		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	550		Cumby	undefined
+Main Group	F-16		Training	Far, 14	Far (14, sense_scandalous.jpg)	Cumby	a	Pressed	(based on tag)	E	613		Harlan	undefined
+Main Group	F-16		Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	458		Cumby	undefined
+Main Group	F-16		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	1428		Cumby	undefined
+Main Group	F-16		Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	2125		Cumby	undefined
+Main Group	F-16		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Harlan	'	Pressed	(based on tag)	E	677		Cumby	undefined
+Main Group	F-16		Training	Far, 1	Far (1, afford_gutter.jpg)	Harlan	'	Pressed	(based on tag)	E	1016		Cumby	undefined
+Main Group	F-16		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	E	978		Cumby	undefined
+Main Group	F-16		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	1131		Harlan	undefined
+Main Group	F-16		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Harlan	'	Pressed	(based on tag)	E	982		Cumby	undefined
+Main Group	F-16		Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	1300		Harlan	undefined
+Main Group	F-16		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Harlan	'	Pressed	(based on tag)	E	2108		Cumby	undefined
+Main Group	F-16		Training	Far, 1	Far (1, afford_gutter.jpg)	Harlan	'	Pressed	(based on tag)	E	760		Cumby	undefined
+Main Group	F-16		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	1307		Harlan	undefined
+Main Group	F-16		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	912		Harlan	undefined
+Main Group	F-16		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	965		Cumby	undefined
+Main Group	F-16		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Cumby	a	Pressed	(based on tag)	E	742		Harlan	undefined
+Main Group	F-16		Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	1079		Harlan	undefined
+Main Group	F-16		Training	Far, 17	Far (17, source_low.jpg)	Cumby	a	Pressed	(based on tag)	E	1090		Harlan	undefined
+Main Group	F-16		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	1143		Cumby	undefined
+Main Group	F-16		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	2521		Harlan	undefined
+Main Group	F-16		Training	Far, 3	Far (3, feature_dog.jpg)	Harlan	'	Pressed	(based on tag)	E	991		Cumby	undefined
+Main Group	F-16		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Cumby	a	Pressed	(based on tag)	E	625		Harlan	undefined
+Main Group	F-16		Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	969		Cumby	undefined
+Main Group	F-16		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Harlan	'	Pressed	(based on tag)	E	918		Cumby	undefined
+Main Group	F-16		Training	Far, 17	Far (17, source_low.jpg)	Cumby	a	Pressed	(based on tag)	E	1162		Harlan	undefined
+Main Group	F-16		Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	924		Cumby	undefined
+Main Group	F-16		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Harlan	'	Pressed	(based on tag)	E	2322		Cumby	undefined
+Main Group	F-16		Training	Far, 16	Far (16, soap_marble.jpg)	Cumby	a	Pressed	(based on tag)	E	1275		Harlan	undefined
+Main Group	F-16		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Cumby	a	Pressed	(based on tag)	E	1762		Harlan	undefined
+Main Group	F-16		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	1175		Cumby	undefined
+Main Group	F-16		Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	1314		Cumby	undefined
+Main Group	F-16		Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	1638		Cumby	undefined
+Main Group	F-16		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Harlan	'	Pressed	(based on tag)	E	1574		Cumby	undefined
+Main Group	F-16		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Cumby	a	Pressed	(based on tag)	E	1078		Harlan	undefined
+Main Group	F-16		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1798		Harlan	undefined
+Main Group	F-16		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	1684		Cumby	undefined
+Main Group	F-16		Training	Far, 14	Far (14, sense_scandalous.jpg)	Cumby	a	Pressed	(based on tag)	E	1522		Harlan	undefined
+Main Group	F-16		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	1489		Cumby	undefined
+Main Group	F-16		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	1927		Harlan	undefined
+Main Group	F-16		Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	2039		Harlan	undefined
+Main Group	F-16		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	1664		Cumby	undefined
+Main Group	F-16		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	771		Harlan	undefined
+Main Group	F-16		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	1094		Cumby	undefined
+Main Group	F-16		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Harlan	'	Pressed	(based on tag)	E	746		Cumby	undefined
+Main Group	F-16		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	946		Cumby	undefined
+Main Group	F-16		Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	2174		Harlan	undefined
+Main Group	F-16		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	1419		Harlan	undefined
+Main Group	F-16		Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	1205		Cumby	undefined
+Main Group	F-16		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	780		Cumby	undefined
+Main Group	F-16		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	1479		Harlan	undefined
+Main Group	F-16		Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	1997		Harlan	undefined
+Main Group	F-16		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Cumby	a	Pressed	(based on tag)	E	858		Harlan	undefined
+Main Group	F-16		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Cumby	a	Pressed	(based on tag)	E	910		Harlan	undefined
+Main Group	F-16		Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	1350		Cumby	undefined
+Main Group	F-16		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	1393		Harlan	undefined
+Main Group	F-16		Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	926		Cumby	undefined
+Main Group	F-16		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Harlan	'	Pressed	(based on tag)	E	2334		Cumby	undefined
+Main Group	F-16		Training	Far, 17	Far (17, source_low.jpg)	Cumby	a	Pressed	(based on tag)	E	1466		Harlan	undefined
+Main Group	F-16		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Cumby	a	Pressed	(based on tag)	E	4173		Harlan	undefined
+Main Group	F-16		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	E	1652		Cumby	undefined
+Main Group	F-16		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	847		Cumby	undefined
+Main Group	F-16		Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	3098		Cumby	undefined
+Main Group	F-16		Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	1646		Cumby	undefined
+Main Group	F-16		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	1413		Cumby	undefined
+Main Group	F-16		Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	672		Cumby	undefined
+Main Group	F-16		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	929		Harlan	undefined
+Main Group	F-16		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	728		Cumby	undefined
+Main Group	F-16		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	705		Cumby	undefined
+Main Group	F-16		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	932		Harlan	undefined
+Main Group	F-16		Training	Far, 13	Far (13, nEed_mUg.jpg)	Cumby	a	Pressed	(based on tag)	E	1323		Harlan	undefined
+Main Group	F-16		Training	Far, 17	Far (17, source_low.jpg)	Cumby	a	Pressed	(based on tag)	E	1164		Harlan	undefined
+Main Group	F-16		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	1011		Cumby	undefined
+Main Group	F-16		Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	1340		Harlan	undefined
+Main Group	F-16		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	939		Harlan	undefined
+Main Group	F-16		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Cumby	a	Pressed	(based on tag)	E	13695		Harlan	undefined
+Main Group	F-16		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	818		Cumby	undefined
+Main Group	F-16		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Cumby	a	Pressed	(based on tag)	E	915		Harlan	undefined
+Main Group	F-16		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	2437		Harlan	undefined
+Main Group	F-16		Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	909		Cumby	undefined
+Main Group	F-16		Training	Far, 17	Far (17, source_low.jpg)	Cumby	a	Pressed	(based on tag)	E	932		Harlan	undefined
+Main Group	F-16		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	1205		Harlan	undefined
+Main Group	F-16		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Harlan	'	Pressed	(based on tag)	E	1125		Cumby	undefined
+Main Group	F-16		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	2318		Cumby	undefined
+Main Group	F-16		Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	1178		Cumby	undefined
+Main Group	F-16		Training	Far, 14	Far (14, sense_scandalous.jpg)	Cumby	a	Pressed	(based on tag)	E	1389		Harlan	undefined
+Main Group	F-16		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	575		Harlan	undefined
+Main Group	F-16		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Cumby	a	Pressed	(based on tag)	E	1894		Harlan	undefined
+Main Group	F-16		Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	1829		Harlan	undefined
+Main Group	F-16		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	749		Harlan	undefined
+Main Group	F-16		Training	Far, 1	Far (1, afford_gutter.jpg)	Harlan	'	Pressed	(based on tag)	E	1099		Cumby	undefined
+Main Group	F-16		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	2359		Cumby	undefined
+Main Group	F-16		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	E	2235		Cumby	undefined
+Main Group	F-16		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	1875		Harlan	undefined
+Main Group	F-16		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	916		Cumby	undefined
+Main Group	F-16		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Cumby	a	Pressed	(based on tag)	E	3583		Harlan	undefined
+Main Group	F-16		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	1014		Cumby	undefined
+Main Group	F-16		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	895		Cumby	undefined
+Main Group	F-16		Training	Far, 17	Far (17, source_low.jpg)	Cumby	a	Pressed	(based on tag)	E	1330		Harlan	undefined
+Main Group	F-16		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1217		Harlan	undefined
+Main Group	F-16		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	1030		Harlan	undefined
+Main Group	F-16		Training	Far, 1	Far (1, afford_gutter.jpg)	Harlan	'	Pressed	(based on tag)	E	1499		Cumby	undefined
+Main Group	F-16		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	703		Cumby	undefined
+Main Group	F-16		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	1118		Harlan	undefined
+Main Group	F-16		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	1296		Cumby	undefined
+Main Group	F-16		Training	Far, 3	Far (3, feature_dog.jpg)	Harlan	'	Pressed	(based on tag)	E	1125		Cumby	undefined
+Main Group	F-16		Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	665		Cumby	undefined
+Main Group	F-16		Training	Far, 13	Far (13, nEed_mUg.jpg)	Cumby	a	Pressed	(based on tag)	E	1236		Harlan	undefined
+Main Group	F-16		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	982		Cumby	undefined
+Main Group	F-16		Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	1292		Harlan	undefined
+Main Group	F-16		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	E	1007		Cumby	undefined
+Main Group	F-16		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Cumby	a	Pressed	(based on tag)	E	3293		Harlan	undefined
+Main Group	F-16		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	996		Harlan	undefined
+Main Group	F-16		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	950		Cumby	undefined
+Main Group	F-16		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	752		Harlan	undefined
+Main Group	F-16		Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	962		Harlan	undefined
+Main Group	F-16		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Cumby	a	Pressed	(based on tag)	E	1504		Harlan	undefined
+Main Group	F-16		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	747		Cumby	undefined
+Main Group	F-16		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	870		Cumby	undefined
+Main Group	F-16		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	731		Harlan	undefined
+Main Group	F-16		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	1091		Cumby	undefined
+Main Group	F-16		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	543		Harlan	undefined
+Main Group	F-16		Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	722		Harlan	undefined
+Main Group	F-16		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	1025		Cumby	undefined
+Main Group	F-16		Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	514		Harlan	undefined
+Main Group	F-16		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	783		Harlan	undefined
+Main Group	F-16		Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	1273		Cumby	undefined
+Main Group	F-16		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	1628		Harlan	undefined
+Main Group	F-16		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	695		Harlan	undefined
+Main Group	F-16		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	934		Cumby	undefined
+Main Group	F-16		Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	1028		Cumby	undefined
+Main Group	F-16		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	812		Cumby	undefined
+Main Group	F-16		Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	937		Cumby	undefined
+Main Group	F-16		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	1121		Cumby	undefined
+Main Group	F-16		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	1586		Cumby	undefined
+Main Group	F-16		Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	1016		Harlan	undefined
+Main Group	F-16		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	513		Harlan	undefined
+Main Group	F-16		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	723		Cumby	undefined
+Main Group	F-16		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1635		Harlan	undefined
+Main Group	F-16		Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	2279		Cumby	undefined
+Main Group	F-16		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	1063		Cumby	undefined
+Main Group	F-16		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	781		Harlan	undefined
+Main Group	F-16		Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	813		Harlan	undefined
+Main Group	F-16		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	665		Harlan	undefined
+Main Group	F-16		Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	573		Harlan	undefined
+Main Group	F-16		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	730		Cumby	undefined
+Main Group	F-16		Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	1182		Cumby	undefined
+Main Group	F-16		Training	Far, 3	Far (3, feature_dog.jpg)	Harlan	'	Pressed	(based on tag)	E	1220		Cumby	undefined
+Main Group	F-16		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	678		Harlan	undefined
+Main Group	F-16		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	7134		Harlan	undefined
+Main Group	F-16		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	1828		Cumby	undefined
+Main Group	F-16		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	979		Cumby	undefined
+Main Group	F-16		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	3131		Cumby	undefined
+Main Group	F-16		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1067		Harlan	undefined
+Main Group	F-16		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	690		Harlan	undefined
+Main Group	F-16		Training	Far, 3	Far (3, feature_dog.jpg)	Harlan	'	Pressed	(based on tag)	E	3445		Cumby	undefined
+Main Group	F-16		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	1379		Harlan	undefined
+Main Group	F-16		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	1257		Cumby	undefined
+Main Group	F-16		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	1268		Cumby	undefined
+Main Group	F-16		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	680		Harlan	undefined
+Main Group	F-16		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	764		Harlan	undefined
+Main Group	F-16		Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	638		Harlan	undefined
+Main Group	F-16		Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	774		Harlan	undefined
+Main Group	F-16		Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	769		Harlan	undefined
+Main Group	F-16		Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	4528		Cumby	undefined
+Main Group	F-16		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	750		Cumby	undefined
+Main Group	F-16		Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	877		Cumby	undefined
+Main Group	F-16		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	824		Harlan	undefined
+Main Group	F-16		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	682		Cumby	undefined
+Main Group	F-16		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	662		Cumby	undefined
+Main Group	F-16		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	575		Cumby	undefined
+Main Group	F-16		Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	650		Cumby	undefined
+Main Group	F-16		Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	701		Harlan	undefined
+Main Group	F-16		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	724		Cumby	undefined
+Main Group	F-16		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	1699		Cumby	undefined
+Main Group	F-16		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	1065		Cumby	undefined
+Main Group	F-16		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	913		Harlan	undefined
+Main Group	F-16		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	696		Harlan	undefined
+Main Group	F-16		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1117		Harlan	undefined
+Main Group	F-16		Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	653		Harlan	undefined
+Main Group	F-16		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	498		Harlan	undefined
+Main Group	F-16		Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	474		Harlan	undefined
+Main Group	F-16		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	496		Cumby	undefined
+Main Group	F-16		Training	Far, 3	Far (3, feature_dog.jpg)	Harlan	'	Pressed	(based on tag)	E	1389		Cumby	undefined
+Main Group	F-16		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	622		Harlan	undefined
+Main Group	F-16		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	635		Harlan	undefined
+Main Group	F-16		Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	669		Cumby	undefined
+Main Group	F-16		End	Test, 18	Test (18, hard-to-find_brush.jpg)	Harlan	'	Pressed	(any response)	C	2158			undefined
+Main Group	F-16		End	Test, 4	Test (4, bLAND_bLACk.jpg)	Harlan	'	Pressed	(any response)	C	1759			undefined
+Main Group	F-16		End	Test, 47	Test (47, TRANSpoRt_orgANIC.jpg)	Cumby	a	Pressed	(any response)	C	1695			undefined
+Main Group	F-16		End	Test, 19	Test (19, lily_inappropriate.jpg)	Cumby	a	Pressed	(any response)	C	733			undefined
+Main Group	F-16		End	Test, 13	Test (13, fireCRaCker_bRIDgE.jpg)	Cumby	a	Pressed	(any response)	C	873			undefined
+Main Group	F-16		End	Test, 11	Test (11, EaST_faMily.jpg)	Cumby	a	Pressed	(any response)	C	1351			undefined
+Main Group	F-16		End	Test, 48	Test (48, wIld_ChEss.jpg)	Harlan	'	Pressed	(any response)	C	1141			undefined
+Main Group	F-16		End	Test, 43	Test (43, technology_burst.jpg)	Cumby	a	Pressed	(any response)	C	1318			undefined
+Main Group	F-16		End	Test, 6	Test (6, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(any response)	C	902			undefined
+Main Group	F-16		End	Test, 44	Test (44, technology_circle.jpg)	Harlan	'	Pressed	(any response)	C	812			undefined
+Main Group	F-16		End	Test, 17	Test (17, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(any response)	C	617			undefined
+Main Group	F-16		End	Test, 8	Test (8, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(any response)	C	625			undefined
+Main Group	F-16		End	Test, 27	Test (27, QueUe_dApPer.jpg)	Cumby	a	Pressed	(any response)	C	567			undefined
+Main Group	F-16		End	Test, 15	Test (15, fUTure_data.jpg)	Cumby	a	Pressed	(any response)	C	524			undefined
+Main Group	F-16		End	Test, 38	Test (38, source_low.jpg)	Harlan	'	Pressed	(any response)	C	601			undefined
+Main Group	F-16		End	Test, 30	Test (30, riddle_grape.jpg)	Harlan	'	Pressed	(any response)	C	1107			undefined
+Main Group	F-16		End	Test, 45	Test (45, thuNdEr_PeLViC.jpg)	Harlan	'	Pressed	(any response)	C	524			undefined
+Main Group	F-16		End	Test, 21	Test (21, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(any response)	C	636			undefined
+Main Group	F-16		End	Test, 39	Test (39, StrrAngEr_Dress.jpg)	Harlan	'	Pressed	(any response)	C	546			undefined
+Main Group	F-16		End	Test, 33	Test (33, sense_scandalous.jpg)	Harlan	'	Pressed	(any response)	C	1543			undefined
+Main Group	F-16		End	Test, 25	Test (25, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(any response)	C	735			undefined
+Main Group	F-16		End	Test, 23	Test (23, PAinstAkINg_Thought.jpg)	Cumby	a	Pressed	(any response)	C	1020			undefined
+Main Group	F-16		End	Test, 42	Test (42, tape_drop.jpg)	Harlan	'	Pressed	(any response)	C	634			undefined
+Main Group	F-16		End	Test, 9	Test (9, crowd_eat.jpg)	Cumby	a	Pressed	(any response)	C	866			undefined
+Main Group	F-16		End	Test, 37	Test (37, soap_marble.jpg)	Harlan	'	Pressed	(any response)	C	584			undefined
+Main Group	F-16		End	Test, 7	Test (7, cEmetErry_plAin.jpg)	Cumby	a	Pressed	(any response)	C	997			undefined
+Main Group	F-16		End	Test, 16	Test (16, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(any response)	C	683			undefined
+Main Group	F-16		End	Test, 34	Test (34, serve_battlefield.jpg)	Harlan	'	Pressed	(any response)	C	587			undefined
+Main Group	F-16		End	Test, 32	Test (32, sausage_selection.jpg)	Cumby	a	Pressed	(any response)	C	940			undefined
+Main Group	F-16		End	Test, 41	Test (41, TAMe_ClASSY.jpg)	Cumby	a	Pressed	(any response)	C	769			undefined
+Main Group	F-16		End	Test, 12	Test (12, feature_dog.jpg)	Harlan	'	Pressed	(any response)	C	646			undefined
+Main Group	F-16		End	Test, 22	Test (22, nose_mArrvELouS.jpg)	Harlan	'	Pressed	(any response)	C	1365			undefined
+Main Group	F-16		End	Test, 24	Test (24, PoiSOnouS_aBsUrdLy.jpg)	Harlan	'	Pressed	(any response)	C	916			undefined
+Main Group	F-16		End	Test, 29	Test (29, requirement_circle.jpg)	Harlan	'	Pressed	(any response)	C	862			undefined
+Main Group	F-16		End	Test, 46	Test (46, trait_basket.jpg)	Cumby	a	Pressed	(any response)	C	630			undefined
+Main Group	F-16		End	Test, 28	Test (28, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(any response)	C	3899			undefined
+Main Group	F-16		End	Test, 40	Test (40, structure_mention.jpg)	Cumby	a	Pressed	(any response)	C	806			undefined
+Main Group	F-16		End	Test, 10	Test (10, destruction_conscience.jpg)	Cumby	a	Pressed	(any response)	C	525			undefined
+Main Group	F-16		End	Test, 26	Test (26, publicity_commemorate.jpg)	Harlan	'	Pressed	(any response)	C	602			undefined
+Main Group	F-16		End	Test, 31	Test (31, rOSe_ENdUrabLE.jpg)	Cumby	a	Pressed	(any response)	C	806			undefined
+Main Group	F-16		End	Test, 5	Test (5, boundary_head.jpg)	Harlan	'	Pressed	(any response)	C	618			undefined
+Main Group	F-16		End	Test, 3	Test (3, beach_fur.jpg)	Cumby	a	Pressed	(any response)	C	599			undefined
+Main Group	F-16		End	Test, 36	Test (36, simplistic_renew.jpg)	Harlan	'	Pressed	(any response)	C	527			undefined
+Main Group	F-16		End	Test, 20	Test (20, nEed_mUg.jpg)	Harlan	'	Pressed	(any response)	C	456			undefined
+Main Group	F-16		End	Test, 1	Test (1, abject_urge.jpg)	Harlan	'	Pressed	Cumby; Harlan	C	630			undefined
+Main Group	F-16		End	Test, 2	Test (2, afford_gutter.jpg)	Cumby	a	Pressed	(any response)	C	607			undefined
+Main Group	F-16		End	Test, 35	Test (35, shareholder_air.jpg)	Harlan	'	Pressed	(any response)	C	541			undefined
+Main Group	F-16		End	Test, 14	Test (14, friend_Koran.jpg)	Cumby	a	Pressed	(any response)	C	586			undefined

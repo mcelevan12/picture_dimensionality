@@ -1,0 +1,1878 @@
+22
+picturesimilarity
+11/13/2018	12:31:32 PM
+
+Participant	Participant	Session	Block	Trial	Event	Participant		Correct	Error	Reaction
+Group	Name	ID	Name	Name	Name	Response	Key	Response	Code	Time	Trial Answered
+Main Group	22	22	ratings	Ratings, 612	Image 1 (48, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 612	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 612	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	19506	
+Main Group	22	22	ratings	Ratings, 79	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 79	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 79	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	13704	
+Main Group	22	22	ratings	Ratings, 342	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 342	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 342	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	8918	
+Main Group	22	22	ratings	Ratings, 184	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 184	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 184	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	4961	
+Main Group	22	22	ratings	Ratings, 310	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 310	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 310	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	5148	
+Main Group	22	22	ratings	Ratings, 393	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 393	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 393	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	6415	
+Main Group	22	22	ratings	Ratings, 300	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 300	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 300	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	5250	
+Main Group	22	22	ratings	Ratings, 257	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 257	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 257	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	5316	
+Main Group	22	22	ratings	Ratings, 252	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 252	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 252	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	3299	
+Main Group	22	22	ratings	Ratings, 400	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 400	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 400	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	3292	
+Main Group	22	22	ratings	Ratings, 326	Image 1 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 326	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 326	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	3568	
+Main Group	22	22	ratings	Ratings, 28	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 28	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 28	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	3575	
+Main Group	22	22	ratings	Ratings, 407	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 407	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 407	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2392	
+Main Group	22	22	ratings	Ratings, 560	Image 1 (44, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 560	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 560	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	6361	
+Main Group	22	22	ratings	Ratings, 414	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 414	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 414	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	8594	
+Main Group	22	22	ratings	Ratings, 23	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 23	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 23	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2943	
+Main Group	22	22	ratings	Ratings, 169	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 169	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 169	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	3751	
+Main Group	22	22	ratings	Ratings, 290	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 290	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 290	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	3659	
+Main Group	22	22	ratings	Ratings, 521	Image 1 (41, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 521	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 521	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3190	
+Main Group	22	22	ratings	Ratings, 327	Image 1 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 327	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 327	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	24486	
+Main Group	22	22	ratings	Ratings, 385	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 385	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 385	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	3810	
+Main Group	22	22	ratings	Ratings, 291	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 291	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 291	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	6476	
+Main Group	22	22	ratings	Ratings, 379	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 379	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 379	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	4985	
+Main Group	22	22	ratings	Ratings, 547	Image 1 (43, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 547	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 547	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	5452	
+Main Group	22	22	ratings	Ratings, 410	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 410	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 410	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	3044	
+Main Group	22	22	ratings	Ratings, 452	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 452	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 452	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	5349	
+Main Group	22	22	ratings	Ratings, 607	Image 1 (47, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 607	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 607	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	6968	
+Main Group	22	22	ratings	Ratings, 367	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 367	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 367	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2469	
+Main Group	22	22	ratings	Ratings, 142	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 142	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 142	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	3342	
+Main Group	22	22	ratings	Ratings, 604	Image 1 (47, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 604	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 604	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2691	
+Main Group	22	22	ratings	Ratings, 167	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 167	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 167	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	2860	
+Main Group	22	22	ratings	Ratings, 307	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 307	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 307	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2617	
+Main Group	22	22	ratings	Ratings, 62	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 62	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 62	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2529	
+Main Group	22	22	ratings	Ratings, 409	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 409	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 409	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2097	
+Main Group	22	22	ratings	Ratings, 287	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 287	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 287	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	3326	
+Main Group	22	22	ratings	Ratings, 98	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 98	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 98	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	3858	
+Main Group	22	22	ratings	Ratings, 394	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 394	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 394	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2281	
+Main Group	22	22	ratings	Ratings, 376	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 376	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 376	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2145	
+Main Group	22	22	ratings	Ratings, 587	Image 1 (46, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 587	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 587	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	2656	
+Main Group	22	22	ratings	Ratings, 483	Image 1 (38, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 483	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 483	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1816	
+Main Group	22	22	ratings	Ratings, 242	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 242	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 242	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	4644	
+Main Group	22	22	ratings	Ratings, 60	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 60	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 60	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	3951	
+Main Group	22	22	ratings	Ratings, 78	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 78	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 78	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1967	
+Main Group	22	22	ratings	Ratings, 135	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 135	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 135	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	5774	
+Main Group	22	22	ratings	Ratings, 514	Image 1 (40, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 514	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 514	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2842	
+Main Group	22	22	ratings	Ratings, 72	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 72	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 72	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	3275	
+Main Group	22	22	ratings	Ratings, 96	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 96	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 96	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	2076	
+Main Group	22	22	ratings	Ratings, 45	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 45	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 45	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	3305	
+Main Group	22	22	ratings	Ratings, 346	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 346	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 346	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2510	
+Main Group	22	22	ratings	Ratings, 459	Image 1 (36, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 459	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 459	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1736	
+Main Group	22	22	ratings	Ratings, 196	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 196	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 196	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1560	
+Main Group	22	22	ratings	Ratings, 589	Image 1 (46, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 589	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 589	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2320	
+Main Group	22	22	ratings	Ratings, 227	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 227	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 227	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2085	
+Main Group	22	22	ratings	Ratings, 461	Image 1 (36, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 461	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 461	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2114	
+Main Group	22	22	ratings	Ratings, 294	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 294	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 294	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	2549	
+Main Group	22	22	ratings	Ratings, 264	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 264	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 264	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	3314	
+Main Group	22	22	ratings	Ratings, 176	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 176	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 176	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2701	
+Main Group	22	22	ratings	Ratings, 420	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 420	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 420	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2638	
+Main Group	22	22	ratings	Ratings, 18	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 18	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 18	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2928	
+Main Group	22	22	ratings	Ratings, 465	Image 1 (36, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 465	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 465	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	2933	
+Main Group	22	22	ratings	Ratings, 392	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 392	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 392	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1677	
+Main Group	22	22	ratings	Ratings, 566	Image 1 (44, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 566	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 566	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2417	
+Main Group	22	22	ratings	Ratings, 486	Image 1 (38, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 486	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 486	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1832	
+Main Group	22	22	ratings	Ratings, 248	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 248	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 248	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	3876	
+Main Group	22	22	ratings	Ratings, 286	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 286	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 286	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	2879	
+Main Group	22	22	ratings	Ratings, 494	Image 1 (38, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 494	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 494	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	2474	
+Main Group	22	22	ratings	Ratings, 160	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 160	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 160	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2929	
+Main Group	22	22	ratings	Ratings, 276	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 276	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 276	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2708	
+Main Group	22	22	ratings	Ratings, 513	Image 1 (40, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 513	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 513	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2755	
+Main Group	22	22	ratings	Ratings, 103	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 103	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 103	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	2556	
+Main Group	22	22	ratings	Ratings, 47	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 47	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 47	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1678	
+Main Group	22	22	ratings	Ratings, 440	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 440	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 440	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1564	
+Main Group	22	22	ratings	Ratings, 524	Image 1 (41, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 524	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 524	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1442	
+Main Group	22	22	ratings	Ratings, 368	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 368	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 368	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1581	
+Main Group	22	22	ratings	Ratings, 67	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 67	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 67	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	3032	
+Main Group	22	22	ratings	Ratings, 296	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 296	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 296	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2016	
+Main Group	22	22	ratings	Ratings, 381	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 381	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 381	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1882	
+Main Group	22	22	ratings	Ratings, 1	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 1	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 1	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2495	
+Main Group	22	22	ratings	Ratings, 480	Image 1 (37, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 480	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 480	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1370	
+Main Group	22	22	ratings	Ratings, 74	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 74	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 74	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2108	
+Main Group	22	22	ratings	Ratings, 419	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 419	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 419	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1917	
+Main Group	22	22	ratings	Ratings, 445	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 445	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 445	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2874	
+Main Group	22	22	ratings	Ratings, 348	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 348	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 348	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2447	
+Main Group	22	22	ratings	Ratings, 575	Image 1 (45, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 575	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 575	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	987	
+Main Group	22	22	ratings	Ratings, 192	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 192	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 192	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	3817	
+Main Group	22	22	ratings	Ratings, 61	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 61	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 61	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	3222	
+Main Group	22	22	ratings	Ratings, 427	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 427	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 427	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2298	
+Main Group	22	22	ratings	Ratings, 127	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 127	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 127	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	2740	
+Main Group	22	22	ratings	Ratings, 325	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 325	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 325	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2320	
+Main Group	22	22	ratings	Ratings, 165	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 165	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 165	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2923	
+Main Group	22	22	ratings	Ratings, 614	Image 1 (48, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 614	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 614	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	2872	
+Main Group	22	22	ratings	Ratings, 313	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 313	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 313	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1037	
+Main Group	22	22	ratings	Ratings, 616	Image 1 (48, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 616	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 616	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	4359	
+Main Group	22	22	ratings	Ratings, 240	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 240	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 240	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2670	
+Main Group	22	22	ratings	Ratings, 546	Image 1 (42, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 546	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 546	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1928	
+Main Group	22	22	ratings	Ratings, 42	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 42	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 42	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	2036	
+Main Group	22	22	ratings	Ratings, 337	Image 1 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 337	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 337	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1319	
+Main Group	22	22	ratings	Ratings, 251	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 251	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 251	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2686	
+Main Group	22	22	ratings	Ratings, 411	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 411	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 411	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1588	
+Main Group	22	22	ratings	Ratings, 601	Image 1 (47, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 601	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 601	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1632	
+Main Group	22	22	ratings	Ratings, 597	Image 1 (46, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 597	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 597	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2845	
+Main Group	22	22	ratings	Ratings, 86	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 86	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 86	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1160	
+Main Group	22	22	ratings	Ratings, 301	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 301	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 301	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	1511	
+Main Group	22	22	ratings	Ratings, 197	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 197	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 197	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	3101	
+Main Group	22	22	ratings	Ratings, 8	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 8	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 8	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2919	
+Main Group	22	22	ratings	Ratings, 349	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 349	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 349	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2395	
+Main Group	22	22	ratings	Ratings, 559	Image 1 (43, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 559	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 559	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	2372	
+Main Group	22	22	ratings	Ratings, 154	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 154	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 154	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	3705	
+Main Group	22	22	ratings	Ratings, 155	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 155	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 155	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	5645	
+Main Group	22	22	ratings	Ratings, 53	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 53	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 53	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	2017	
+Main Group	22	22	ratings	Ratings, 464	Image 1 (36, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 464	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 464	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	5202	
+Main Group	22	22	ratings	Ratings, 3	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 3	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 3	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	2309	
+Main Group	22	22	ratings	Ratings, 250	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 250	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 250	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	2543	
+Main Group	22	22	ratings	Ratings, 236	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 236	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 236	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2005	
+Main Group	22	22	ratings	Ratings, 222	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 222	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 222	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2365	
+Main Group	22	22	ratings	Ratings, 238	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 238	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 238	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1884	
+Main Group	22	22	ratings	Ratings, 320	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 320	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 320	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1466	
+Main Group	22	22	ratings	Ratings, 95	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 95	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 95	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1700	
+Main Group	22	22	ratings	Ratings, 285	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 285	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 285	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2005	
+Main Group	22	22	ratings	Ratings, 617	Image 1 (48, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 617	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 617	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	4071	
+Main Group	22	22	ratings	Ratings, 93	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 93	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 93	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1348	
+Main Group	22	22	ratings	Ratings, 506	Image 1 (39, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 506	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 506	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1480	
+Main Group	22	22	ratings	Ratings, 334	Image 1 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 334	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 334	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2273	
+Main Group	22	22	ratings	Ratings, 585	Image 1 (45, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 585	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 585	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	2458	
+Main Group	22	22	ratings	Ratings, 418	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 418	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 418	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	2104	
+Main Group	22	22	ratings	Ratings, 170	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 170	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 170	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	2372	
+Main Group	22	22	ratings	Ratings, 312	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 312	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 312	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2113	
+Main Group	22	22	ratings	Ratings, 369	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 369	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 369	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1292	
+Main Group	22	22	ratings	Ratings, 181	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 181	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 181	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1641	
+Main Group	22	22	ratings	Ratings, 232	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 232	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 232	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2776	
+Main Group	22	22	ratings	Ratings, 11	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 11	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 11	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2569	
+Main Group	22	22	ratings	Ratings, 14	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 14	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 14	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1624	
+Main Group	22	22	ratings	Ratings, 423	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 423	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 423	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2297	
+Main Group	22	22	ratings	Ratings, 512	Image 1 (40, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 512	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 512	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	2427	
+Main Group	22	22	ratings	Ratings, 9	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 9	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 9	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1315	
+Main Group	22	22	ratings	Ratings, 224	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 224	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 224	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2972	
+Main Group	22	22	ratings	Ratings, 534	Image 1 (42, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 534	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 534	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1894	
+Main Group	22	22	ratings	Ratings, 66	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 66	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 66	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	3060	
+Main Group	22	22	ratings	Ratings, 433	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 433	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 433	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	2085	
+Main Group	22	22	ratings	Ratings, 274	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 274	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 274	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1521	
+Main Group	22	22	ratings	Ratings, 16	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 16	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 16	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1346	
+Main Group	22	22	ratings	Ratings, 149	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 149	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 149	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1919	
+Main Group	22	22	ratings	Ratings, 593	Image 1 (46, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 593	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 593	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	2467	
+Main Group	22	22	ratings	Ratings, 150	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 150	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 150	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	2148	
+Main Group	22	22	ratings	Ratings, 54	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 54	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 54	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1938	
+Main Group	22	22	ratings	Ratings, 492	Image 1 (38, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 492	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 492	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	2296	
+Main Group	22	22	ratings	Ratings, 479	Image 1 (37, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 479	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 479	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1690	
+Main Group	22	22	ratings	Ratings, 125	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 125	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 125	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	1780	
+Main Group	22	22	ratings	Ratings, 611	Image 1 (47, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 611	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 611	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2535	
+Main Group	22	22	ratings	Ratings, 20	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 20	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 20	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	1990	
+Main Group	22	22	ratings	Ratings, 164	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 164	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 164	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2146	
+Main Group	22	22	ratings	Ratings, 137	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 137	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 137	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	2424	
+Main Group	22	22	ratings	Ratings, 416	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 416	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 416	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1920	
+Main Group	22	22	ratings	Ratings, 223	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 223	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 223	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2529	
+Main Group	22	22	ratings	Ratings, 233	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 233	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 233	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	2334	
+Main Group	22	22	ratings	Ratings, 146	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 146	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 146	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1311	
+Main Group	22	22	ratings	Ratings, 516	Image 1 (40, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 516	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 516	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1880	
+Main Group	22	22	ratings	Ratings, 473	Image 1 (37, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 473	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 473	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	3310	
+Main Group	22	22	ratings	Ratings, 272	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 272	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 272	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2651	
+Main Group	22	22	ratings	Ratings, 350	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 350	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 350	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	1336	
+Main Group	22	22	ratings	Ratings, 159	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 159	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 159	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	1747	
+Main Group	22	22	ratings	Ratings, 413	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 413	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 413	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	1797	
+Main Group	22	22	ratings	Ratings, 540	Image 1 (42, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 540	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 540	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1222	
+Main Group	22	22	ratings	Ratings, 335	Image 1 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 335	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 335	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	3378	
+Main Group	22	22	ratings	Ratings, 365	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 365	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 365	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1076	
+Main Group	22	22	ratings	Ratings, 284	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 284	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 284	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2010	
+Main Group	22	22	ratings	Ratings, 399	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 399	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 399	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2261	
+Main Group	22	22	ratings	Ratings, 424	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 424	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 424	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1911	
+Main Group	22	22	ratings	Ratings, 190	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 190	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 190	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	945	
+Main Group	22	22	ratings	Ratings, 354	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 354	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 354	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2237	
+Main Group	22	22	ratings	Ratings, 115	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 115	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 115	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	2855	
+Main Group	22	22	ratings	Ratings, 359	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 359	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 359	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2600	
+Main Group	22	22	ratings	Ratings, 406	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 406	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 406	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	1388	
+Main Group	22	22	ratings	Ratings, 87	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 87	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 87	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	1368	
+Main Group	22	22	ratings	Ratings, 203	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 203	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 203	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1570	
+Main Group	22	22	ratings	Ratings, 583	Image 1 (45, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 583	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 583	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2608	
+Main Group	22	22	ratings	Ratings, 123	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 123	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 123	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2946	
+Main Group	22	22	ratings	Ratings, 528	Image 1 (41, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 528	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 528	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	877	
+Main Group	22	22	ratings	Ratings, 613	Image 1 (48, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 613	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 613	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	974	
+Main Group	22	22	ratings	Ratings, 217	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 217	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 217	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	2088	
+Main Group	22	22	ratings	Ratings, 182	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 182	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 182	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	3118	
+Main Group	22	22	ratings	Ratings, 565	Image 1 (44, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 565	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 565	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2124	
+Main Group	22	22	ratings	Ratings, 576	Image 1 (45, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 576	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 576	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1495	
+Main Group	22	22	ratings	Ratings, 499	Image 1 (39, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 499	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 499	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2289	
+Main Group	22	22	ratings	Ratings, 206	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 206	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 206	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1020	
+Main Group	22	22	ratings	Ratings, 108	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 108	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 108	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	893	
+Main Group	22	22	ratings	Ratings, 136	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 136	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 136	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2119	
+Main Group	22	22	ratings	Ratings, 64	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 64	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 64	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	3964	
+Main Group	22	22	ratings	Ratings, 134	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 134	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 134	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2565	
+Main Group	22	22	ratings	Ratings, 129	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 129	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 129	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2951	
+Main Group	22	22	ratings	Ratings, 258	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 258	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 258	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1961	
+Main Group	22	22	ratings	Ratings, 428	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 428	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 428	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2349	
+Main Group	22	22	ratings	Ratings, 578	Image 1 (45, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 578	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 578	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	1491	
+Main Group	22	22	ratings	Ratings, 321	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 321	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 321	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1466	
+Main Group	22	22	ratings	Ratings, 561	Image 1 (44, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 561	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 561	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1450	
+Main Group	22	22	ratings	Ratings, 599	Image 1 (47, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 599	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 599	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1332	
+Main Group	22	22	ratings	Ratings, 343	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 343	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 343	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1187	
+Main Group	22	22	ratings	Ratings, 193	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 193	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 193	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1293	
+Main Group	22	22	ratings	Ratings, 299	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 299	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 299	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2184	
+Main Group	22	22	ratings	Ratings, 215	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 215	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 215	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2559	
+Main Group	22	22	ratings	Ratings, 357	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 357	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 357	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	1631	
+Main Group	22	22	ratings	Ratings, 270	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 270	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 270	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2293	
+Main Group	22	22	ratings	Ratings, 52	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 52	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 52	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	1984	
+Main Group	22	22	ratings	Ratings, 432	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 432	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 432	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1405	
+Main Group	22	22	ratings	Ratings, 594	Image 1 (46, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 594	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 594	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	3086	
+Main Group	22	22	ratings	Ratings, 317	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 317	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 317	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1728	
+Main Group	22	22	ratings	Ratings, 262	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 262	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 262	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1624	
+Main Group	22	22	ratings	Ratings, 462	Image 1 (36, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 462	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 462	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2064	
+Main Group	22	22	ratings	Ratings, 282	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 282	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 282	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2598	
+Main Group	22	22	ratings	Ratings, 73	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 73	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 73	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	836	
+Main Group	22	22	ratings	Ratings, 329	Image 1 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 329	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 329	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	962	
+Main Group	22	22	ratings	Ratings, 116	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 116	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 116	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1422	
+Main Group	22	22	ratings	Ratings, 81	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 81	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 81	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1048	
+Main Group	22	22	ratings	Ratings, 40	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 40	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 40	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1006	
+Main Group	22	22	ratings	Ratings, 366	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 366	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 366	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1151	
+Main Group	22	22	ratings	Ratings, 277	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 277	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 277	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1784	
+Main Group	22	22	ratings	Ratings, 336	Image 1 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 336	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 336	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	949	
+Main Group	22	22	ratings	Ratings, 421	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 421	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 421	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1000	
+Main Group	22	22	ratings	Ratings, 202	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 202	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 202	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	3581	
+Main Group	22	22	ratings	Ratings, 324	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 324	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 324	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1125	
+Main Group	22	22	ratings	Ratings, 345	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 345	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 345	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1283	
+Main Group	22	22	ratings	Ratings, 132	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 132	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 132	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	915	
+Main Group	22	22	ratings	Ratings, 309	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 309	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 309	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1393	
+Main Group	22	22	ratings	Ratings, 85	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 85	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 85	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1365	
+Main Group	22	22	ratings	Ratings, 603	Image 1 (47, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 603	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 603	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1039	
+Main Group	22	22	ratings	Ratings, 347	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 347	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 347	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1700	
+Main Group	22	22	ratings	Ratings, 271	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 271	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 271	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2125	
+Main Group	22	22	ratings	Ratings, 145	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 145	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 145	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1069	
+Main Group	22	22	ratings	Ratings, 322	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 322	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 322	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1441	
+Main Group	22	22	ratings	Ratings, 475	Image 1 (37, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 475	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 475	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	757	
+Main Group	22	22	ratings	Ratings, 162	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 162	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 162	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1040	
+Main Group	22	22	ratings	Ratings, 375	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 375	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 375	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1734	
+Main Group	22	22	ratings	Ratings, 568	Image 1 (44, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 568	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 568	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1638	
+Main Group	22	22	ratings	Ratings, 552	Image 1 (43, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 552	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 552	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	4002	
+Main Group	22	22	ratings	Ratings, 34	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 34	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 34	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2057	
+Main Group	22	22	ratings	Ratings, 380	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 380	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 380	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1785	
+Main Group	22	22	ratings	Ratings, 311	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 311	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 311	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2145	
+Main Group	22	22	ratings	Ratings, 231	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 231	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 231	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1604	
+Main Group	22	22	ratings	Ratings, 120	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 120	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 120	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2293	
+Main Group	22	22	ratings	Ratings, 340	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 340	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 340	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	986	
+Main Group	22	22	ratings	Ratings, 41	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 41	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 41	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	890	
+Main Group	22	22	ratings	Ratings, 571	Image 1 (44, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 571	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 571	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	875	
+Main Group	22	22	ratings	Ratings, 450	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 450	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 450	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2594	
+Main Group	22	22	ratings	Ratings, 283	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 283	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 283	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1693	
+Main Group	22	22	ratings	Ratings, 221	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 221	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 221	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2150	
+Main Group	22	22	ratings	Ratings, 451	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 451	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 451	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	1994	
+Main Group	22	22	ratings	Ratings, 306	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 306	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 306	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1751	
+Main Group	22	22	ratings	Ratings, 35	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 35	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 35	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2557	
+Main Group	22	22	ratings	Ratings, 55	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 55	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 55	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1102	
+Main Group	22	22	ratings	Ratings, 488	Image 1 (38, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 488	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 488	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1844	
+Main Group	22	22	ratings	Ratings, 468	Image 1 (36, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 468	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 468	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1775	
+Main Group	22	22	ratings	Ratings, 269	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 269	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 269	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1537	
+Main Group	22	22	ratings	Ratings, 168	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 168	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 168	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	909	
+Main Group	22	22	ratings	Ratings, 178	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 178	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 178	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2057	
+Main Group	22	22	ratings	Ratings, 6	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 6	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 6	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	3456	
+Main Group	22	22	ratings	Ratings, 109	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 109	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 109	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2111	
+Main Group	22	22	ratings	Ratings, 579	Image 1 (45, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 579	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 579	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1615	
+Main Group	22	22	ratings	Ratings, 396	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 396	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 396	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1313	
+Main Group	22	22	ratings	Ratings, 478	Image 1 (37, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 478	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 478	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1300	
+Main Group	22	22	ratings	Ratings, 65	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 65	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 65	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1315	
+Main Group	22	22	ratings	Ratings, 7	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 7	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 7	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	968	
+Main Group	22	22	ratings	Ratings, 443	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 443	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 443	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2194	
+Main Group	22	22	ratings	Ratings, 292	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 292	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 292	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1725	
+Main Group	22	22	ratings	Ratings, 469	Image 1 (37, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 469	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 469	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1314	
+Main Group	22	22	ratings	Ratings, 328	Image 1 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 328	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 328	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1957	
+Main Group	22	22	ratings	Ratings, 27	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 27	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 27	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1898	
+Main Group	22	22	ratings	Ratings, 522	Image 1 (41, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 522	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 522	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1225	
+Main Group	22	22	ratings	Ratings, 582	Image 1 (45, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 582	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 582	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1211	
+Main Group	22	22	ratings	Ratings, 92	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 92	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 92	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	1583	
+Main Group	22	22	ratings	Ratings, 390	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 390	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 390	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	1927	
+Main Group	22	22	ratings	Ratings, 198	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 198	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 198	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	2385	
+Main Group	22	22	ratings	Ratings, 201	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 201	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 201	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1593	
+Main Group	22	22	ratings	Ratings, 318	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 318	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 318	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	972	
+Main Group	22	22	ratings	Ratings, 189	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 189	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 189	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1998	
+Main Group	22	22	ratings	Ratings, 482	Image 1 (38, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 482	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 482	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1529	
+Main Group	22	22	ratings	Ratings, 533	Image 1 (41, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 533	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 533	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1320	
+Main Group	22	22	ratings	Ratings, 212	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 212	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 212	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1865	
+Main Group	22	22	ratings	Ratings, 477	Image 1 (37, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 477	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 477	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1287	
+Main Group	22	22	ratings	Ratings, 606	Image 1 (47, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 606	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 606	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1563	
+Main Group	22	22	ratings	Ratings, 569	Image 1 (44, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 569	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 569	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2603	
+Main Group	22	22	ratings	Ratings, 25	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 25	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 25	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1101	
+Main Group	22	22	ratings	Ratings, 370	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 370	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 370	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2686	
+Main Group	22	22	ratings	Ratings, 253	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 253	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 253	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2158	
+Main Group	22	22	ratings	Ratings, 58	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 58	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 58	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1443	
+Main Group	22	22	ratings	Ratings, 588	Image 1 (46, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 588	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 588	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1538	
+Main Group	22	22	ratings	Ratings, 104	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 104	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 104	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1906	
+Main Group	22	22	ratings	Ratings, 213	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 213	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 213	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1556	
+Main Group	22	22	ratings	Ratings, 456	Image 1 (36, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 456	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 456	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1436	
+Main Group	22	22	ratings	Ratings, 405	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 405	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 405	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1643	
+Main Group	22	22	ratings	Ratings, 111	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 111	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 111	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1733	
+Main Group	22	22	ratings	Ratings, 431	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 431	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 431	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1213	
+Main Group	22	22	ratings	Ratings, 183	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 183	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 183	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1131	
+Main Group	22	22	ratings	Ratings, 525	Image 1 (41, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 525	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 525	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1101	
+Main Group	22	22	ratings	Ratings, 398	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 398	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 398	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1474	
+Main Group	22	22	ratings	Ratings, 491	Image 1 (38, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 491	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 491	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	881	
+Main Group	22	22	ratings	Ratings, 71	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 71	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 71	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	605	
+Main Group	22	22	ratings	Ratings, 147	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 147	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 147	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1276	
+Main Group	22	22	ratings	Ratings, 75	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 75	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 75	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1214	
+Main Group	22	22	ratings	Ratings, 572	Image 1 (44, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 572	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 572	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1358	
+Main Group	22	22	ratings	Ratings, 429	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 429	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 429	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	1894	
+Main Group	22	22	ratings	Ratings, 563	Image 1 (44, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 563	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 563	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1143	
+Main Group	22	22	ratings	Ratings, 44	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 44	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 44	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	1068	
+Main Group	22	22	ratings	Ratings, 33	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 33	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 33	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	444	
+Main Group	22	22	ratings	Ratings, 204	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 204	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 204	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	815	
+Main Group	22	22	ratings	Ratings, 515	Image 1 (40, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 515	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 515	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	799	
+Main Group	22	22	ratings	Ratings, 21	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 21	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 21	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	955	
+Main Group	22	22	ratings	Ratings, 261	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 261	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 261	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	568	
+Main Group	22	22	ratings	Ratings, 297	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 297	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 297	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	1089	
+Main Group	22	22	ratings	Ratings, 332	Image 1 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 332	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 332	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1024	
+Main Group	22	22	ratings	Ratings, 507	Image 1 (39, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 507	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 507	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2127	
+Main Group	22	22	ratings	Ratings, 495	Image 1 (39, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 495	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 495	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	998	
+Main Group	22	22	ratings	Ratings, 519	Image 1 (40, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 519	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 519	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	325	
+Main Group	22	22	ratings	Ratings, 26	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 26	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 26	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	591	
+Main Group	22	22	ratings	Ratings, 100	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 100	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 100	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	1549	
+Main Group	22	22	ratings	Ratings, 591	Image 1 (46, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 591	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 591	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1410	
+Main Group	22	22	ratings	Ratings, 166	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 166	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 166	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	575	
+Main Group	22	22	ratings	Ratings, 374	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 374	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 374	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	382	
+Main Group	22	22	ratings	Ratings, 577	Image 1 (45, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 577	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 577	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	3295	
+Main Group	22	22	ratings	Ratings, 57	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 57	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 57	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	856	
+Main Group	22	22	ratings	Ratings, 228	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 228	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 228	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1675	
+Main Group	22	22	ratings	Ratings, 382	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 382	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 382	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	918	
+Main Group	22	22	ratings	Ratings, 527	Image 1 (41, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 527	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 527	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	627	
+Main Group	22	22	ratings	Ratings, 351	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 351	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 351	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	665	
+Main Group	22	22	ratings	Ratings, 523	Image 1 (41, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 523	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 523	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	547	
+Main Group	22	22	ratings	Ratings, 293	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 293	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 293	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	588	
+Main Group	22	22	ratings	Ratings, 70	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 70	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 70	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	557	
+Main Group	22	22	ratings	Ratings, 105	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 105	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 105	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	662	
+Main Group	22	22	ratings	Ratings, 412	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 412	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 412	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	1533	
+Main Group	22	22	ratings	Ratings, 175	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 175	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 175	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	1568	
+Main Group	22	22	ratings	Ratings, 102	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 102	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 102	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	2112	
+Main Group	22	22	ratings	Ratings, 97	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 97	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 97	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	984	
+Main Group	22	22	ratings	Ratings, 208	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 208	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 208	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	1305	
+Main Group	22	22	ratings	Ratings, 133	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 133	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 133	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	1191	
+Main Group	22	22	ratings	Ratings, 316	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 316	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 316	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	4747	
+Main Group	22	22	ratings	Ratings, 384	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 384	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 384	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2988	
+Main Group	22	22	ratings	Ratings, 267	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 267	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 267	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2416	
+Main Group	22	22	ratings	Ratings, 275	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 275	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 275	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1385	
+Main Group	22	22	ratings	Ratings, 485	Image 1 (38, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 485	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 485	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1229	
+Main Group	22	22	ratings	Ratings, 39	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 39	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 39	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	1314	
+Main Group	22	22	ratings	Ratings, 458	Image 1 (36, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 458	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 458	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2863	
+Main Group	22	22	ratings	Ratings, 449	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 449	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 449	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	2267	
+Main Group	22	22	ratings	Ratings, 10	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 10	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 10	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2430	
+Main Group	22	22	ratings	Ratings, 143	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 143	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 143	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	1607	
+Main Group	22	22	ratings	Ratings, 596	Image 1 (46, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 596	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 596	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1417	
+Main Group	22	22	ratings	Ratings, 278	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 278	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 278	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1271	
+Main Group	22	22	ratings	Ratings, 529	Image 1 (41, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 529	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 529	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	935	
+Main Group	22	22	ratings	Ratings, 179	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 179	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 179	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	1358	
+Main Group	22	22	ratings	Ratings, 22	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 22	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 22	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	822	
+Main Group	22	22	ratings	Ratings, 24	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 24	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 24	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	481	
+Main Group	22	22	ratings	Ratings, 615	Image 1 (48, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 615	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 615	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	469	
+Main Group	22	22	ratings	Ratings, 157	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 157	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 157	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	392	
+Main Group	22	22	ratings	Ratings, 454	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 454	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 454	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	791	
+Main Group	22	22	ratings	Ratings, 518	Image 1 (40, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 518	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 518	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	342	
+Main Group	22	22	ratings	Ratings, 598	Image 1 (46, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 598	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 598	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	759	
+Main Group	22	22	ratings	Ratings, 590	Image 1 (46, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 590	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 590	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	699	
+Main Group	22	22	ratings	Ratings, 2	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 2	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 2	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	553	
+Main Group	22	22	ratings	Ratings, 186	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 186	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 186	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	998	
+Main Group	22	22	ratings	Ratings, 388	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 388	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 388	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	663	
+Main Group	22	22	ratings	Ratings, 441	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 441	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 441	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	311	
+Main Group	22	22	ratings	Ratings, 128	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 128	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 128	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	626	
+Main Group	22	22	ratings	Ratings, 200	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 200	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 200	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	1095	
+Main Group	22	22	ratings	Ratings, 619	Image 1 (48, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 619	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 619	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	191	
+Main Group	22	22	ratings	Ratings, 139	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 139	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 139	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	805	
+Main Group	22	22	ratings	Ratings, 618	Image 1 (48, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 618	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 618	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	671	
+Main Group	22	22	ratings	Ratings, 259	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 259	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 259	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	372	
+Main Group	22	22	ratings	Ratings, 567	Image 1 (44, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 567	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 567	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	900	
+Main Group	22	22	ratings	Ratings, 422	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 422	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 422	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	385	
+Main Group	22	22	ratings	Ratings, 156	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 156	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 156	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	990	
+Main Group	22	22	ratings	Ratings, 404	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 404	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 404	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	329	
+Main Group	22	22	ratings	Ratings, 500	Image 1 (39, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 500	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 500	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	252	
+Main Group	22	22	ratings	Ratings, 391	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 391	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 391	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	207	
+Main Group	22	22	ratings	Ratings, 273	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 273	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 273	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	1092	
+Main Group	22	22	ratings	Ratings, 339	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 339	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 339	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	604	
+Main Group	22	22	ratings	Ratings, 602	Image 1 (47, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 602	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 602	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	207	
+Main Group	22	22	ratings	Ratings, 497	Image 1 (39, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 497	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 497	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	390	
+Main Group	22	22	ratings	Ratings, 425	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 425	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 425	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	578	
+Main Group	22	22	ratings	Ratings, 80	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 80	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 80	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	766	
+Main Group	22	22	ratings	Ratings, 415	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 415	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 415	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	340	
+Main Group	22	22	ratings	Ratings, 76	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 76	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 76	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	558	
+Main Group	22	22	ratings	Ratings, 435	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 435	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 435	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1017	
+Main Group	22	22	ratings	Ratings, 144	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 144	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 144	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1182	
+Main Group	22	22	ratings	Ratings, 304	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 304	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 304	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	1265	
+Main Group	22	22	ratings	Ratings, 397	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 397	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 397	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	999	
+Main Group	22	22	ratings	Ratings, 362	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 362	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 362	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1008	
+Main Group	22	22	ratings	Ratings, 502	Image 1 (39, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 502	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 502	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1087	
+Main Group	22	22	ratings	Ratings, 112	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 112	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 112	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	1514	
+Main Group	22	22	ratings	Ratings, 247	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 247	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 247	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	1783	
+Main Group	22	22	ratings	Ratings, 595	Image 1 (46, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 595	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 595	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	854	
+Main Group	22	22	ratings	Ratings, 470	Image 1 (37, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 470	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 470	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1099	
+Main Group	22	22	ratings	Ratings, 358	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 358	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 358	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	808	
+Main Group	22	22	ratings	Ratings, 63	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 63	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 63	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	679	
+Main Group	22	22	ratings	Ratings, 195	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 195	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 195	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	364	
+Main Group	22	22	ratings	Ratings, 239	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 239	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 239	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	763	
+Main Group	22	22	ratings	Ratings, 17	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 17	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 17	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	699	
+Main Group	22	22	ratings	Ratings, 453	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 453	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 453	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	892	
+Main Group	22	22	ratings	Ratings, 279	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 279	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 279	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	470	
+Main Group	22	22	ratings	Ratings, 584	Image 1 (45, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 584	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 584	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	312	
+Main Group	22	22	ratings	Ratings, 303	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 303	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 303	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	270	
+Main Group	22	22	ratings	Ratings, 249	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 249	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 249	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	143	
+Main Group	22	22	ratings	Ratings, 158	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 158	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 158	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	169	
+Main Group	22	22	ratings	Ratings, 498	Image 1 (39, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 498	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 498	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	967	
+Main Group	22	22	ratings	Ratings, 363	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 363	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 363	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	387	
+Main Group	22	22	ratings	Ratings, 56	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 56	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 56	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	586	
+Main Group	22	22	ratings	Ratings, 230	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 230	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 230	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	201	
+Main Group	22	22	ratings	Ratings, 544	Image 1 (42, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 544	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 544	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	549	
+Main Group	22	22	ratings	Ratings, 581	Image 1 (45, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 581	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 581	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	929	
+Main Group	22	22	ratings	Ratings, 110	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 110	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 110	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	354	
+Main Group	22	22	ratings	Ratings, 32	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 32	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 32	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	404	
+Main Group	22	22	ratings	Ratings, 82	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 82	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 82	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	583	
+Main Group	22	22	ratings	Ratings, 209	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 209	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 209	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1335	
+Main Group	22	22	ratings	Ratings, 121	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 121	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 121	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	479	
+Main Group	22	22	ratings	Ratings, 542	Image 1 (42, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 542	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 542	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	392	
+Main Group	22	22	ratings	Ratings, 138	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 138	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 138	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	736	
+Main Group	22	22	ratings	Ratings, 487	Image 1 (38, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 487	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 487	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	961	
+Main Group	22	22	ratings	Ratings, 88	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 88	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 88	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	611	
+Main Group	22	22	ratings	Ratings, 46	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 46	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 46	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	723	
+Main Group	22	22	ratings	Ratings, 172	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 172	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 172	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	508	
+Main Group	22	22	ratings	Ratings, 241	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 241	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 241	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	982	
+Main Group	22	22	ratings	Ratings, 457	Image 1 (36, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 457	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 457	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	505	
+Main Group	22	22	ratings	Ratings, 532	Image 1 (41, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 532	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 532	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	766	
+Main Group	22	22	ratings	Ratings, 37	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 37	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 37	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	547	
+Main Group	22	22	ratings	Ratings, 188	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 188	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 188	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	826	
+Main Group	22	22	ratings	Ratings, 341	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 341	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 341	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	557	
+Main Group	22	22	ratings	Ratings, 530	Image 1 (41, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 530	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 530	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	405	
+Main Group	22	22	ratings	Ratings, 289	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 289	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 289	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	1013	
+Main Group	22	22	ratings	Ratings, 531	Image 1 (41, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 531	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 531	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	512	
+Main Group	22	22	ratings	Ratings, 403	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 403	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 403	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	1295	
+Main Group	22	22	ratings	Ratings, 609	Image 1 (47, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 609	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 609	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1558	
+Main Group	22	22	ratings	Ratings, 235	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 235	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 235	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	966	
+Main Group	22	22	ratings	Ratings, 330	Image 1 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 330	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 330	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	900	
+Main Group	22	22	ratings	Ratings, 59	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 59	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 59	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	796	
+Main Group	22	22	ratings	Ratings, 352	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 352	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 352	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	853	
+Main Group	22	22	ratings	Ratings, 484	Image 1 (38, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 484	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 484	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1186	
+Main Group	22	22	ratings	Ratings, 378	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 378	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 378	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	889	
+Main Group	22	22	ratings	Ratings, 372	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 372	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 372	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	210	
+Main Group	22	22	ratings	Ratings, 91	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 91	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 91	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	413	
+Main Group	22	22	ratings	Ratings, 255	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 255	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 255	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	217	
+Main Group	22	22	ratings	Ratings, 15	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 15	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 15	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	963	
+Main Group	22	22	ratings	Ratings, 466	Image 1 (36, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 466	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 466	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	187	
+Main Group	22	22	ratings	Ratings, 539	Image 1 (42, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 539	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 539	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	236	
+Main Group	22	22	ratings	Ratings, 101	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 101	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 101	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	953	
+Main Group	22	22	ratings	Ratings, 31	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 31	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 31	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	323	
+Main Group	22	22	ratings	Ratings, 509	Image 1 (40, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 509	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 509	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	170	
+Main Group	22	22	ratings	Ratings, 124	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 124	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 124	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	248	
+Main Group	22	22	ratings	Ratings, 207	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 207	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 207	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	170	
+Main Group	22	22	ratings	Ratings, 439	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 439	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 439	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	415	
+Main Group	22	22	ratings	Ratings, 600	Image 1 (47, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 600	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 600	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	487	
+Main Group	22	22	ratings	Ratings, 447	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 447	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 447	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	183	
+Main Group	22	22	ratings	Ratings, 389	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 389	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 389	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	675	
+Main Group	22	22	ratings	Ratings, 621	Image 1 (48, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 621	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 621	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	392	
+Main Group	22	22	ratings	Ratings, 623	Image 1 (48, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 623	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 623	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	457	
+Main Group	22	22	ratings	Ratings, 620	Image 1 (48, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 620	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 620	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1221	
+Main Group	22	22	ratings	Ratings, 48	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 48	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 48	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	902	
+Main Group	22	22	ratings	Ratings, 536	Image 1 (42, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 536	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 536	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	407	
+Main Group	22	22	ratings	Ratings, 344	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 344	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 344	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	470	
+Main Group	22	22	ratings	Ratings, 386	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 386	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 386	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	697	
+Main Group	22	22	ratings	Ratings, 180	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 180	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 180	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	691	
+Main Group	22	22	ratings	Ratings, 555	Image 1 (43, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 555	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 555	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	573	
+Main Group	22	22	ratings	Ratings, 622	Image 1 (48, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 622	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 622	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	640	
+Main Group	22	22	ratings	Ratings, 106	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 106	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 106	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	482	
+Main Group	22	22	ratings	Ratings, 205	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 205	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 205	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	830	
+Main Group	22	22	ratings	Ratings, 562	Image 1 (44, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 562	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 562	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	692	
+Main Group	22	22	ratings	Ratings, 151	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 151	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 151	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	808	
+Main Group	22	22	ratings	Ratings, 538	Image 1 (42, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 538	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 538	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	427	
+Main Group	22	22	ratings	Ratings, 187	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 187	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 187	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	539	
+Main Group	22	22	ratings	Ratings, 216	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 216	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 216	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	578	
+Main Group	22	22	ratings	Ratings, 395	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 395	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 395	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	510	
+Main Group	22	22	ratings	Ratings, 89	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 89	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 89	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	490	
+Main Group	22	22	ratings	Ratings, 493	Image 1 (38, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 493	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 493	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	539	
+Main Group	22	22	ratings	Ratings, 77	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 77	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 77	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	414	
+Main Group	22	22	ratings	Ratings, 260	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 260	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 260	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	249	
+Main Group	22	22	ratings	Ratings, 446	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 446	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 446	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	821	
+Main Group	22	22	ratings	Ratings, 556	Image 1 (43, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 556	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 556	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	520	
+Main Group	22	22	ratings	Ratings, 471	Image 1 (37, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 471	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 471	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	239	
+Main Group	22	22	ratings	Ratings, 219	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 219	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 219	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	512	
+Main Group	22	22	ratings	Ratings, 163	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 163	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 163	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	1412	
+Main Group	22	22	ratings	Ratings, 5	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 5	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 5	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	290	
+Main Group	22	22	ratings	Ratings, 387	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 387	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 387	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	206	
+Main Group	22	22	ratings	Ratings, 353	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 353	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 353	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	681	
+Main Group	22	22	ratings	Ratings, 118	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 118	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 118	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	728	
+Main Group	22	22	ratings	Ratings, 114	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 114	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 114	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	616	
+Main Group	22	22	ratings	Ratings, 119	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 119	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 119	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	508	
+Main Group	22	22	ratings	Ratings, 173	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 173	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 173	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	296	
+Main Group	22	22	ratings	Ratings, 360	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 360	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 360	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	980	
+Main Group	22	22	ratings	Ratings, 371	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 371	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 371	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	644	
+Main Group	22	22	ratings	Ratings, 308	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 308	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 308	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	550	
+Main Group	22	22	ratings	Ratings, 237	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 237	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 237	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	659	
+Main Group	22	22	ratings	Ratings, 417	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 417	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 417	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	602	
+Main Group	22	22	ratings	Ratings, 490	Image 1 (38, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 490	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 490	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	904	
+Main Group	22	22	ratings	Ratings, 624	Image 1 (48, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 624	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 624	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1039	
+Main Group	22	22	ratings	Ratings, 489	Image 1 (38, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 489	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 489	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	348	
+Main Group	22	22	ratings	Ratings, 501	Image 1 (39, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 501	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 501	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	524	
+Main Group	22	22	ratings	Ratings, 191	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 191	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 191	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	169	
+Main Group	22	22	ratings	Ratings, 426	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 426	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 426	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	220	
+Main Group	22	22	ratings	Ratings, 402	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 402	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 402	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	700	
+Main Group	22	22	ratings	Ratings, 246	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 246	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 246	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	198	
+Main Group	22	22	ratings	Ratings, 141	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 141	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 141	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	135	
+Main Group	22	22	ratings	Ratings, 51	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 51	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 51	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	180	
+Main Group	22	22	ratings	Ratings, 185	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 185	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 185	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	184	
+Main Group	22	22	ratings	Ratings, 377	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 377	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 377	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	547	
+Main Group	22	22	ratings	Ratings, 438	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 438	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 438	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	248	
+Main Group	22	22	ratings	Ratings, 558	Image 1 (43, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 558	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 558	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	182	
+Main Group	22	22	ratings	Ratings, 331	Image 1 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 331	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 331	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	258	
+Main Group	22	22	ratings	Ratings, 550	Image 1 (43, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 550	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 550	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	284	
+Main Group	22	22	ratings	Ratings, 437	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 437	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 437	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	317	
+Main Group	22	22	ratings	Ratings, 94	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 94	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 94	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	256	
+Main Group	22	22	ratings	Ratings, 211	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 211	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 211	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	266	
+Main Group	22	22	ratings	Ratings, 448	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 448	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 448	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	403	
+Main Group	22	22	ratings	Ratings, 50	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 50	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 50	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	330	
+Main Group	22	22	ratings	Ratings, 373	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 373	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 373	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	397	
+Main Group	22	22	ratings	Ratings, 580	Image 1 (45, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 580	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 580	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	369	
+Main Group	22	22	ratings	Ratings, 474	Image 1 (37, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 474	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 474	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	362	
+Main Group	22	22	ratings	Ratings, 113	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 113	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 113	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	389	
+Main Group	22	22	ratings	Ratings, 4	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 4	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 4	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	424	
+Main Group	22	22	ratings	Ratings, 171	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 171	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 171	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	336	
+Main Group	22	22	ratings	Ratings, 83	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 83	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 83	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	383	
+Main Group	22	22	ratings	Ratings, 266	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 266	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 266	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	282	
+Main Group	22	22	ratings	Ratings, 554	Image 1 (43, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 554	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 554	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	236	
+Main Group	22	22	ratings	Ratings, 280	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 280	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 280	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	3621	
+Main Group	22	22	ratings	Ratings, 199	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 199	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 199	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	354	
+Main Group	22	22	ratings	Ratings, 161	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 161	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 161	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1793	
+Main Group	22	22	ratings	Ratings, 43	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 43	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 43	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	307	
+Main Group	22	22	ratings	Ratings, 194	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 194	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 194	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	480	
+Main Group	22	22	ratings	Ratings, 263	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 263	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 263	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1115	
+Main Group	22	22	ratings	Ratings, 177	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 177	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 177	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	205	
+Main Group	22	22	ratings	Ratings, 356	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 356	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 356	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	337	
+Main Group	22	22	ratings	Ratings, 333	Image 1 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 333	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 333	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	297	
+Main Group	22	22	ratings	Ratings, 153	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 153	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 153	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	255	
+Main Group	22	22	ratings	Ratings, 99	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 99	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 99	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	257	
+Main Group	22	22	ratings	Ratings, 245	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 245	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 245	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	365	
+Main Group	22	22	ratings	Ratings, 243	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 243	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 243	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	442	
+Main Group	22	22	ratings	Ratings, 503	Image 1 (39, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 503	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 503	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	439	
+Main Group	22	22	ratings	Ratings, 537	Image 1 (42, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 537	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 537	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	564	
+Main Group	22	22	ratings	Ratings, 549	Image 1 (43, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 549	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 549	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	853	
+Main Group	22	22	ratings	Ratings, 36	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 36	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 36	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	413	
+Main Group	22	22	ratings	Ratings, 13	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 13	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 13	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	706	
+Main Group	22	22	ratings	Ratings, 122	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 122	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 122	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	741	
+Main Group	22	22	ratings	Ratings, 574	Image 1 (45, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 574	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 574	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	872	
+Main Group	22	22	ratings	Ratings, 130	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 130	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 130	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	854	
+Main Group	22	22	ratings	Ratings, 557	Image 1 (43, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 557	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 557	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	477	
+Main Group	22	22	ratings	Ratings, 564	Image 1 (44, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 564	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 564	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	649	
+Main Group	22	22	ratings	Ratings, 401	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 401	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 401	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	593	
+Main Group	22	22	ratings	Ratings, 504	Image 1 (39, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 504	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 504	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	750	
+Main Group	22	22	ratings	Ratings, 69	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 69	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 69	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2112	
+Main Group	22	22	ratings	Ratings, 430	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 430	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 430	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1694	
+Main Group	22	22	ratings	Ratings, 545	Image 1 (42, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 545	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 545	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	696	
+Main Group	22	22	ratings	Ratings, 463	Image 1 (36, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 463	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 463	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	689	
+Main Group	22	22	ratings	Ratings, 214	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 214	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 214	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	475	
+Main Group	22	22	ratings	Ratings, 90	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 90	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 90	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1068	
+Main Group	22	22	ratings	Ratings, 225	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 225	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 225	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1359	
+Main Group	22	22	ratings	Ratings, 526	Image 1 (41, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 526	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 526	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1049	
+Main Group	22	22	ratings	Ratings, 444	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 444	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 444	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	4984	
+Main Group	22	22	ratings	Ratings, 553	Image 1 (43, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 553	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 553	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	800	
+Main Group	22	22	ratings	Ratings, 535	Image 1 (42, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 535	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 535	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	544	
+Main Group	22	22	ratings	Ratings, 355	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 355	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 355	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	562	
+Main Group	22	22	ratings	Ratings, 148	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 148	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 148	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	361	
+Main Group	22	22	ratings	Ratings, 295	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 295	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 295	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	364	
+Main Group	22	22	ratings	Ratings, 315	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 315	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 315	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	888	
+Main Group	22	22	ratings	Ratings, 592	Image 1 (46, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 592	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 592	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	449	
+Main Group	22	22	ratings	Ratings, 472	Image 1 (37, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 472	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 472	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	116	
+Main Group	22	22	ratings	Ratings, 281	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 281	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 281	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	225	
+Main Group	22	22	ratings	Ratings, 319	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 319	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 319	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1058	
+Main Group	22	22	ratings	Ratings, 220	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 220	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 220	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	471	
+Main Group	22	22	ratings	Ratings, 442	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 442	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 442	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	210	
+Main Group	22	22	ratings	Ratings, 12	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 12	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 12	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	351	
+Main Group	22	22	ratings	Ratings, 434	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 434	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 434	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	208	
+Main Group	22	22	ratings	Ratings, 605	Image 1 (47, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 605	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 605	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	889	
+Main Group	22	22	ratings	Ratings, 117	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 117	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 117	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	186	
+Main Group	22	22	ratings	Ratings, 234	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 234	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 234	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	55	
+Main Group	22	22	ratings	Ratings, 455	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 455	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 455	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	93	
+Main Group	22	22	ratings	Ratings, 610	Image 1 (47, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 610	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 610	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	668	
+Main Group	22	22	ratings	Ratings, 573	Image 1 (45, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 573	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 573	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1845	
+Main Group	22	22	ratings	Ratings, 436	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 436	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 436	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	565	
+Main Group	22	22	ratings	Ratings, 510	Image 1 (40, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 510	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 510	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	368	
+Main Group	22	22	ratings	Ratings, 268	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 268	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 268	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	385	
+Main Group	22	22	ratings	Ratings, 586	Image 1 (46, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 586	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 586	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	455	
+Main Group	22	22	ratings	Ratings, 408	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 408	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 408	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	317	
+Main Group	22	22	ratings	Ratings, 314	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 314	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 314	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	293	
+Main Group	22	22	ratings	Ratings, 496	Image 1 (39, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 496	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 496	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	157	
+Main Group	22	22	ratings	Ratings, 107	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 107	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 107	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	258	
+Main Group	22	22	ratings	Ratings, 548	Image 1 (43, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 548	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 548	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	75	
+Main Group	22	22	ratings	Ratings, 126	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 126	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 126	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	578	
+Main Group	22	22	ratings	Ratings, 570	Image 1 (44, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 570	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 570	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	112	
+Main Group	22	22	ratings	Ratings, 298	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 298	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 298	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	402	
+Main Group	22	22	ratings	Ratings, 288	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 288	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 288	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	41	
+Main Group	22	22	ratings	Ratings, 84	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 84	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 84	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	455	
+Main Group	22	22	ratings	Ratings, 218	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 218	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 218	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	560	
+Main Group	22	22	ratings	Ratings, 210	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 210	Image 2 (2, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 210	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	186	
+Main Group	22	22	ratings	Ratings, 505	Image 1 (39, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 505	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 505	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	839	
+Main Group	22	22	ratings	Ratings, 229	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 229	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 229	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2337	
+Main Group	22	22	ratings	Ratings, 508	Image 1 (40, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 508	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 508	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	770	
+Main Group	22	22	ratings	Ratings, 383	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 383	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 383	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	598	
+Main Group	22	22	ratings	Ratings, 460	Image 1 (36, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 460	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 460	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1309	
+Main Group	22	22	ratings	Ratings, 38	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 38	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 38	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	549	
+Main Group	22	22	ratings	Ratings, 140	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 140	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 140	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	446	
+Main Group	22	22	ratings	Ratings, 364	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 364	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 364	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	369	
+Main Group	22	22	ratings	Ratings, 244	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 244	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 244	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	767	
+Main Group	22	22	ratings	Ratings, 467	Image 1 (36, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 467	Image 2 (12, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 467	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	562	
+Main Group	22	22	ratings	Ratings, 226	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 226	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 226	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	345	
+Main Group	22	22	ratings	Ratings, 49	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 49	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 49	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	1159	
+Main Group	22	22	ratings	Ratings, 30	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 30	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 30	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	959	
+Main Group	22	22	ratings	Ratings, 174	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 174	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 174	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	272	
+Main Group	22	22	ratings	Ratings, 152	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 152	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 152	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	301	
+Main Group	22	22	ratings	Ratings, 131	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 131	Image 2 (1, bLAND_bLACk.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 131	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1068	
+Main Group	22	22	ratings	Ratings, 608	Image 1 (47, TAMe_ClASSY.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 608	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 608	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	160	
+Main Group	22	22	ratings	Ratings, 265	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 265	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 265	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	193	
+Main Group	22	22	ratings	Ratings, 305	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 305	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 305	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	350	
+Main Group	22	22	ratings	Ratings, 29	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 29	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 29	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	643	
+Main Group	22	22	ratings	Ratings, 68	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 68	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 68	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	845	
+Main Group	22	22	ratings	Ratings, 476	Image 1 (37, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 476	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 476	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	603	
+Main Group	22	22	ratings	Ratings, 361	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 361	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 361	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	454	
+Main Group	22	22	ratings	Ratings, 551	Image 1 (43, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 551	Image 2 (5, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 551	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	407	
+Main Group	22	22	ratings	Ratings, 481	Image 1 (37, bOunDaRY_sTRanGer.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 481	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 481	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	2498	
+Main Group	22	22	ratings	Ratings, 302	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 302	Image 2 (3, Clay_EnDlesS.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 302	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	1561	
+Main Group	22	22	ratings	Ratings, 541	Image 1 (42, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 541	Image 2 (8, PAinstAkINg_Thought.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 541	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1215	
+Main Group	22	22	ratings	Ratings, 256	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 256	Image 2 (9, PoiSOnouS_aBsUrdLy.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 256	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	2051	
+Main Group	22	22	ratings	Ratings, 520	Image 1 (40, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 520	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 520	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2226	
+Main Group	22	22	ratings	Ratings, 511	Image 1 (40, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 511	Image 2 (4, EaST_faMily.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 511	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1929	
+Main Group	22	22	ratings	Ratings, 338	Image 1 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 338	Image 2 (13, thuNdEr_PeLViC.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 338	rating scale	2	2	1; 2; 3; 4; 5; 6; 7	C	1250	
+Main Group	22	22	ratings	Ratings, 254	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 254	Image 2 (7, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 254	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1773	
+Main Group	22	22	ratings	Ratings, 19	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 19	Image 2 (6, fUTure_data.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 19	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2150	
+Main Group	22	22	ratings	Ratings, 517	Image 1 (40, fireCRaCker_bRIDgE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 517	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 517	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2325	
+Main Group	22	22	ratings	Ratings, 543	Image 1 (42, GlOsSy_cEAsELEss.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 543	Image 2 (10, REqUEst_ReCoGNise.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 543	rating scale	3	3	1; 2; 3; 4; 5; 6; 7	C	2641	
+Main Group	22	22	ratings	Ratings, 323	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 323	Image 2 (11, rOSe_ENdUrabLE.jpg)			(any response)	NR	0	
+Main Group	22	22	ratings	Ratings, 323	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1417	

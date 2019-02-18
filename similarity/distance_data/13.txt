@@ -1,0 +1,1559 @@
+13
+picturesimilarity
+11/12/2018	11:02:42 AM
+
+Participant	Participant	Session	Block	Trial	Event	Participant		Correct	Error	Reaction
+Group	Name	ID	Name	Name	Name	Response	Key	Response	Code	Time	Trial Answered
+Main Group	13		ratings	Ratings, 217	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 217	Image 2 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 217	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	13239	
+Main Group	13		ratings	Ratings, 446	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 446	Image 2 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 446	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	9224	
+Main Group	13		ratings	Ratings, 933	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 933	Image 2 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 933	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2825	
+Main Group	13		ratings	Ratings, 1137	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1137	Image 2 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1137	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3776	
+Main Group	13		ratings	Ratings, 909	Image 1 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 909	Image 2 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 909	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2494	
+Main Group	13		ratings	Ratings, 295	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 295	Image 2 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 295	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	5373	
+Main Group	13		ratings	Ratings, 288	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 288	Image 2 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 288	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	11432	
+Main Group	13		ratings	Ratings, 1065	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1065	Image 2 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1065	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3321	
+Main Group	13		ratings	Ratings, 282	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 282	Image 2 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 282	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	4132	
+Main Group	13		ratings	Ratings, 603	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 603	Image 2 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 603	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1720	
+Main Group	13		ratings	Ratings, 1217	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1217	Image 2 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1217	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	9407	
+Main Group	13		ratings	Ratings, 1193	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1193	Image 2 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1193	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2151	
+Main Group	13		ratings	Ratings, 242	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 242	Image 2 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 242	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2976	
+Main Group	13		ratings	Ratings, 1216	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1216	Image 2 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1216	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	7954	
+Main Group	13		ratings	Ratings, 73	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 73	Image 2 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 73	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	5540	
+Main Group	13		ratings	Ratings, 305	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 305	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 305	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3016	
+Main Group	13		ratings	Ratings, 1185	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1185	Image 2 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1185	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2611	
+Main Group	13		ratings	Ratings, 476	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 476	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 476	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1759	
+Main Group	13		ratings	Ratings, 1016	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1016	Image 2 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1016	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1044	
+Main Group	13		ratings	Ratings, 1202	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1202	Image 2 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1202	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2783	
+Main Group	13		ratings	Ratings, 1195	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1195	Image 2 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1195	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	948	
+Main Group	13		ratings	Ratings, 1149	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1149	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1149	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1821	
+Main Group	13		ratings	Ratings, 39	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 39	Image 2 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 39	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	4151	
+Main Group	13		ratings	Ratings, 979	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 979	Image 2 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 979	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1567	
+Main Group	13		ratings	Ratings, 567	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 567	Image 2 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 567	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1431	
+Main Group	13		ratings	Ratings, 179	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 179	Image 2 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 179	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3491	
+Main Group	13		ratings	Ratings, 552	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 552	Image 2 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 552	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1297	
+Main Group	13		ratings	Ratings, 765	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 765	Image 2 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 765	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	11602	
+Main Group	13		ratings	Ratings, 485	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 485	Image 2 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 485	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1068	
+Main Group	13		ratings	Ratings, 667	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 667	Image 2 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 667	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	5622	
+Main Group	13		ratings	Ratings, 589	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 589	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 589	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1870	
+Main Group	13		ratings	Ratings, 1220	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1220	Image 2 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1220	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	13579	
+Main Group	13		ratings	Ratings, 782	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 782	Image 2 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 782	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	5413	
+Main Group	13		ratings	Ratings, 257	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 257	Image 2 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 257	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1598	
+Main Group	13		ratings	Ratings, 847	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 847	Image 2 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 847	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1581	
+Main Group	13		ratings	Ratings, 348	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 348	Image 2 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 348	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	9387	
+Main Group	13		ratings	Ratings, 615	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 615	Image 2 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 615	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1081	
+Main Group	13		ratings	Ratings, 379	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 379	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 379	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1450	
+Main Group	13		ratings	Ratings, 512	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 512	Image 2 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 512	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1284	
+Main Group	13		ratings	Ratings, 1168	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1168	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1168	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1630	
+Main Group	13		ratings	Ratings, 403	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 403	Image 2 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 403	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2370	
+Main Group	13		ratings	Ratings, 235	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 235	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 235	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3271	
+Main Group	13		ratings	Ratings, 1060	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1060	Image 2 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1060	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1729	
+Main Group	13		ratings	Ratings, 817	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 817	Image 2 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 817	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1030	
+Main Group	13		ratings	Ratings, 1115	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1115	Image 2 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1115	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	12423	
+Main Group	13		ratings	Ratings, 772	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 772	Image 2 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 772	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1106	
+Main Group	13		ratings	Ratings, 967	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 967	Image 2 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 967	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2921	
+Main Group	13		ratings	Ratings, 333	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 333	Image 2 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 333	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	11168	
+Main Group	13		ratings	Ratings, 507	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 507	Image 2 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 507	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1794	
+Main Group	13		ratings	Ratings, 1155	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1155	Image 2 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1155	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1649	
+Main Group	13		ratings	Ratings, 46	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 46	Image 2 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 46	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1156	
+Main Group	13		ratings	Ratings, 932	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 932	Image 2 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 932	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2531	
+Main Group	13		ratings	Ratings, 431	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 431	Image 2 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 431	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1147	
+Main Group	13		ratings	Ratings, 1030	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1030	Image 2 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1030	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1879	
+Main Group	13		ratings	Ratings, 701	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 701	Image 2 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 701	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1290	
+Main Group	13		ratings	Ratings, 300	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 300	Image 2 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 300	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1099	
+Main Group	13		ratings	Ratings, 953	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 953	Image 2 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 953	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2221	
+Main Group	13		ratings	Ratings, 206	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 206	Image 2 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 206	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1743	
+Main Group	13		ratings	Ratings, 960	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 960	Image 2 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 960	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1118	
+Main Group	13		ratings	Ratings, 937	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 937	Image 2 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 937	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1679	
+Main Group	13		ratings	Ratings, 758	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 758	Image 2 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 758	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1169	
+Main Group	13		ratings	Ratings, 222	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 222	Image 2 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 222	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1513	
+Main Group	13		ratings	Ratings, 375	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 375	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 375	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	973	
+Main Group	13		ratings	Ratings, 139	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 139	Image 2 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 139	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	950	
+Main Group	13		ratings	Ratings, 337	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 337	Image 2 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 337	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2172	
+Main Group	13		ratings	Ratings, 1123	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1123	Image 2 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1123	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1444	
+Main Group	13		ratings	Ratings, 409	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 409	Image 2 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 409	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1118	
+Main Group	13		ratings	Ratings, 862	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 862	Image 2 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 862	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1044	
+Main Group	13		ratings	Ratings, 152	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 152	Image 2 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 152	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	11979	
+Main Group	13		ratings	Ratings, 1214	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1214	Image 2 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1214	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	4576	
+Main Group	13		ratings	Ratings, 521	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 521	Image 2 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 521	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2041	
+Main Group	13		ratings	Ratings, 642	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 642	Image 2 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 642	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2319	
+Main Group	13		ratings	Ratings, 239	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 239	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 239	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	902	
+Main Group	13		ratings	Ratings, 254	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 254	Image 2 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 254	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1184	
+Main Group	13		ratings	Ratings, 215	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 215	Image 2 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 215	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1053	
+Main Group	13		ratings	Ratings, 270	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 270	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 270	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	872	
+Main Group	13		ratings	Ratings, 57	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 57	Image 2 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 57	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1212	
+Main Group	13		ratings	Ratings, 621	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 621	Image 2 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 621	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1096	
+Main Group	13		ratings	Ratings, 534	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 534	Image 2 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 534	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1134	
+Main Group	13		ratings	Ratings, 79	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 79	Image 2 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 79	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1363	
+Main Group	13		ratings	Ratings, 866	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 866	Image 2 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 866	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1239	
+Main Group	13		ratings	Ratings, 95	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 95	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 95	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1022	
+Main Group	13		ratings	Ratings, 1186	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1186	Image 2 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1186	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	808	
+Main Group	13		ratings	Ratings, 592	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 592	Image 2 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 592	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	817	
+Main Group	13		ratings	Ratings, 196	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 196	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 196	rating scale	4	4	1; 2; 3; 4; 5; 6; 7	C	6141	
+Main Group	13		ratings	Ratings, 743	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 743	Image 2 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 743	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	997	
+Main Group	13		ratings	Ratings, 1119	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1119	Image 2 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1119	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	830	
+Main Group	13		ratings	Ratings, 371	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 371	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 371	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1894	
+Main Group	13		ratings	Ratings, 126	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 126	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 126	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1283	
+Main Group	13		ratings	Ratings, 764	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 764	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 764	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	4874	
+Main Group	13		ratings	Ratings, 471	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 471	Image 2 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 471	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1537	
+Main Group	13		ratings	Ratings, 535	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 535	Image 2 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 535	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1293	
+Main Group	13		ratings	Ratings, 767	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 767	Image 2 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 767	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2856	
+Main Group	13		ratings	Ratings, 460	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 460	Image 2 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 460	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1365	
+Main Group	13		ratings	Ratings, 1180	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1180	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1180	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1147	
+Main Group	13		ratings	Ratings, 1023	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1023	Image 2 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1023	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1235	
+Main Group	13		ratings	Ratings, 29	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 29	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 29	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1424	
+Main Group	13		ratings	Ratings, 26	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 26	Image 2 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 26	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1600	
+Main Group	13		ratings	Ratings, 553	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 553	Image 2 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 553	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1381	
+Main Group	13		ratings	Ratings, 81	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 81	Image 2 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 81	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1053	
+Main Group	13		ratings	Ratings, 727	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 727	Image 2 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 727	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1185	
+Main Group	13		ratings	Ratings, 310	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 310	Image 2 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 310	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1490	
+Main Group	13		ratings	Ratings, 55	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 55	Image 2 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 55	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2807	
+Main Group	13		ratings	Ratings, 7	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 7	Image 2 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 7	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1166	
+Main Group	13		ratings	Ratings, 754	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 754	Image 2 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 754	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1137	
+Main Group	13		ratings	Ratings, 749	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 749	Image 2 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 749	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1045	
+Main Group	13		ratings	Ratings, 1090	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1090	Image 2 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1090	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1787	
+Main Group	13		ratings	Ratings, 499	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 499	Image 2 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 499	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1941	
+Main Group	13		ratings	Ratings, 191	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 191	Image 2 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 191	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1175	
+Main Group	13		ratings	Ratings, 180	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 180	Image 2 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 180	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2570	
+Main Group	13		ratings	Ratings, 53	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 53	Image 2 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 53	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1310	
+Main Group	13		ratings	Ratings, 879	Image 1 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 879	Image 2 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 879	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	17749	
+Main Group	13		ratings	Ratings, 244	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 244	Image 2 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 244	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	4697	
+Main Group	13		ratings	Ratings, 519	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 519	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 519	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	877	
+Main Group	13		ratings	Ratings, 973	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 973	Image 2 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 973	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1286	
+Main Group	13		ratings	Ratings, 260	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 260	Image 2 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 260	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	986	
+Main Group	13		ratings	Ratings, 810	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 810	Image 2 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 810	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1321	
+Main Group	13		ratings	Ratings, 78	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 78	Image 2 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 78	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1865	
+Main Group	13		ratings	Ratings, 213	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 213	Image 2 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 213	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1674	
+Main Group	13		ratings	Ratings, 779	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 779	Image 2 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 779	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1766	
+Main Group	13		ratings	Ratings, 527	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 527	Image 2 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 527	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	846	
+Main Group	13		ratings	Ratings, 494	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 494	Image 2 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 494	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1004	
+Main Group	13		ratings	Ratings, 958	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 958	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 958	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	7816	
+Main Group	13		ratings	Ratings, 21	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 21	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 21	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1105	
+Main Group	13		ratings	Ratings, 355	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 355	Image 2 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 355	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1330	
+Main Group	13		ratings	Ratings, 374	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 374	Image 2 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 374	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2740	
+Main Group	13		ratings	Ratings, 732	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 732	Image 2 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 732	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3837	
+Main Group	13		ratings	Ratings, 113	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 113	Image 2 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 113	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2377	
+Main Group	13		ratings	Ratings, 929	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 929	Image 2 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 929	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	4117	
+Main Group	13		ratings	Ratings, 700	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 700	Image 2 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 700	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3493	
+Main Group	13		ratings	Ratings, 1215	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1215	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1215	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	5517	
+Main Group	13		ratings	Ratings, 745	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 745	Image 2 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 745	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1130	
+Main Group	13		ratings	Ratings, 203	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 203	Image 2 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 203	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3846	
+Main Group	13		ratings	Ratings, 484	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 484	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 484	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1730	
+Main Group	13		ratings	Ratings, 335	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 335	Image 2 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 335	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	965	
+Main Group	13		ratings	Ratings, 1114	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1114	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1114	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1865	
+Main Group	13		ratings	Ratings, 668	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 668	Image 2 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 668	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2065	
+Main Group	13		ratings	Ratings, 482	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 482	Image 2 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 482	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1226	
+Main Group	13		ratings	Ratings, 524	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 524	Image 2 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 524	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1113	
+Main Group	13		ratings	Ratings, 1042	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1042	Image 2 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1042	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1037	
+Main Group	13		ratings	Ratings, 546	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 546	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 546	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1091	
+Main Group	13		ratings	Ratings, 111	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 111	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 111	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1125	
+Main Group	13		ratings	Ratings, 286	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 286	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 286	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1523	
+Main Group	13		ratings	Ratings, 783	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 783	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 783	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1458	
+Main Group	13		ratings	Ratings, 983	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 983	Image 2 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 983	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1584	
+Main Group	13		ratings	Ratings, 255	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 255	Image 2 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 255	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1448	
+Main Group	13		ratings	Ratings, 981	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 981	Image 2 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 981	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1454	
+Main Group	13		ratings	Ratings, 678	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 678	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 678	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1341	
+Main Group	13		ratings	Ratings, 1021	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1021	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1021	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1135	
+Main Group	13		ratings	Ratings, 4	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 4	Image 2 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 4	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	3281	
+Main Group	13		ratings	Ratings, 291	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 291	Image 2 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 291	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1657	
+Main Group	13		ratings	Ratings, 127	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 127	Image 2 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 127	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1823	
+Main Group	13		ratings	Ratings, 360	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 360	Image 2 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 360	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	948	
+Main Group	13		ratings	Ratings, 1171	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1171	Image 2 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1171	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1032	
+Main Group	13		ratings	Ratings, 1223	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1223	Image 2 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1223	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1005	
+Main Group	13		ratings	Ratings, 804	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 804	Image 2 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 804	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	842	
+Main Group	13		ratings	Ratings, 843	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 843	Image 2 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 843	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	736	
+Main Group	13		ratings	Ratings, 144	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 144	Image 2 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 144	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2011	
+Main Group	13		ratings	Ratings, 1048	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1048	Image 2 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1048	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1236	
+Main Group	13		ratings	Ratings, 503	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 503	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 503	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1281	
+Main Group	13		ratings	Ratings, 635	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 635	Image 2 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 635	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1013	
+Main Group	13		ratings	Ratings, 748	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 748	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 748	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2033	
+Main Group	13		ratings	Ratings, 184	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 184	Image 2 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 184	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	799	
+Main Group	13		ratings	Ratings, 324	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 324	Image 2 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 324	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1478	
+Main Group	13		ratings	Ratings, 975	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 975	Image 2 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 975	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	3642	
+Main Group	13		ratings	Ratings, 864	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 864	Image 2 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 864	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	8821	
+Main Group	13		ratings	Ratings, 619	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 619	Image 2 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 619	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	928	
+Main Group	13		ratings	Ratings, 128	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 128	Image 2 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 128	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	966	
+Main Group	13		ratings	Ratings, 575	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 575	Image 2 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 575	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1018	
+Main Group	13		ratings	Ratings, 56	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 56	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 56	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1083	
+Main Group	13		ratings	Ratings, 752	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 752	Image 2 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 752	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	4648	
+Main Group	13		ratings	Ratings, 550	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 550	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 550	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	858	
+Main Group	13		ratings	Ratings, 1172	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1172	Image 2 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1172	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	893	
+Main Group	13		ratings	Ratings, 1041	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1041	Image 2 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1041	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	971	
+Main Group	13		ratings	Ratings, 147	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 147	Image 2 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 147	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	796	
+Main Group	13		ratings	Ratings, 697	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 697	Image 2 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 697	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	854	
+Main Group	13		ratings	Ratings, 246	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 246	Image 2 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 246	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	763	
+Main Group	13		ratings	Ratings, 715	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 715	Image 2 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 715	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	892	
+Main Group	13		ratings	Ratings, 452	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 452	Image 2 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 452	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	872	
+Main Group	13		ratings	Ratings, 468	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 468	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 468	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3018	
+Main Group	13		ratings	Ratings, 1135	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1135	Image 2 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1135	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	13869	
+Main Group	13		ratings	Ratings, 518	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 518	Image 2 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 518	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	848	
+Main Group	13		ratings	Ratings, 185	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 185	Image 2 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 185	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1340	
+Main Group	13		ratings	Ratings, 852	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 852	Image 2 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 852	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1091	
+Main Group	13		ratings	Ratings, 617	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 617	Image 2 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 617	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	894	
+Main Group	13		ratings	Ratings, 686	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 686	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 686	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1727	
+Main Group	13		ratings	Ratings, 947	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 947	Image 2 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 947	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	951	
+Main Group	13		ratings	Ratings, 623	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 623	Image 2 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 623	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1036	
+Main Group	13		ratings	Ratings, 526	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 526	Image 2 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 526	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	5584	
+Main Group	13		ratings	Ratings, 318	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 318	Image 2 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 318	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	901	
+Main Group	13		ratings	Ratings, 690	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 690	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 690	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1656	
+Main Group	13		ratings	Ratings, 737	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 737	Image 2 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 737	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	881	
+Main Group	13		ratings	Ratings, 533	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 533	Image 2 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 533	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1254	
+Main Group	13		ratings	Ratings, 224	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 224	Image 2 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 224	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1717	
+Main Group	13		ratings	Ratings, 1184	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1184	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1184	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1173	
+Main Group	13		ratings	Ratings, 77	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 77	Image 2 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 77	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1407	
+Main Group	13		ratings	Ratings, 1062	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1062	Image 2 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1062	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1562	
+Main Group	13		ratings	Ratings, 853	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 853	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 853	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2795	
+Main Group	13		ratings	Ratings, 1015	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1015	Image 2 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1015	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3664	
+Main Group	13		ratings	Ratings, 711	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 711	Image 2 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 711	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	6944	
+Main Group	13		ratings	Ratings, 638	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 638	Image 2 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 638	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1072	
+Main Group	13		ratings	Ratings, 394	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 394	Image 2 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 394	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1443	
+Main Group	13		ratings	Ratings, 985	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 985	Image 2 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 985	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	855	
+Main Group	13		ratings	Ratings, 681	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 681	Image 2 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 681	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	775	
+Main Group	13		ratings	Ratings, 1126	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1126	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1126	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	6500	
+Main Group	13		ratings	Ratings, 232	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 232	Image 2 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 232	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	992	
+Main Group	13		ratings	Ratings, 12	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 12	Image 2 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 12	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1089	
+Main Group	13		ratings	Ratings, 815	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 815	Image 2 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 815	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1064	
+Main Group	13		ratings	Ratings, 377	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 377	Image 2 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 377	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1022	
+Main Group	13		ratings	Ratings, 646	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 646	Image 2 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 646	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	679	
+Main Group	13		ratings	Ratings, 1027	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1027	Image 2 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1027	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	766	
+Main Group	13		ratings	Ratings, 429	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 429	Image 2 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 429	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2053	
+Main Group	13		ratings	Ratings, 833	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 833	Image 2 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 833	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1068	
+Main Group	13		ratings	Ratings, 989	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 989	Image 2 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 989	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	658	
+Main Group	13		ratings	Ratings, 103	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 103	Image 2 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 103	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	812	
+Main Group	13		ratings	Ratings, 1198	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1198	Image 2 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1198	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1849	
+Main Group	13		ratings	Ratings, 37	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 37	Image 2 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 37	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1466	
+Main Group	13		ratings	Ratings, 221	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 221	Image 2 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 221	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	4505	
+Main Group	13		ratings	Ratings, 629	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 629	Image 2 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 629	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	853	
+Main Group	13		ratings	Ratings, 315	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 315	Image 2 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 315	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3369	
+Main Group	13		ratings	Ratings, 540	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 540	Image 2 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 540	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	845	
+Main Group	13		ratings	Ratings, 687	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 687	Image 2 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 687	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1678	
+Main Group	13		ratings	Ratings, 741	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 741	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 741	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	806	
+Main Group	13		ratings	Ratings, 601	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 601	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 601	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	808	
+Main Group	13		ratings	Ratings, 293	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 293	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 293	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1114	
+Main Group	13		ratings	Ratings, 109	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 109	Image 2 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 109	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1547	
+Main Group	13		ratings	Ratings, 600	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 600	Image 2 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 600	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1309	
+Main Group	13		ratings	Ratings, 865	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 865	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 865	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1232	
+Main Group	13		ratings	Ratings, 218	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 218	Image 2 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 218	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1435	
+Main Group	13		ratings	Ratings, 812	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 812	Image 2 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 812	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	938	
+Main Group	13		ratings	Ratings, 670	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 670	Image 2 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 670	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	790	
+Main Group	13		ratings	Ratings, 836	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 836	Image 2 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 836	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	747	
+Main Group	13		ratings	Ratings, 736	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 736	Image 2 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 736	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	3327	
+Main Group	13		ratings	Ratings, 296	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 296	Image 2 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 296	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	706	
+Main Group	13		ratings	Ratings, 688	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 688	Image 2 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 688	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	8358	
+Main Group	13		ratings	Ratings, 1084	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1084	Image 2 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1084	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1007	
+Main Group	13		ratings	Ratings, 1043	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1043	Image 2 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1043	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2633	
+Main Group	13		ratings	Ratings, 694	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 694	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 694	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1901	
+Main Group	13		ratings	Ratings, 1218	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1218	Image 2 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1218	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	3109	
+Main Group	13		ratings	Ratings, 1151	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1151	Image 2 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1151	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	826	
+Main Group	13		ratings	Ratings, 839	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 839	Image 2 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 839	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	923	
+Main Group	13		ratings	Ratings, 272	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 272	Image 2 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 272	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2117	
+Main Group	13		ratings	Ratings, 913	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 913	Image 2 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 913	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	4281	
+Main Group	13		ratings	Ratings, 724	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 724	Image 2 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 724	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1730	
+Main Group	13		ratings	Ratings, 861	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 861	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 861	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1042	
+Main Group	13		ratings	Ratings, 631	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 631	Image 2 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 631	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1572	
+Main Group	13		ratings	Ratings, 52	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 52	Image 2 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 52	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	4169	
+Main Group	13		ratings	Ratings, 65	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 65	Image 2 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 65	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	888	
+Main Group	13		ratings	Ratings, 998	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 998	Image 2 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 998	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	2616	
+Main Group	13		ratings	Ratings, 1134	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1134	Image 2 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1134	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	963	
+Main Group	13		ratings	Ratings, 1141	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1141	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1141	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1785	
+Main Group	13		ratings	Ratings, 325	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 325	Image 2 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 325	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1899	
+Main Group	13		ratings	Ratings, 477	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 477	Image 2 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 477	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2809	
+Main Group	13		ratings	Ratings, 120	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 120	Image 2 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 120	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1035	
+Main Group	13		ratings	Ratings, 811	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 811	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 811	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1013	
+Main Group	13		ratings	Ratings, 456	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 456	Image 2 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 456	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	922	
+Main Group	13		ratings	Ratings, 868	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 868	Image 2 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 868	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	1545	
+Main Group	13		ratings	Ratings, 1101	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1101	Image 2 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1101	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	975	
+Main Group	13		ratings	Ratings, 640	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 640	Image 2 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 640	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1252	
+Main Group	13		ratings	Ratings, 402	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 402	Image 2 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 402	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	715	
+Main Group	13		ratings	Ratings, 391	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 391	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 391	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	706	
+Main Group	13		ratings	Ratings, 795	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 795	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 795	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	812	
+Main Group	13		ratings	Ratings, 344	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 344	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 344	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	6012	
+Main Group	13		ratings	Ratings, 872	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 872	Image 2 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 872	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	4544	
+Main Group	13		ratings	Ratings, 966	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 966	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 966	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1571	
+Main Group	13		ratings	Ratings, 241	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 241	Image 2 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 241	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	982	
+Main Group	13		ratings	Ratings, 696	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 696	Image 2 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 696	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	649	
+Main Group	13		ratings	Ratings, 162	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 162	Image 2 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 162	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1299	
+Main Group	13		ratings	Ratings, 1147	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1147	Image 2 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1147	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	888	
+Main Group	13		ratings	Ratings, 663	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 663	Image 2 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 663	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	989	
+Main Group	13		ratings	Ratings, 713	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 713	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 713	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	665	
+Main Group	13		ratings	Ratings, 47	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 47	Image 2 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 47	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	717	
+Main Group	13		ratings	Ratings, 982	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 982	Image 2 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 982	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	861	
+Main Group	13		ratings	Ratings, 1087	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1087	Image 2 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1087	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	875	
+Main Group	13		ratings	Ratings, 768	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 768	Image 2 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 768	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	952	
+Main Group	13		ratings	Ratings, 105	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 105	Image 2 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 105	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	915	
+Main Group	13		ratings	Ratings, 931	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 931	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 931	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	695	
+Main Group	13		ratings	Ratings, 58	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 58	Image 2 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 58	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1282	
+Main Group	13		ratings	Ratings, 1175	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1175	Image 2 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1175	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1000	
+Main Group	13		ratings	Ratings, 726	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 726	Image 2 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 726	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	853	
+Main Group	13		ratings	Ratings, 1208	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1208	Image 2 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1208	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1160	
+Main Group	13		ratings	Ratings, 543	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 543	Image 2 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 543	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2696	
+Main Group	13		ratings	Ratings, 70	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 70	Image 2 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 70	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	706	
+Main Group	13		ratings	Ratings, 910	Image 1 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 910	Image 2 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 910	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	3234	
+Main Group	13		ratings	Ratings, 368	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 368	Image 2 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 368	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	664	
+Main Group	13		ratings	Ratings, 968	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 968	Image 2 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 968	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	845	
+Main Group	13		ratings	Ratings, 963	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 963	Image 2 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 963	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	586	
+Main Group	13		ratings	Ratings, 428	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 428	Image 2 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 428	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	683	
+Main Group	13		ratings	Ratings, 389	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 389	Image 2 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 389	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2057	
+Main Group	13		ratings	Ratings, 63	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 63	Image 2 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 63	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	4599	
+Main Group	13		ratings	Ratings, 458	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 458	Image 2 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 458	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	4432	
+Main Group	13		ratings	Ratings, 820	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 820	Image 2 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 820	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	8290	
+Main Group	13		ratings	Ratings, 566	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 566	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 566	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	4273	
+Main Group	13		ratings	Ratings, 130	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 130	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 130	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	3229	
+Main Group	13		ratings	Ratings, 827	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 827	Image 2 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 827	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2040	
+Main Group	13		ratings	Ratings, 1116	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1116	Image 2 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1116	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2546	
+Main Group	13		ratings	Ratings, 406	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 406	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 406	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	36928	
+Main Group	13		ratings	Ratings, 27	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 27	Image 2 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 27	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	4899	
+Main Group	13		ratings	Ratings, 229	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 229	Image 2 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 229	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	944	
+Main Group	13		ratings	Ratings, 774	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 774	Image 2 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 774	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	880	
+Main Group	13		ratings	Ratings, 1127	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1127	Image 2 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1127	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1037	
+Main Group	13		ratings	Ratings, 1080	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1080	Image 2 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1080	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1131	
+Main Group	13		ratings	Ratings, 755	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 755	Image 2 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 755	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1187	
+Main Group	13		ratings	Ratings, 1157	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1157	Image 2 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1157	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	782	
+Main Group	13		ratings	Ratings, 90	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 90	Image 2 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 90	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	487	
+Main Group	13		ratings	Ratings, 893	Image 1 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 893	Image 2 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 893	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	526	
+Main Group	13		ratings	Ratings, 571	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 571	Image 2 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 571	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	515	
+Main Group	13		ratings	Ratings, 238	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 238	Image 2 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 238	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1045	
+Main Group	13		ratings	Ratings, 312	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 312	Image 2 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 312	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	803	
+Main Group	13		ratings	Ratings, 1055	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1055	Image 2 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1055	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	883	
+Main Group	13		ratings	Ratings, 993	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 993	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 993	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	5467	
+Main Group	13		ratings	Ratings, 190	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 190	Image 2 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 190	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1980	
+Main Group	13		ratings	Ratings, 855	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 855	Image 2 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 855	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	651	
+Main Group	13		ratings	Ratings, 256	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 256	Image 2 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 256	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1100	
+Main Group	13		ratings	Ratings, 45	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 45	Image 2 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 45	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	871	
+Main Group	13		ratings	Ratings, 1082	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1082	Image 2 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1082	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	705	
+Main Group	13		ratings	Ratings, 1056	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1056	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1056	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	677	
+Main Group	13		ratings	Ratings, 761	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 761	Image 2 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 761	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2660	
+Main Group	13		ratings	Ratings, 33	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 33	Image 2 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 33	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1060	
+Main Group	13		ratings	Ratings, 579	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 579	Image 2 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 579	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1980	
+Main Group	13		ratings	Ratings, 733	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 733	Image 2 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 733	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	3102	
+Main Group	13		ratings	Ratings, 1079	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1079	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1079	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1690	
+Main Group	13		ratings	Ratings, 487	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 487	Image 2 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 487	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	978	
+Main Group	13		ratings	Ratings, 338	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 338	Image 2 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 338	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	978	
+Main Group	13		ratings	Ratings, 1131	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1131	Image 2 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1131	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	988	
+Main Group	13		ratings	Ratings, 220	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 220	Image 2 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 220	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	691	
+Main Group	13		ratings	Ratings, 154	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 154	Image 2 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 154	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1545	
+Main Group	13		ratings	Ratings, 1038	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1038	Image 2 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1038	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1068	
+Main Group	13		ratings	Ratings, 545	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 545	Image 2 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 545	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	925	
+Main Group	13		ratings	Ratings, 964	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 964	Image 2 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 964	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2625	
+Main Group	13		ratings	Ratings, 271	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 271	Image 2 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 271	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	793	
+Main Group	13		ratings	Ratings, 593	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 593	Image 2 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 593	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1559	
+Main Group	13		ratings	Ratings, 34	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 34	Image 2 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 34	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	804	
+Main Group	13		ratings	Ratings, 1194	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1194	Image 2 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1194	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	4371	
+Main Group	13		ratings	Ratings, 1088	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1088	Image 2 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1088	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	781	
+Main Group	13		ratings	Ratings, 1122	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1122	Image 2 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1122	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	808	
+Main Group	13		ratings	Ratings, 915	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 915	Image 2 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 915	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	816	
+Main Group	13		ratings	Ratings, 626	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 626	Image 2 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 626	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2410	
+Main Group	13		ratings	Ratings, 1118	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1118	Image 2 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1118	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	971	
+Main Group	13		ratings	Ratings, 1106	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1106	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1106	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	705	
+Main Group	13		ratings	Ratings, 1144	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1144	Image 2 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1144	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	979	
+Main Group	13		ratings	Ratings, 1032	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1032	Image 2 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1032	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1002	
+Main Group	13		ratings	Ratings, 443	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 443	Image 2 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 443	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	998	
+Main Group	13		ratings	Ratings, 797	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 797	Image 2 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 797	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	742	
+Main Group	13		ratings	Ratings, 194	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 194	Image 2 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 194	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	719	
+Main Group	13		ratings	Ratings, 449	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 449	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 449	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	824	
+Main Group	13		ratings	Ratings, 437	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 437	Image 2 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 437	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1510	
+Main Group	13		ratings	Ratings, 648	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 648	Image 2 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 648	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	564	
+Main Group	13		ratings	Ratings, 1061	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1061	Image 2 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1061	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	534	
+Main Group	13		ratings	Ratings, 433	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 433	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 433	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1294	
+Main Group	13		ratings	Ratings, 584	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 584	Image 2 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 584	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	6245	
+Main Group	13		ratings	Ratings, 470	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 470	Image 2 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 470	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	657	
+Main Group	13		ratings	Ratings, 392	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 392	Image 2 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 392	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	795	
+Main Group	13		ratings	Ratings, 722	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 722	Image 2 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 722	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3507	
+Main Group	13		ratings	Ratings, 660	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 660	Image 2 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 660	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	4317	
+Main Group	13		ratings	Ratings, 538	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 538	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 538	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	848	
+Main Group	13		ratings	Ratings, 320	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 320	Image 2 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 320	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	931	
+Main Group	13		ratings	Ratings, 361	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 361	Image 2 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 361	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1298	
+Main Group	13		ratings	Ratings, 1040	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1040	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1040	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1349	
+Main Group	13		ratings	Ratings, 225	Image 1 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 225	Image 2 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 225	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	820	
+Main Group	13		ratings	Ratings, 478	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 478	Image 2 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 478	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	758	
+Main Group	13		ratings	Ratings, 770	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 770	Image 2 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 770	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	5345	
+Main Group	13		ratings	Ratings, 826	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 826	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 826	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	803	
+Main Group	13		ratings	Ratings, 1124	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1124	Image 2 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1124	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	881	
+Main Group	13		ratings	Ratings, 419	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 419	Image 2 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 419	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	3274	
+Main Group	13		ratings	Ratings, 506	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 506	Image 2 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 506	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2046	
+Main Group	13		ratings	Ratings, 1011	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1011	Image 2 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1011	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	2055	
+Main Group	13		ratings	Ratings, 178	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 178	Image 2 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 178	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	623	
+Main Group	13		ratings	Ratings, 1026	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1026	Image 2 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1026	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	930	
+Main Group	13		ratings	Ratings, 129	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 129	Image 2 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 129	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	805	
+Main Group	13		ratings	Ratings, 44	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 44	Image 2 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 44	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	693	
+Main Group	13		ratings	Ratings, 480	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 480	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 480	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	837	
+Main Group	13		ratings	Ratings, 912	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 912	Image 2 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 912	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	708	
+Main Group	13		ratings	Ratings, 858	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 858	Image 2 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 858	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1177	
+Main Group	13		ratings	Ratings, 248	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 248	Image 2 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 248	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1954	
+Main Group	13		ratings	Ratings, 675	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 675	Image 2 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 675	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	12117	
+Main Group	13		ratings	Ratings, 1177	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1177	Image 2 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1177	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1161	
+Main Group	13		ratings	Ratings, 830	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 830	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 830	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2260	
+Main Group	13		ratings	Ratings, 608	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 608	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 608	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2677	
+Main Group	13		ratings	Ratings, 1136	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1136	Image 2 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1136	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1114	
+Main Group	13		ratings	Ratings, 735	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 735	Image 2 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 735	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	4050	
+Main Group	13		ratings	Ratings, 508	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 508	Image 2 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 508	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	9591	
+Main Group	13		ratings	Ratings, 1031	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1031	Image 2 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1031	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1138	
+Main Group	13		ratings	Ratings, 806	Image 1 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 806	Image 2 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 806	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2029	
+Main Group	13		ratings	Ratings, 124	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 124	Image 2 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 124	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	5303	
+Main Group	13		ratings	Ratings, 461	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 461	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 461	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	782	
+Main Group	13		ratings	Ratings, 1102	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1102	Image 2 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1102	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	2720	
+Main Group	13		ratings	Ratings, 201	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 201	Image 2 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 201	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	5374	
+Main Group	13		ratings	Ratings, 1045	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1045	Image 2 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1045	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1462	
+Main Group	13		ratings	Ratings, 511	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 511	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 511	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	6306	
+Main Group	13		ratings	Ratings, 1207	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1207	Image 2 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1207	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	7865	
+Main Group	13		ratings	Ratings, 250	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 250	Image 2 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 250	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1237	
+Main Group	13		ratings	Ratings, 922	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 922	Image 2 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 922	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	908	
+Main Group	13		ratings	Ratings, 1097	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1097	Image 2 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1097	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	598	
+Main Group	13		ratings	Ratings, 116	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 116	Image 2 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 116	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1297	
+Main Group	13		ratings	Ratings, 465	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 465	Image 2 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 465	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	781	
+Main Group	13		ratings	Ratings, 41	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 41	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 41	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1029	
+Main Group	13		ratings	Ratings, 118	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 118	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 118	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1515	
+Main Group	13		ratings	Ratings, 885	Image 1 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 885	Image 2 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 885	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	731	
+Main Group	13		ratings	Ratings, 1181	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1181	Image 2 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1181	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	960	
+Main Group	13		ratings	Ratings, 495	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 495	Image 2 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 495	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2995	
+Main Group	13		ratings	Ratings, 434	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 434	Image 2 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 434	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2109	
+Main Group	13		ratings	Ratings, 396	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 396	Image 2 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 396	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	633	
+Main Group	13		ratings	Ratings, 93	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 93	Image 2 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 93	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	712	
+Main Group	13		ratings	Ratings, 424	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 424	Image 2 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 424	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	2088	
+Main Group	13		ratings	Ratings, 421	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 421	Image 2 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 421	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1421	
+Main Group	13		ratings	Ratings, 83	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 83	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 83	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1189	
+Main Group	13		ratings	Ratings, 851	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 851	Image 2 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 851	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	840	
+Main Group	13		ratings	Ratings, 165	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 165	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 165	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	650	
+Main Group	13		ratings	Ratings, 1191	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1191	Image 2 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1191	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1572	
+Main Group	13		ratings	Ratings, 321	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 321	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 321	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	913	
+Main Group	13		ratings	Ratings, 624	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 624	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 624	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1390	
+Main Group	13		ratings	Ratings, 1067	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1067	Image 2 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1067	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	675	
+Main Group	13		ratings	Ratings, 547	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 547	Image 2 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 547	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1057	
+Main Group	13		ratings	Ratings, 280	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 280	Image 2 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 280	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1185	
+Main Group	13		ratings	Ratings, 927	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 927	Image 2 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 927	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	663	
+Main Group	13		ratings	Ratings, 849	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 849	Image 2 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 849	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	683	
+Main Group	13		ratings	Ratings, 327	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 327	Image 2 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 327	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	886	
+Main Group	13		ratings	Ratings, 172	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 172	Image 2 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 172	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1168	
+Main Group	13		ratings	Ratings, 996	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 996	Image 2 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 996	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1559	
+Main Group	13		ratings	Ratings, 317	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 317	Image 2 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 317	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	756	
+Main Group	13		ratings	Ratings, 1	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1	Image 2 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1712	
+Main Group	13		ratings	Ratings, 164	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 164	Image 2 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 164	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	656	
+Main Group	13		ratings	Ratings, 888	Image 1 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 888	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 888	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	3032	
+Main Group	13		ratings	Ratings, 334	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 334	Image 2 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 334	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	747	
+Main Group	13		ratings	Ratings, 316	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 316	Image 2 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 316	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	708	
+Main Group	13		ratings	Ratings, 1110	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1110	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1110	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2827	
+Main Group	13		ratings	Ratings, 303	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 303	Image 2 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 303	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	664	
+Main Group	13		ratings	Ratings, 117	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 117	Image 2 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 117	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	661	
+Main Group	13		ratings	Ratings, 746	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 746	Image 2 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 746	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	737	
+Main Group	13		ratings	Ratings, 425	Image 1 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 425	Image 2 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 425	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	721	
+Main Group	13		ratings	Ratings, 1092	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1092	Image 2 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1092	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	564	
+Main Group	13		ratings	Ratings, 790	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 790	Image 2 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 790	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	601	
+Main Group	13		ratings	Ratings, 662	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 662	Image 2 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 662	rating scale	5	5	1; 2; 3; 4; 5; 6; 7	C	3000	
+Main Group	13		ratings	Ratings, 208	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 208	Image 2 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 208	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	3380	
+Main Group	13		ratings	Ratings, 68	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 68	Image 2 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 68	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	968	
+Main Group	13		ratings	Ratings, 1125	Image 1 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1125	Image 2 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1125	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1762	
+Main Group	13		ratings	Ratings, 860	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 860	Image 2 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 860	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	740	
+Main Group	13		ratings	Ratings, 356	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 356	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 356	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	743	
+Main Group	13		ratings	Ratings, 1033	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1033	Image 2 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1033	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	727	
+Main Group	13		ratings	Ratings, 622	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 622	Image 2 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 622	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1038	
+Main Group	13		ratings	Ratings, 1066	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1066	Image 2 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1066	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	7083	
+Main Group	13		ratings	Ratings, 313	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 313	Image 2 (33, trait_basket.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 313	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1173	
+Main Group	13		ratings	Ratings, 598	Image 1 (18, QueUe_dApPer.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 598	Image 2 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 598	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2754	
+Main Group	13		ratings	Ratings, 1192	Image 1 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1192	Image 2 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1192	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3060	
+Main Group	13		ratings	Ratings, 1182	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1182	Image 2 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1182	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	6224	
+Main Group	13		ratings	Ratings, 412	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 412	Image 2 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 412	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1123	
+Main Group	13		ratings	Ratings, 661	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 661	Image 2 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 661	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	879	
+Main Group	13		ratings	Ratings, 854	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 854	Image 2 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 854	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	930	
+Main Group	13		ratings	Ratings, 570	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 570	Image 2 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 570	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3534	
+Main Group	13		ratings	Ratings, 577	Image 1 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 577	Image 2 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 577	rating scale	1	1	1; 2; 3; 4; 5; 6; 7	C	1261	
+Main Group	13		ratings	Ratings, 633	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 633	Image 2 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 633	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	827	
+Main Group	13		ratings	Ratings, 671	Image 1 (20, riddle_grape.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 671	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 671	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	909	
+Main Group	13		ratings	Ratings, 1050	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1050	Image 2 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1050	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	10160	
+Main Group	13		ratings	Ratings, 61	Image 1 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 61	Image 2 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 61	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1133	
+Main Group	13		ratings	Ratings, 1095	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1095	Image 2 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1095	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2540	
+Main Group	13		ratings	Ratings, 791	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 791	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 791	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	808	
+Main Group	13		ratings	Ratings, 632	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 632	Image 2 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 632	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	785	
+Main Group	13		ratings	Ratings, 259	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 259	Image 2 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 259	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3113	
+Main Group	13		ratings	Ratings, 174	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 174	Image 2 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 174	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1269	
+Main Group	13		ratings	Ratings, 1037	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1037	Image 2 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1037	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	2103	
+Main Group	13		ratings	Ratings, 1098	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1098	Image 2 (13, nEed_mUg.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1098	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1508	
+Main Group	13		ratings	Ratings, 904	Image 1 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 904	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 904	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1662	
+Main Group	13		ratings	Ratings, 340	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 340	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 340	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3829	
+Main Group	13		ratings	Ratings, 493	Image 1 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 493	Image 2 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 493	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1973	
+Main Group	13		ratings	Ratings, 1071	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1071	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1071	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1146	
+Main Group	13		ratings	Ratings, 1039	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1039	Image 2 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1039	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	10432	
+Main Group	13		ratings	Ratings, 367	Image 1 (11, hard-to-find_brush.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 367	Image 2 (17, publicity_commemorate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 367	rating scale	space	 	1; 2; 3; 4; 5; 6; 7	E	4894	
+Main Group	13		ratings	Ratings, 367	rating scale		9	1; 2; 3; 4; 5; 6; 7	E	14947	
+Main Group	13		ratings	Ratings, 367	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	SC	16053	
+Main Group	13		ratings	Ratings, 1014	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1014	Image 2 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1014	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	23744	
+Main Group	13		ratings	Ratings, 842	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 842	Image 2 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 842	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1126	
+Main Group	13		ratings	Ratings, 284	Image 1 (9, friend_Koran.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 284	Image 2 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 284	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1030	
+Main Group	13		ratings	Ratings, 714	Image 1 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 714	Image 2 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 714	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	748	
+Main Group	13		ratings	Ratings, 264	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 264	Image 2 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 264	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1920	
+Main Group	13		ratings	Ratings, 1176	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1176	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1176	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2472	
+Main Group	13		ratings	Ratings, 343	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 343	Image 2 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 343	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	718	
+Main Group	13		ratings	Ratings, 980	Image 1 (28, StrrAngEr_Dress.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 980	Image 2 (35, wIld_ChEss.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 980	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1457	
+Main Group	13		ratings	Ratings, 399	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 399	Image 2 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 399	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	3400	
+Main Group	13		ratings	Ratings, 1001	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1001	Image 2 (21, sausage_selection.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1001	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	683	
+Main Group	13		ratings	Ratings, 156	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 156	Image 2 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 156	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	657	
+Main Group	13		ratings	Ratings, 459	Image 1 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 459	Image 2 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 459	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	5477	
+Main Group	13		ratings	Ratings, 1111	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1111	Image 2 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1111	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2141	
+Main Group	13		ratings	Ratings, 548	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 548	Image 2 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 548	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1951	
+Main Group	13		ratings	Ratings, 1007	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1007	Image 2 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1007	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1522	
+Main Group	13		ratings	Ratings, 84	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 84	Image 2 (14, NIce_bOUnCY.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 84	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	836	
+Main Group	13		ratings	Ratings, 935	Image 1 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 935	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 935	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1669	
+Main Group	13		ratings	Ratings, 995	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 995	Image 2 (15, nose_mArrvELouS.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 995	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	612	
+Main Group	13		ratings	Ratings, 655	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 655	Image 2 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 655	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1536	
+Main Group	13		ratings	Ratings, 537	Image 1 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 537	Image 2 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 537	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	705	
+Main Group	13		ratings	Ratings, 739	Image 1 (22, sense_scandalous.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 739	Image 2 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 739	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	941	
+Main Group	13		ratings	Ratings, 634	Image 1 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 634	Image 2 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 634	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	864	
+Main Group	13		ratings	Ratings, 146	Image 1 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 146	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 146	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1812	
+Main Group	13		ratings	Ratings, 177	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 177	Image 2 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 177	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1168	
+Main Group	13		ratings	Ratings, 1077	Image 1 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1077	Image 2 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1077	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	2313	
+Main Group	13		ratings	Ratings, 1187	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1187	Image 2 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1187	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1419	
+Main Group	13		ratings	Ratings, 342	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 342	Image 2 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 342	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1581	
+Main Group	13		ratings	Ratings, 1091	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1091	Image 2 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1091	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1271	
+Main Group	13		ratings	Ratings, 1104	Image 1 (32, technology_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1104	Image 2 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1104	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1191	
+Main Group	13		ratings	Ratings, 800	Image 1 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 800	Image 2 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 800	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1316	
+Main Group	13		ratings	Ratings, 845	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 845	Image 2 (5, cEmetErry_plAin.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 845	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	950	
+Main Group	13		ratings	Ratings, 24	Image 1 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 24	Image 2 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 24	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1650	
+Main Group	13		ratings	Ratings, 850	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 850	Image 2 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 850	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	923	
+Main Group	13		ratings	Ratings, 1178	Image 1 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1178	Image 2 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1178	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	646	
+Main Group	13		ratings	Ratings, 404	Image 1 (12, lily_inappropriate.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 404	Image 2 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 404	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2346	
+Main Group	13		ratings	Ratings, 1003	Image 1 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1003	Image 2 (23, serve_battlefield.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1003	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	789	
+Main Group	13		ratings	Ratings, 204	Image 1 (6, crowd_eat.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 204	Image 2 (29, structure_mention.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 204	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	877	
+Main Group	13		ratings	Ratings, 894	Image 1 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 894	Image 2 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 894	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	502	
+Main Group	13		ratings	Ratings, 132	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 132	Image 2 (27, source_low.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 132	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	986	
+Main Group	13		ratings	Ratings, 86	Image 1 (3, beach_fur.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 86	Image 2 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 86	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	880	
+Main Group	13		ratings	Ratings, 339	Image 1 (10, GiraFFe_nEck.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 339	Image 2 (24, shareholder_air.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 339	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1018	
+Main Group	13		ratings	Ratings, 870	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 870	Image 2 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 870	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	872	
+Main Group	13		ratings	Ratings, 841	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 841	Image 2 (1, abject_urge.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 841	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	1348	
+Main Group	13		ratings	Ratings, 276	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 276	Image 2 (31, technology_burst.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 276	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	733	
+Main Group	13		ratings	Ratings, 877	Image 1 (26, soap_marble.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 877	Image 2 (2, afford_gutter.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 877	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	2332	
+Main Group	13		ratings	Ratings, 1034	Image 1 (30, tape_drop.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1034	Image 2 (19, requirement_circle.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 1034	rating scale	6	6	1; 2; 3; 4; 5; 6; 7	C	2483	
+Main Group	13		ratings	Ratings, 112	Image 1 (4, boundary_head.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 112	Image 2 (7, destruction_conscience.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 112	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1332	
+Main Group	13		ratings	Ratings, 856	Image 1 (25, simplistic_renew.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 856	Image 2 (16, prr0teSt_intEnd.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 856	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1063	
+Main Group	13		ratings	Ratings, 279	Image 1 (8, feature_dog.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 279	Image 2 (34, TRANSpoRt_orgANIC.jpg)			(any response)	NR	0	
+Main Group	13		ratings	Ratings, 279	rating scale	7	7	1; 2; 3; 4; 5; 6; 7	C	1662	
