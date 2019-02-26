@@ -22,7 +22,7 @@ def read_data(file_name, data_points):
   for row in csv_reader:
     if line_number % 3 == 2:
       while not row[9] == 'C':
-        row = csv_reader.next()
+        row = next(csv_reader)
       rating = int(row[7])
     else:
       pictures[line_number % 3] = format_picture_col(row[5])

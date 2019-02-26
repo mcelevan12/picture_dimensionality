@@ -28,10 +28,19 @@ def import_scores(file_name, scores, condition):
   else:
     scores.setdefault(condition, []).append(correct)
 
-def data():
+def raw_data():
   scores = {}
   dataDir = "./human_responses/"
   for file_name in os.listdir(dataDir):
     if file_name.endswith(".txt"):
       import_scores(os.path.join(dataDir, file_name), scores, file_name[0])
   return scores
+
+def avg_data():
+  scores = raw_data()
+  avg_scores = {}
+  for condition in scores.keys():
+    avg_scores[condition] = np.mean(np.array(scores[condition]), axis=0)
+  return avg_scores
+
+print(avg_data())

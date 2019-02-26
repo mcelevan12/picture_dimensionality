@@ -57,7 +57,8 @@ for(dims in 1:12){
       probs[curr.row,] = out$prob[,1]
       alphas[curr.row,] = out$alpha
       ws[curr.row,,] = out$w
-      #TODO need to search on all presentation orders save the adveradge of each of the outputs
+      
+      #TODO need to search on all presentation orders save the average of each of the outputs
       if(i %% row.buffer == 0) {
         #for some reason write.table doesent add the empty col name need for the row names :/ can jsut do it manually
         write.table(cbind(sts, alphas, ws, probs), out.file, sep = ",", append = !cols.needed, col.names = cols.needed, row.names = (i - row.buffer + 1):i)
