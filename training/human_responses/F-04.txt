@@ -1,192 +1,270 @@
 F-04
 cumby-harlan
-12/3/2018	10:53:27 AM
+2/18/2019	11:57:35 AM
 
 Participant	Participant	Session	Block	Trial	Event	Participant		Pressed Or	Correct	Error	Reaction
 Group	Name	ID	Name	Name	Name	Response	Key	Released	Response	Code	Time	Trial Answered	Categories	average
-Main Group	F-04		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	E	19144		Cumby	undefined
-Main Group	F-04		Training	Far, 1	Far (1, afford_gutter.jpg)	Harlan	'	Pressed	(based on tag)	E	8605		Cumby	undefined
-Main Group	F-04		Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	1412		Harlan	undefined
-Main Group	F-04		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Cumby	a	Pressed	(based on tag)	E	2117		Harlan	undefined
-Main Group	F-04		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	5246		Cumby	undefined
-Main Group	F-04		Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	1967		Harlan	undefined
-Main Group	F-04		Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	1207		Cumby	undefined
-Main Group	F-04		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Cumby	a	Pressed	(based on tag)	E	4610		Harlan	undefined
-Main Group	F-04		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	4505		Cumby	undefined
-Main Group	F-04		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	1846		Harlan	undefined
-Main Group	F-04		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	774		Cumby	undefined
-Main Group	F-04		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	448		Harlan	undefined
-Main Group	F-04		Training	Far, 16	Far (16, soap_marble.jpg)	Cumby	a	Pressed	(based on tag)	E	448		Harlan	undefined
-Main Group	F-04		Training	Far, 17	Far (17, source_low.jpg)	Cumby	a	Pressed	(based on tag)	E	10535		Harlan	undefined
-Main Group	F-04		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Harlan	'	Pressed	(based on tag)	E	4317		Cumby	undefined
-Main Group	F-04		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	E	925		Cumby	undefined
-Main Group	F-04		Training	Far, 3	Far (3, feature_dog.jpg)	Harlan	'	Pressed	(based on tag)	E	783		Cumby	undefined
-Main Group	F-04		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Cumby	a	Pressed	(based on tag)	E	1037		Harlan	undefined
-Main Group	F-04		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Cumby	a	Pressed	(based on tag)	E	978		Harlan	undefined
-Main Group	F-04		Training	Far, 9	Far (9, structure_mention.jpg)	Harlan	'	Pressed	(based on tag)	E	1447		Cumby	undefined
-Main Group	F-04		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Harlan	'	Pressed	(based on tag)	E	745		Cumby	undefined
-Main Group	F-04		Training	Far, 17	Far (17, source_low.jpg)	Cumby	a	Pressed	(based on tag)	E	4256		Harlan	undefined
-Main Group	F-04		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Cumby	a	Pressed	(based on tag)	E	1289		Harlan	undefined
-Main Group	F-04		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Cumby	a	Pressed	(based on tag)	E	762		Harlan	undefined
-Main Group	F-04		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	921		Harlan	undefined
-Main Group	F-04		Training	Far, 1	Far (1, afford_gutter.jpg)	Harlan	'	Pressed	(based on tag)	E	1138		Cumby	undefined
-Main Group	F-04		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	1710		Cumby	undefined
-Main Group	F-04		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	E	1137		Cumby	undefined
-Main Group	F-04		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	3390		Harlan	undefined
-Main Group	F-04		Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	3563		Cumby	undefined
-Main Group	F-04		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	4027		Harlan	undefined
-Main Group	F-04		Training	Far, 14	Far (14, sense_scandalous.jpg)	Cumby	a	Pressed	(based on tag)	E	1582		Harlan	undefined
-Main Group	F-04		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Harlan	'	Pressed	(based on tag)	E	3368		Cumby	undefined
-Main Group	F-04		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	1406		Cumby	undefined
-Main Group	F-04		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	1222		Cumby	undefined
-Main Group	F-04		Training	Far, 13	Far (13, nEed_mUg.jpg)	Cumby	a	Pressed	(based on tag)	E	12436		Harlan	undefined
-Main Group	F-04		Training	Far, 14	Far (14, sense_scandalous.jpg)	Cumby	a	Pressed	(based on tag)	E	817		Harlan	undefined
-Main Group	F-04		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	1988		Cumby	undefined
-Main Group	F-04		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1758		Harlan	undefined
-Main Group	F-04		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	1404		Harlan	undefined
-Main Group	F-04		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	1096		Harlan	undefined
-Main Group	F-04		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	1084		Cumby	undefined
-Main Group	F-04		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Harlan	'	Pressed	(based on tag)	E	1144		Cumby	undefined
-Main Group	F-04		Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	3200		Harlan	undefined
-Main Group	F-04		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	E	1027		Cumby	undefined
-Main Group	F-04		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	758		Harlan	undefined
-Main Group	F-04		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Cumby	a	Pressed	(based on tag)	E	1203		Harlan	undefined
-Main Group	F-04		Training	Far, 1	Far (1, afford_gutter.jpg)	Harlan	'	Pressed	(based on tag)	E	2006		Cumby	undefined
-Main Group	F-04		Training	Far, 17	Far (17, source_low.jpg)	Cumby	a	Pressed	(based on tag)	E	4419		Harlan	undefined
-Main Group	F-04		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Harlan	'	Pressed	(based on tag)	E	1786		Cumby	undefined
-Main Group	F-04		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	E	786		Cumby	undefined
-Main Group	F-04		Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	314		Cumby	undefined
-Main Group	F-04		Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	614		Cumby	undefined
-Main Group	F-04		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	901		Harlan	undefined
-Main Group	F-04		Training	Far, 14	Far (14, sense_scandalous.jpg)	Cumby	a	Pressed	(based on tag)	E	921		Harlan	undefined
-Main Group	F-04		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	909		Harlan	undefined
-Main Group	F-04		Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	1104		Harlan	undefined
-Main Group	F-04		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	881		Harlan	undefined
-Main Group	F-04		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	1842		Cumby	undefined
-Main Group	F-04		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1090		Harlan	undefined
-Main Group	F-04		Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	1863		Harlan	undefined
-Main Group	F-04		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	877		Cumby	undefined
-Main Group	F-04		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	1157		Harlan	undefined
-Main Group	F-04		Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	840		Cumby	undefined
-Main Group	F-04		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Harlan	'	Pressed	(based on tag)	E	1448		Cumby	undefined
-Main Group	F-04		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	2477		Harlan	undefined
-Main Group	F-04		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	E	1124		Cumby	undefined
-Main Group	F-04		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	1072		Harlan	undefined
-Main Group	F-04		Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	1013		Cumby	undefined
-Main Group	F-04		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	905		Cumby	undefined
-Main Group	F-04		Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	2647		Cumby	undefined
-Main Group	F-04		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	1287		Cumby	undefined
-Main Group	F-04		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	761		Cumby	undefined
-Main Group	F-04		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	1402		Harlan	undefined
-Main Group	F-04		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Harlan	'	Pressed	(based on tag)	E	1291		Cumby	undefined
-Main Group	F-04		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	865		Harlan	undefined
-Main Group	F-04		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	1455		Cumby	undefined
-Main Group	F-04		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	1305		Harlan	undefined
-Main Group	F-04		Training	Far, 3	Far (3, feature_dog.jpg)	Harlan	'	Pressed	(based on tag)	E	5444		Cumby	undefined
-Main Group	F-04		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	931		Harlan	undefined
-Main Group	F-04		Training	Far, 9	Far (9, structure_mention.jpg)	Harlan	'	Pressed	(based on tag)	E	1751		Cumby	undefined
-Main Group	F-04		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	919		Cumby	undefined
-Main Group	F-04		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	791		Harlan	undefined
-Main Group	F-04		Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	482		Harlan	undefined
-Main Group	F-04		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	1275		Cumby	undefined
-Main Group	F-04		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	E	4343		Cumby	undefined
-Main Group	F-04		Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	1088		Harlan	undefined
-Main Group	F-04		Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	2726		Cumby	undefined
-Main Group	F-04		Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	873		Harlan	undefined
-Main Group	F-04		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	1136		Harlan	undefined
-Main Group	F-04		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	688		Harlan	undefined
-Main Group	F-04		Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	948		Cumby	undefined
-Main Group	F-04		Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	737		Cumby	undefined
-Main Group	F-04		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	1041		Cumby	undefined
-Main Group	F-04		Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	832		Harlan	undefined
-Main Group	F-04		Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	2577		Cumby	undefined
-Main Group	F-04		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	678		Harlan	undefined
-Main Group	F-04		Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	934		Harlan	undefined
-Main Group	F-04		Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	590		Harlan	undefined
-Main Group	F-04		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	669		Harlan	undefined
-Main Group	F-04		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	613		Harlan	undefined
-Main Group	F-04		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	E	2660		Cumby	undefined
-Main Group	F-04		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	963		Cumby	undefined
-Main Group	F-04		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	3523		Cumby	undefined
-Main Group	F-04		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	706		Harlan	undefined
-Main Group	F-04		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	1064		Cumby	undefined
-Main Group	F-04		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	2363		Harlan	undefined
-Main Group	F-04		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	1825		Cumby	undefined
-Main Group	F-04		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1409		Harlan	undefined
-Main Group	F-04		Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	2086		Cumby	undefined
-Main Group	F-04		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	1860		Cumby	undefined
-Main Group	F-04		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	957		Harlan	undefined
-Main Group	F-04		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	502		Harlan	undefined
-Main Group	F-04		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	6636		Cumby	undefined
-Main Group	F-04		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	1792		Harlan	undefined
-Main Group	F-04		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	1898		Cumby	undefined
-Main Group	F-04		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	4241		Cumby	undefined
-Main Group	F-04		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	3132		Cumby	undefined
-Main Group	F-04		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	888		Harlan	undefined
-Main Group	F-04		Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	771		Harlan	undefined
-Main Group	F-04		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1139		Harlan	undefined
-Main Group	F-04		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	1516		Cumby	undefined
-Main Group	F-04		Training	Far, 9	Far (9, structure_mention.jpg)	Harlan	'	Pressed	(based on tag)	E	1454		Cumby	undefined
-Main Group	F-04		Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	1360		Harlan	undefined
-Main Group	F-04		Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	689		Harlan	undefined
-Main Group	F-04		Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	804		Cumby	undefined
-Main Group	F-04		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	1147		Cumby	undefined
-Main Group	F-04		Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	682		Harlan	undefined
-Main Group	F-04		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	720		Harlan	undefined
-Main Group	F-04		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	871		Cumby	undefined
-Main Group	F-04		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1706		Harlan	undefined
-Main Group	F-04		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	745		Harlan	undefined
-Main Group	F-04		Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	767		Cumby	undefined
-Main Group	F-04		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	827		Cumby	undefined
-Main Group	F-04		Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	1414		Cumby	undefined
-Main Group	F-04		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	674		Harlan	undefined
-Main Group	F-04		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	872		Cumby	undefined
-Main Group	F-04		Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	798		Harlan	undefined
-Main Group	F-04		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Harlan	'	Pressed	(based on tag)	E	4663		Cumby	undefined
-Main Group	F-04		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	1424		Cumby	undefined
-Main Group	F-04		Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	913		Cumby	undefined
-Main Group	F-04		Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	816		Harlan	undefined
-Main Group	F-04		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	636		Harlan	undefined
-Main Group	F-04		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	3901		Harlan	undefined
-Main Group	F-04		Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	579		Harlan	undefined
-Main Group	F-04		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	901		Cumby	undefined
-Main Group	F-04		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	547		Cumby	undefined
-Main Group	F-04		Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	554		Cumby	undefined
-Main Group	F-04		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	1799		Cumby	undefined
-Main Group	F-04		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	535		Harlan	undefined
-Main Group	F-04		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	1103		Cumby	undefined
-Main Group	F-04		Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	876		Harlan	undefined
-Main Group	F-04		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	649		Harlan	undefined
-Main Group	F-04		Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	863		Cumby	undefined
-Main Group	F-04		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	6261		Cumby	undefined
-Main Group	F-04		Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	1575		Cumby	undefined
-Main Group	F-04		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	797		Harlan	undefined
-Main Group	F-04		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	686		Harlan	undefined
-Main Group	F-04		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	572		Harlan	undefined
-Main Group	F-04		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	1452		Harlan	undefined
-Main Group	F-04		Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	1062		Harlan	undefined
-Main Group	F-04		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	826		Cumby	undefined
-Main Group	F-04		Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	657		Cumby	undefined
-Main Group	F-04		Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	1443		Cumby	undefined
-Main Group	F-04		Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	652		Harlan	undefined
-Main Group	F-04		Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	1770		Harlan	undefined
-Main Group	F-04		Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	577		Harlan	undefined
-Main Group	F-04		Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	839		Cumby	undefined
-Main Group	F-04		Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	1523		Cumby	undefined
-Main Group	F-04		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	461		Cumby	undefined
-Main Group	F-04		Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Cumby	a	Pressed	(based on tag)	E	647		Harlan	undefined
-Main Group	F-04		Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	684		Cumby	undefined
-Main Group	F-04		Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	1238		Harlan	undefined
-Main Group	F-04		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	868		Cumby	undefined
-Main Group	F-04		Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	843		Cumby	undefined
-Main Group	F-04		Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	793		Cumby	undefined
-Main Group	F-04		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	812		Harlan	undefined
-Main Group	F-04		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	614		Harlan	undefined
-Main Group	F-04		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	675		Harlan	undefined
-Main Group	F-04		Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	742		Harlan	undefined
-Main Group	F-04		Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	1391		Cumby	undefined
-Main Group	F-04		Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	819		Harlan	undefined
-Main Group	F-04		Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	822		Harlan	undefined
-Main Group	F-04		Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	786		Harlan	undefined
-Main Group	F-04		Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	932		Harlan	undefined
-Main Group	F-04		Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	10041		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 3	Far (3, feature_dog.jpg)	Harlan	'	Pressed	(based on tag)	E	19886		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	E	5751		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	3039		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	2746		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	1992		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	1179		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	2437		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1200		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	3773		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	1234		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 1	Far (1, afford_gutter.jpg)	Harlan	'	Pressed	(based on tag)	E	4907		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	3961		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	2537		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Harlan	'	Pressed	(based on tag)	E	12347		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1833		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	1446		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	E	1919		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	1905		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 1	Far (1, afford_gutter.jpg)	Harlan	'	Pressed	(based on tag)	E	4764		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	940		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	1667		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1623		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	1705		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	1258		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	3958		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	844		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	6070		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 15	Far (15, shareholder_air.jpg)	Cumby	a	Pressed	(based on tag)	E	2593		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Cumby	a	Pressed	(based on tag)	E	2787		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 3	Far (3, feature_dog.jpg)	Harlan	'	Pressed	(based on tag)	E	6453		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	986		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Cumby	a	Pressed	(based on tag)	E	1809		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Harlan	'	Pressed	(based on tag)	E	1361		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	2177		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	1128		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	927		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	2255		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	981		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	724		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	844		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	784		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 16	Far (16, soap_marble.jpg)	Cumby	a	Pressed	(based on tag)	E	1020		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Harlan	'	Pressed	(based on tag)	E	1879		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	754		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	843		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Cumby	a	Pressed	(based on tag)	E	2511		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	1081		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	812		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Cumby	a	Pressed	(based on tag)	E	2130		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 13	Far (13, nEed_mUg.jpg)	Cumby	a	Pressed	(based on tag)	E	891		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	785		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	840		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 17	Far (17, source_low.jpg)	Cumby	a	Pressed	(based on tag)	E	1622		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Cumby	a	Pressed	(based on tag)	E	1093		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	999		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	1533		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	1306		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	1391		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	1988		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	895		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	1677		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	4219		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Cumby	a	Pressed	(based on tag)	E	1712		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	1010		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	1020		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 15	Far (15, shareholder_air.jpg)	Cumby	a	Pressed	(based on tag)	E	885		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 17	Far (17, source_low.jpg)	Cumby	a	Pressed	(based on tag)	E	2515		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Cumby	a	Pressed	(based on tag)	E	931		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	993		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	1179		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	722		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	1067		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	860		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	930		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	2091		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	1005		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	1282		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	985		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	2202		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	3833		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	1097		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	1433		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	946		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	4740		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	785		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	903		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	792		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	2197		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	720		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	839		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	3870		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	652		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Harlan	'	Pressed	(based on tag)	E	2101		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	885		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	859		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1042		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	1445		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	679		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	1074		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	747		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	1441		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	3321		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	648		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	834		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	682		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	574		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	E	842		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	774		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	792		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	879		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	2342		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	696		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	641		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	578		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	2191		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1536		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Cumby	a	Pressed	(based on tag)	E	1839		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	685		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	2710		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	889		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	837		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	835		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	1098		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	821		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	784		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	898		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Harlan	'	Pressed	(based on tag)	E	2438		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	2355		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	663		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	775		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	2091		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	606		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	952		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	688		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	698		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	971		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	907		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	839		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	797		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	1564		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	730		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	1924		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	764		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	533		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	497		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1080		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	666		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	573		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	645		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	798		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	686		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Harlan	'	Pressed	(based on tag)	E	1517		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	1000		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	594		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	3023		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	769		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	883		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	765		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	665		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	756		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	755		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	463		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	555		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	441		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	1482		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	430		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	402		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	1859		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	863		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	2623		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	559		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	1930		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	637		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	576		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	1595		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	698		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	718		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Cumby	a	Pressed	(based on tag)	E	1418		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	1595		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	674		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	741		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	677		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	698		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	957		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	594		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	1676		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	857		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	1095		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	871		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	672		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	5047		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	721		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	688		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	641		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	811		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	646		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	3053		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	1047		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	678		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	1014		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	708		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	619		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	727		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	2163		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	581		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	1046		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	773		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	676		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	806		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	829		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	839		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	662		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	3696		Cumby	undefined
+Main Group	F-04	F-04	Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	704		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 14	Far (14, sense_scandalous.jpg)	Cumby	a	Pressed	(based on tag)	E	701		Harlan	undefined
+Main Group	F-04	F-04	Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	2049		Harlan	undefined
+Main Group	F-04	F-04	End	Test, 20	Test (20, nEed_mUg.jpg)	Harlan	'	Pressed	(any response)	C	2174			undefined
+Main Group	F-04	F-04	End	Test, 25	Test (25, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(any response)	C	3734			undefined
+Main Group	F-04	F-04	End	Test, 30	Test (30, riddle_grape.jpg)	Cumby	a	Pressed	(any response)	C	4503			undefined
+Main Group	F-04	F-04	End	Test, 8	Test (8, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(any response)	C	762			undefined
+Main Group	F-04	F-04	End	Test, 48	Test (48, wIld_ChEss.jpg)	Harlan	'	Pressed	(any response)	C	623			undefined
+Main Group	F-04	F-04	End	Test, 32	Test (32, sausage_selection.jpg)	Cumby	a	Pressed	(any response)	C	1085			undefined
+Main Group	F-04	F-04	End	Test, 22	Test (22, nose_mArrvELouS.jpg)	Harlan	'	Pressed	(any response)	C	1609			undefined
+Main Group	F-04	F-04	End	Test, 11	Test (11, EaST_faMily.jpg)	Cumby	a	Pressed	(any response)	C	918			undefined
+Main Group	F-04	F-04	End	Test, 42	Test (42, tape_drop.jpg)	Cumby	a	Pressed	(any response)	C	773			undefined
+Main Group	F-04	F-04	End	Test, 10	Test (10, destruction_conscience.jpg)	Cumby	a	Pressed	(any response)	C	2615			undefined
+Main Group	F-04	F-04	End	Test, 46	Test (46, trait_basket.jpg)	Cumby	a	Pressed	(any response)	C	832			undefined
+Main Group	F-04	F-04	End	Test, 2	Test (2, afford_gutter.jpg)	Cumby	a	Pressed	(any response)	C	647			undefined
+Main Group	F-04	F-04	End	Test, 34	Test (34, serve_battlefield.jpg)	Harlan	'	Pressed	(any response)	C	1672			undefined
+Main Group	F-04	F-04	End	Test, 9	Test (9, crowd_eat.jpg)	Cumby	a	Pressed	(any response)	C	3877			undefined
+Main Group	F-04	F-04	End	Test, 16	Test (16, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(any response)	C	725			undefined
+Main Group	F-04	F-04	End	Test, 14	Test (14, friend_Koran.jpg)	Cumby	a	Pressed	(any response)	C	4658			undefined
+Main Group	F-04	F-04	End	Test, 45	Test (45, thuNdEr_PeLViC.jpg)	Cumby	a	Pressed	(any response)	C	682			undefined
+Main Group	F-04	F-04	End	Test, 13	Test (13, fireCRaCker_bRIDgE.jpg)	Cumby	a	Pressed	(any response)	C	3978			undefined
+Main Group	F-04	F-04	End	Test, 5	Test (5, boundary_head.jpg)	Cumby	a	Pressed	(any response)	C	850			undefined
+Main Group	F-04	F-04	End	Test, 47	Test (47, TRANSpoRt_orgANIC.jpg)	Cumby	a	Pressed	(any response)	C	620			undefined
+Main Group	F-04	F-04	End	Test, 7	Test (7, cEmetErry_plAin.jpg)	Harlan	'	Pressed	(any response)	C	696			undefined
+Main Group	F-04	F-04	End	Test, 24	Test (24, PoiSOnouS_aBsUrdLy.jpg)	Cumby	a	Pressed	(any response)	C	1649			undefined
+Main Group	F-04	F-04	End	Test, 38	Test (38, source_low.jpg)	Harlan	'	Pressed	(any response)	C	703			undefined
+Main Group	F-04	F-04	End	Test, 28	Test (28, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(any response)	C	4850			undefined
+Main Group	F-04	F-04	End	Test, 29	Test (29, requirement_circle.jpg)	Cumby	a	Pressed	(any response)	C	1571			undefined
+Main Group	F-04	F-04	End	Test, 21	Test (21, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(any response)	C	738			undefined
+Main Group	F-04	F-04	End	Test, 44	Test (44, technology_circle.jpg)	Cumby	a	Pressed	(any response)	C	3876			undefined
+Main Group	F-04	F-04	End	Test, 39	Test (39, StrrAngEr_Dress.jpg)	Harlan	'	Pressed	(any response)	C	753			undefined
+Main Group	F-04	F-04	End	Test, 6	Test (6, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(any response)	C	572			undefined
+Main Group	F-04	F-04	End	Test, 43	Test (43, technology_burst.jpg)	Cumby	a	Pressed	(any response)	C	947			undefined
+Main Group	F-04	F-04	End	Test, 33	Test (33, sense_scandalous.jpg)	Harlan	'	Pressed	(any response)	C	620			undefined
+Main Group	F-04	F-04	End	Test, 27	Test (27, QueUe_dApPer.jpg)	Cumby	a	Pressed	(any response)	C	543			undefined
+Main Group	F-04	F-04	End	Test, 1	Test (1, abject_urge.jpg)	Cumby	a	Pressed	Cumby; Harlan	C	573			undefined
+Main Group	F-04	F-04	End	Test, 40	Test (40, structure_mention.jpg)	Cumby	a	Pressed	(any response)	C	445			undefined
+Main Group	F-04	F-04	End	Test, 3	Test (3, beach_fur.jpg)	Harlan	'	Pressed	(any response)	C	838			undefined
+Main Group	F-04	F-04	End	Test, 37	Test (37, soap_marble.jpg)	Harlan	'	Pressed	(any response)	C	570			undefined
+Main Group	F-04	F-04	End	Test, 41	Test (41, TAMe_ClASSY.jpg)	Cumby	a	Pressed	(any response)	C	585			undefined
+Main Group	F-04	F-04	End	Test, 19	Test (19, lily_inappropriate.jpg)	Cumby	a	Pressed	(any response)	C	462			undefined
+Main Group	F-04	F-04	End	Test, 23	Test (23, PAinstAkINg_Thought.jpg)	Cumby	a	Pressed	(any response)	C	532			undefined
+Main Group	F-04	F-04	End	Test, 35	Test (35, shareholder_air.jpg)	Cumby	a	Pressed	(any response)	C	402			undefined
+Main Group	F-04	F-04	End	Test, 36	Test (36, simplistic_renew.jpg)	Harlan	'	Pressed	(any response)	C	559			undefined
+Main Group	F-04	F-04	End	Test, 31	Test (31, rOSe_ENdUrabLE.jpg)	Cumby	a	Pressed	(any response)	C	1283			undefined
+Main Group	F-04	F-04	End	Test, 12	Test (12, feature_dog.jpg)	Cumby	a	Pressed	(any response)	C	619			undefined
+Main Group	F-04	F-04	End	Test, 26	Test (26, publicity_commemorate.jpg)	Cumby	a	Pressed	(any response)	C	865			undefined
+Main Group	F-04	F-04	End	Test, 17	Test (17, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(any response)	C	625			undefined
+Main Group	F-04	F-04	End	Test, 15	Test (15, fUTure_data.jpg)	Cumby	a	Pressed	(any response)	C	593			undefined
+Main Group	F-04	F-04	End	Test, 18	Test (18, hard-to-find_brush.jpg)	Harlan	'	Pressed	(any response)	C	541			undefined
+Main Group	F-04	F-04	End	Test, 4	Test (4, bLAND_bLACk.jpg)	Harlan	'	Pressed	(any response)	C	469			undefined

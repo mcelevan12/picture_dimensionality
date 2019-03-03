@@ -21,12 +21,12 @@ iter = 0
 start = Sys.time()
 previous.iteration = Sys.time()
 #for dim in dims and for condition in condition
-for(dims in 1:12){
-  for(condition in 1:3){
+for(dims in 1:12) {
+  for(condition in 1:3) {
     out.file = paste(modeling.dir, conditions[condition], output.files[dims], sep = "/")
     tr = data.matrix(read.csv(paste(pca.dir, conditions[condition], training.files[dims], sep = "/")))
-    probs = array(NA, c(row.buffer, 216))
-    dimnames(probs)[[2]] = paste("o", 1:216, sep = "")
+    probs = array(NA, c(row.buffer, 2, 216))
+    dimnames(probs)[[3]] = paste("o", 1:216, sep = "")
     alphas = array(NA, c(row.buffer, dims))
     colnames(alphas) = paste(rep("a", dims), 1:dims, sep = "")
     ws = array(NA, c(row.buffer, 2, 18))
@@ -34,6 +34,7 @@ for(dims in 1:12){
     sts = data.frame(array(-1, c(row.buffer, 4)))
     colnames(sts) =  c("c", "phi", "lw", "la")
     cols.needed = TRUE
+    h = t(tr[0:18, 4:(4+dims-1)])
     #looks all ugly and gross but needs to be this way to not have a billion off by one errors
     for(i in 1:nrow(some.params)) {
       #0indexingmasterrace would make this shit soo much easier
@@ -50,15 +51,15 @@ for(dims in 1:12){
           r = 1,
           q = 1,
           w = matrix(0, 2, 18),
-          h = t(tr[0:18, 4:(4+dims-1)]),
+          h = h,
           alpha = rep(1, dims), 
           colskip = 3)
+      # TODO permute tr and fix NA's here
+      #also probs needs to be fixed if were permuting tr's
       out = slpALCOVE(st, tr)
-      probs[curr.row,] = out$prob[,1]
+      probs[curr.row,,] = out$prob
       alphas[curr.row,] = out$alpha
       ws[curr.row,,] = out$w
-      
-      #TODO need to search on all presentation orders save the average of each of the outputs
       if(i %% row.buffer == 0) {
         #for some reason write.table doesent add the empty col name need for the row names :/ can jsut do it manually
         write.table(cbind(sts, alphas, ws, probs), out.file, sep = ",", append = !cols.needed, col.names = cols.needed, row.names = (i - row.buffer + 1):i)

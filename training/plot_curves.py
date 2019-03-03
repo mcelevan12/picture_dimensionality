@@ -15,6 +15,6 @@ def save_fig(scores):
   plt.savefig('learning_curves.png')
 
 def main():
-  save_fig(data.data())
+  save_fig(data.avg_data())
 
 main()

@@ -12,7 +12,7 @@ st = list(c = 7,
 )
 slpALCOVE(st, tr)
 
-/home/evan/Documents/picture_dimensionality/training/density_test/near/PCA01.csv
+tr = data.matrix(read.csv("/home/evan/Documents/picture_dimensionality/training/density_test/near/PCA01.csv"))
 
 st = list(c = 7,
           phi = 1.5,
