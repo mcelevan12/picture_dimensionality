@@ -1,0 +1,270 @@
+F-55
+cumby-harlan
+2/19/2019	1:58:06 PM
+
+Participant	Participant	Session	Block	Trial	Event	Participant		Pressed Or	Correct	Error	Reaction
+Group	Name	ID	Name	Name	Name	Response	Key	Released	Response	Code	Time	Trial Answered	Categories	average
+Main Group	F-55	F-55	Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	4496		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Harlan	'	Pressed	(based on tag)	E	3237		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 13	Far (13, nEed_mUg.jpg)	Cumby	a	Pressed	(based on tag)	E	2129		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	2208		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	2330		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 14	Far (14, sense_scandalous.jpg)	Cumby	a	Pressed	(based on tag)	E	2026		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	922		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Cumby	a	Pressed	(based on tag)	E	1808		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	1797		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	2263		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	1093		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 1	Far (1, afford_gutter.jpg)	Harlan	'	Pressed	(based on tag)	E	2242		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	1135		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	1107		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	1312		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Cumby	a	Pressed	(based on tag)	E	1673		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 15	Far (15, shareholder_air.jpg)	Cumby	a	Pressed	(based on tag)	E	2616		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	1520		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	1615		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	1654		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	1470		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	1216		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	1238		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	1496		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	1492		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 1	Far (1, afford_gutter.jpg)	Harlan	'	Pressed	(based on tag)	E	1290		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	1251		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1144		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	1352		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Cumby	a	Pressed	(based on tag)	E	1195		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	1139		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	2039		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	1682		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 15	Far (15, shareholder_air.jpg)	Cumby	a	Pressed	(based on tag)	E	3207		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	E	2434		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	2385		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	1539		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	1540		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	2616		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	1114		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	847		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	1364		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	1818		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	1337		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	2754		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	1645		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	1122		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	1373		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Harlan	'	Pressed	(based on tag)	E	1360		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Cumby	a	Pressed	(based on tag)	E	1531		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	860		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	1858		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1227		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	881		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	1255		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1402		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	1442		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	1539		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	961		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	1089		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Cumby	a	Pressed	(based on tag)	E	1794		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Cumby	a	Pressed	(based on tag)	E	1139		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	729		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	2010		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	1254		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	1102		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	1089		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	1827		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	1159		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	1295		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	1115		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	1191		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	1144		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	4273		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	1218		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1026		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1166		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	862		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	887		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	793		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	1002		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	895		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	1119		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	1307		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	1634		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	1150		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	1247		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	1820		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	1084		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	1062		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	1365		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	1987		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	1212		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	988		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	1307		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	2004		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	929		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	1173		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	978		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	900		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	779		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	770		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	1190		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	1279		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	1008		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1104		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	1066		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	974		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	1036		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	1215		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	1027		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	1209		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1060		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	1044		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	1384		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	1013		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	1073		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	1010		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	897		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	892		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	930		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	958		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	728		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	1375		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	1019		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	954		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	957		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	1255		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	856		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	960		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	1568		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	810		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	1031		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	2369		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	1027		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	1036		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	1146		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	835		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	1114		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	825		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	761		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1261		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	748		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	951		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	778		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	750		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	1154		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	1078		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	723		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	688		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	942		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	1300		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	2997		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	1113		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	2149		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	940		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	1260		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	965		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	991		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	1239		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	968		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	713		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	2243		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	939		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	1280		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	1111		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	1137		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	911		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	904		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	1055		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	1193		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	877		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	1441		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	818		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	957		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	868		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	831		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	1392		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	777		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1319		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	826		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	1073		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	825		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	850		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	836		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	986		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	818		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	941		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	853		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	1070		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	827		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	812		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	1856		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1870		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	1443		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	1348		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	1194		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	873		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 6	Far (6, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(based on tag)	C	1122		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 5	Far (5, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(based on tag)	C	661		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 10	Far (10, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(based on tag)	C	1921		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 9	Far (9, structure_mention.jpg)	Cumby	a	Pressed	(based on tag)	C	919		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 15	Far (15, shareholder_air.jpg)	Harlan	'	Pressed	(based on tag)	C	1011		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 11	Far (11, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1975		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 16	Far (16, soap_marble.jpg)	Harlan	'	Pressed	(based on tag)	C	1100		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 14	Far (14, sense_scandalous.jpg)	Harlan	'	Pressed	(based on tag)	C	781		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 7	Far (7, QueUe_dApPer.jpg)	Cumby	a	Pressed	(based on tag)	C	2287		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 12	Far (12, hard-to-find_brush.jpg)	Harlan	'	Pressed	(based on tag)	C	848		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 4	Far (4, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(based on tag)	C	990		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 2	Far (2, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(based on tag)	C	1169		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 8	Far (8, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(based on tag)	C	2075		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 18	Far (18, wIld_ChEss.jpg)	Harlan	'	Pressed	(based on tag)	C	1002		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 1	Far (1, afford_gutter.jpg)	Cumby	a	Pressed	(based on tag)	C	867		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 17	Far (17, source_low.jpg)	Harlan	'	Pressed	(based on tag)	C	863		Harlan	undefined
+Main Group	F-55	F-55	Training	Far, 3	Far (3, feature_dog.jpg)	Cumby	a	Pressed	(based on tag)	C	719		Cumby	undefined
+Main Group	F-55	F-55	Training	Far, 13	Far (13, nEed_mUg.jpg)	Harlan	'	Pressed	(based on tag)	C	770		Harlan	undefined
+Main Group	F-55	F-55	End	Test, 39	Test (39, StrrAngEr_Dress.jpg)	Harlan	'	Pressed	(any response)	C	1569			undefined
+Main Group	F-55	F-55	End	Test, 47	Test (47, TRANSpoRt_orgANIC.jpg)	Cumby	a	Pressed	(any response)	C	3188			undefined
+Main Group	F-55	F-55	End	Test, 8	Test (8, Clay_EnDlesS.jpg)	Harlan	'	Pressed	(any response)	C	1174			undefined
+Main Group	F-55	F-55	End	Test, 34	Test (34, serve_battlefield.jpg)	Harlan	'	Pressed	(any response)	C	6577			undefined
+Main Group	F-55	F-55	End	Test, 17	Test (17, GlOsSy_cEAsELEss.jpg)	Harlan	'	Pressed	(any response)	C	1714			undefined
+Main Group	F-55	F-55	End	Test, 13	Test (13, fireCRaCker_bRIDgE.jpg)	Cumby	a	Pressed	(any response)	C	1796			undefined
+Main Group	F-55	F-55	End	Test, 23	Test (23, PAinstAkINg_Thought.jpg)	Cumby	a	Pressed	(any response)	C	1252			undefined
+Main Group	F-55	F-55	End	Test, 4	Test (4, bLAND_bLACk.jpg)	Harlan	'	Pressed	(any response)	C	1408			undefined
+Main Group	F-55	F-55	End	Test, 24	Test (24, PoiSOnouS_aBsUrdLy.jpg)	Cumby	a	Pressed	(any response)	C	1525			undefined
+Main Group	F-55	F-55	End	Test, 45	Test (45, thuNdEr_PeLViC.jpg)	Cumby	a	Pressed	(any response)	C	1065			undefined
+Main Group	F-55	F-55	End	Test, 32	Test (32, sausage_selection.jpg)	Harlan	'	Pressed	(any response)	C	1304			undefined
+Main Group	F-55	F-55	End	Test, 14	Test (14, friend_Koran.jpg)	Harlan	'	Pressed	(any response)	C	3736			undefined
+Main Group	F-55	F-55	End	Test, 46	Test (46, trait_basket.jpg)	Cumby	a	Pressed	(any response)	C	1154			undefined
+Main Group	F-55	F-55	End	Test, 7	Test (7, cEmetErry_plAin.jpg)	Harlan	'	Pressed	(any response)	C	925			undefined
+Main Group	F-55	F-55	End	Test, 28	Test (28, REqUEst_ReCoGNise.jpg)	Cumby	a	Pressed	(any response)	C	1068			undefined
+Main Group	F-55	F-55	End	Test, 15	Test (15, fUTure_data.jpg)	Cumby	a	Pressed	(any response)	C	1018			undefined
+Main Group	F-55	F-55	End	Test, 48	Test (48, wIld_ChEss.jpg)	Harlan	'	Pressed	(any response)	C	744			undefined
+Main Group	F-55	F-55	End	Test, 19	Test (19, lily_inappropriate.jpg)	Cumby	a	Pressed	(any response)	C	934			undefined
+Main Group	F-55	F-55	End	Test, 11	Test (11, EaST_faMily.jpg)	Cumby	a	Pressed	(any response)	C	904			undefined
+Main Group	F-55	F-55	End	Test, 43	Test (43, technology_burst.jpg)	Harlan	'	Pressed	(any response)	C	3150			undefined
+Main Group	F-55	F-55	End	Test, 20	Test (20, nEed_mUg.jpg)	Harlan	'	Pressed	(any response)	C	1223			undefined
+Main Group	F-55	F-55	End	Test, 16	Test (16, GiraFFe_nEck.jpg)	Cumby	a	Pressed	(any response)	C	765			undefined
+Main Group	F-55	F-55	End	Test, 10	Test (10, destruction_conscience.jpg)	Cumby	a	Pressed	(any response)	C	2224			undefined
+Main Group	F-55	F-55	End	Test, 12	Test (12, feature_dog.jpg)	Cumby	a	Pressed	(any response)	C	650			undefined
+Main Group	F-55	F-55	End	Test, 18	Test (18, hard-to-find_brush.jpg)	Harlan	'	Pressed	(any response)	C	835			undefined
+Main Group	F-55	F-55	End	Test, 31	Test (31, rOSe_ENdUrabLE.jpg)	Cumby	a	Pressed	(any response)	C	938			undefined
+Main Group	F-55	F-55	End	Test, 27	Test (27, QueUe_dApPer.jpg)	Cumby	a	Pressed	(any response)	C	732			undefined
+Main Group	F-55	F-55	End	Test, 9	Test (9, crowd_eat.jpg)	Harlan	'	Pressed	(any response)	C	1004			undefined
+Main Group	F-55	F-55	End	Test, 25	Test (25, prr0teSt_intEnd.jpg)	Cumby	a	Pressed	(any response)	C	552			undefined
+Main Group	F-55	F-55	End	Test, 44	Test (44, technology_circle.jpg)	Cumby	a	Pressed	(any response)	C	1133			undefined
+Main Group	F-55	F-55	End	Test, 33	Test (33, sense_scandalous.jpg)	Harlan	'	Pressed	(any response)	C	723			undefined
+Main Group	F-55	F-55	End	Test, 36	Test (36, simplistic_renew.jpg)	Cumby	a	Pressed	(any response)	C	708			undefined
+Main Group	F-55	F-55	End	Test, 29	Test (29, requirement_circle.jpg)	Cumby	a	Pressed	(any response)	C	877			undefined
+Main Group	F-55	F-55	End	Test, 42	Test (42, tape_drop.jpg)	Harlan	'	Pressed	(any response)	C	1225			undefined
+Main Group	F-55	F-55	End	Test, 21	Test (21, NIce_bOUnCY.jpg)	Cumby	a	Pressed	(any response)	C	613			undefined
+Main Group	F-55	F-55	End	Test, 38	Test (38, source_low.jpg)	Harlan	'	Pressed	(any response)	C	688			undefined
+Main Group	F-55	F-55	End	Test, 40	Test (40, structure_mention.jpg)	Cumby	a	Pressed	(any response)	C	682			undefined
+Main Group	F-55	F-55	End	Test, 41	Test (41, TAMe_ClASSY.jpg)	Cumby	a	Pressed	(any response)	C	2728			undefined
+Main Group	F-55	F-55	End	Test, 26	Test (26, publicity_commemorate.jpg)	Cumby	a	Pressed	(any response)	C	711			undefined
+Main Group	F-55	F-55	End	Test, 2	Test (2, afford_gutter.jpg)	Cumby	a	Pressed	(any response)	C	842			undefined
+Main Group	F-55	F-55	End	Test, 3	Test (3, beach_fur.jpg)	Harlan	'	Pressed	(any response)	C	853			undefined
+Main Group	F-55	F-55	End	Test, 37	Test (37, soap_marble.jpg)	Harlan	'	Pressed	(any response)	C	1093			undefined
+Main Group	F-55	F-55	End	Test, 1	Test (1, abject_urge.jpg)	Harlan	'	Pressed	Cumby; Harlan	C	2317			undefined
+Main Group	F-55	F-55	End	Test, 5	Test (5, boundary_head.jpg)	Harlan	'	Pressed	(any response)	C	1135			undefined
+Main Group	F-55	F-55	End	Test, 6	Test (6, bOunDaRY_sTRanGer.jpg)	Cumby	a	Pressed	(any response)	C	689			undefined
+Main Group	F-55	F-55	End	Test, 35	Test (35, shareholder_air.jpg)	Harlan	'	Pressed	(any response)	C	749			undefined
+Main Group	F-55	F-55	End	Test, 30	Test (30, riddle_grape.jpg)	Harlan	'	Pressed	(any response)	C	3333			undefined
+Main Group	F-55	F-55	End	Test, 22	Test (22, nose_mArrvELouS.jpg)	Harlan	'	Pressed	(any response)	C	747			undefined

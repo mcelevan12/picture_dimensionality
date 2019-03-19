@@ -25,8 +25,9 @@ for(dims in 1:12) {
   for(condition in 1:3) {
     out.file = paste(modeling.dir, conditions[condition], output.files[dims], sep = "/")
     tr = data.matrix(read.csv(paste(pca.dir, conditions[condition], training.files[dims], sep = "/")))
-    probs = array(NA, c(row.buffer, 2, 216))
-    dimnames(probs)[[3]] = paste("o", 1:216, sep = "")
+    
+    probs = array(NA, c(row.buffer, 2, 264))
+    dimnames(probs)[[3]] = paste("o", 1:264, sep = "")
     alphas = array(NA, c(row.buffer, dims))
     colnames(alphas) = paste(rep("a", dims), 1:dims, sep = "")
     ws = array(NA, c(row.buffer, 2, 18))
@@ -54,7 +55,7 @@ for(dims in 1:12) {
           h = h,
           alpha = rep(1, dims), 
           colskip = 3)
-      # TODO permute tr and fix NA's here
+      # TODO fix NA's here
       #also probs needs to be fixed if were permuting tr's
       out = slpALCOVE(st, tr)
       probs[curr.row,,] = out$prob

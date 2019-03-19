@@ -6,6 +6,7 @@ from pandas.plotting import scatter_matrix
 import matplotlib.pyplot as plt
 import os
 import pickle
+import json
 
 def picture_name(label):
   return label[:-4]
@@ -36,7 +37,9 @@ def main():
     sklearn_pca = sklearnPCA(n_components=i)
     std_distance_matrix = StandardScaler().fit_transform(distance_matrix)
     reduced_data = sklearn_pca.fit_transform(std_distance_matrix)
-    with open('../training/reduced_data/PCA' + "{:02d}".format(i) + ".txt", 'wb') as file:
-      pickle.dump(dict(zip(labels, reduced_data)), file)
+    d = dict(zip(labels, reduced_data.tolist()))
+    with open('../training/reduced_data/PCA' + "{:02d}".format(i) + ".json", 'w') as file:
+      json.dump(d, file)
+#      print(json.dumps(d))
 
 main()
